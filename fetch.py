@@ -2,6 +2,7 @@ import os
 import json
 import requests as req
 from datetime import datetime
+from common import get_extensions_history
 
 url = "https://www.raycast.com/api/v1/store_listings?per_page=2000&include_native=true"
 response = req.get(url)
@@ -27,3 +28,9 @@ folder = os.path.join("data", rel_folder)
 os.makedirs(folder, exist_ok=True)
 with open(os.path.join(folder, filename), 'w', encoding="utf8") as f:
     f.write(json.dumps(nd, indent=2))
+
+print("get extension history")
+history = get_extensions_history("data", data=data)
+print("write extension history")
+with open("extensions.json", 'w', encoding="utf8") as f:
+    f.write(json.dumps(history, indent=2))
