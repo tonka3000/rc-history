@@ -2,7 +2,6 @@
   {
     "name": "1loc",
     "previous_days_downloads": [
-      523,
       533,
       535,
       535,
@@ -15,13 +14,13 @@
       569,
       575,
       578,
-      583
+      583,
+      591
     ]
   },
   {
     "name": "1password",
     "previous_days_downloads": [
-      10352,
       10398,
       10435,
       10457,
@@ -34,13 +33,13 @@
       10724,
       10761,
       10810,
-      10862
+      10862,
+      10920
     ]
   },
   {
     "name": "8-ball",
     "previous_days_downloads": [
-      836,
       841,
       844,
       849,
@@ -53,13 +52,13 @@
       892,
       896,
       902,
-      905
+      905,
+      912
     ]
   },
   {
     "name": "airplane",
     "previous_days_downloads": [
-      49,
       56,
       60,
       61,
@@ -72,13 +71,13 @@
       90,
       96,
       104,
-      106
+      106,
+      109
     ]
   },
   {
     "name": "airport",
     "previous_days_downloads": [
-      1141,
       1145,
       1148,
       1149,
@@ -91,13 +90,13 @@
       1166,
       1167,
       1170,
-      1173
+      1173,
+      1177
     ]
   },
   {
     "name": "aws",
     "previous_days_downloads": [
-      1321,
       1330,
       1337,
       1342,
@@ -110,13 +109,13 @@
       1390,
       1397,
       1402,
-      1411
+      1411,
+      1423
     ]
   },
   {
     "name": "amphetamine",
     "previous_days_downloads": [
-      282,
       317,
       338,
       357,
@@ -129,13 +128,13 @@
       534,
       558,
       589,
-      612
+      612,
+      641
     ]
   },
   {
     "name": "android-adb-input",
     "previous_days_downloads": [
-      174,
       174,
       175,
       176,
@@ -148,13 +147,13 @@
       184,
       186,
       191,
-      193
+      193,
+      195
     ]
   },
   {
     "name": "anybox",
     "previous_days_downloads": [
-      56,
       57,
       59,
       59,
@@ -167,13 +166,13 @@
       68,
       68,
       68,
+      68,
       68
     ]
   },
   {
     "name": "apple-maps-search",
     "previous_days_downloads": [
-      514,
       539,
       560,
       570,
@@ -186,13 +185,13 @@
       709,
       735,
       758,
-      776
+      776,
+      798
     ]
   },
   {
     "name": "apple-notes",
     "previous_days_downloads": [
-      7474,
       7546,
       7595,
       7643,
@@ -205,13 +204,13 @@
       8048,
       8110,
       8196,
-      8261
+      8261,
+      8331
     ]
   },
   {
     "name": "asana",
     "previous_days_downloads": [
-      861,
       866,
       872,
       872,
@@ -224,14 +223,14 @@
       901,
       904,
       911,
-      923
+      923,
+      935
     ]
   },
   {
     "name": "asyncapi",
     "previous_days_downloads": [
       43,
-      43,
       44,
       44,
       44,
@@ -242,6 +241,7 @@
       46,
       47,
       47,
+      50,
       50,
       50
     ]
@@ -255,12 +255,12 @@
       23,
       23,
       23,
-      23,
       24,
       24,
       24,
       24,
       24,
+      25,
       25,
       25
     ]
@@ -268,7 +268,6 @@
   {
     "name": "authy",
     "previous_days_downloads": [
-      3143,
       3161,
       3175,
       3184,
@@ -281,13 +280,13 @@
       3313,
       3332,
       3354,
-      3375
+      3375,
+      3384
     ]
   },
   {
     "name": "avatar",
     "previous_days_downloads": [
-      59,
       63,
       63,
       65,
@@ -300,13 +299,13 @@
       93,
       96,
       101,
-      106
+      106,
+      107
     ]
   },
   {
     "name": "banca-d-italia-currency-converter",
     "previous_days_downloads": [
-      170,
       170,
       170,
       171,
@@ -319,13 +318,13 @@
       173,
       173,
       173,
-      173
+      173,
+      176
     ]
   },
   {
     "name": "base64",
     "previous_days_downloads": [
-      3515,
       3536,
       3546,
       3550,
@@ -338,13 +337,13 @@
       3652,
       3663,
       3677,
-      3691
+      3691,
+      3709
     ]
   },
   {
     "name": "bazinga-tools",
     "previous_days_downloads": [
-      120,
       120,
       120,
       120,
@@ -357,13 +356,13 @@
       122,
       123,
       125,
-      125
+      125,
+      126
     ]
   },
   {
     "name": "bear",
     "previous_days_downloads": [
-      1814,
       1823,
       1829,
       1835,
@@ -376,13 +375,13 @@
       1887,
       1897,
       1907,
-      1918
+      1918,
+      1927
     ]
   },
   {
     "name": "betterdiscord-store",
     "previous_days_downloads": [
-      142,
       143,
       145,
       145,
@@ -395,6 +394,7 @@
       149,
       149,
       151,
+      152,
       152
     ]
   },
@@ -412,7 +412,8 @@
       15,
       15,
       18,
-      21
+      21,
+      26
     ]
   },
   {
@@ -426,13 +427,13 @@
       23,
       27,
       30,
-      32
+      32,
+      35
     ]
   },
   {
     "name": "bible",
     "previous_days_downloads": [
-      254,
       257,
       259,
       261,
@@ -445,7 +446,8 @@
       291,
       294,
       296,
-      302
+      302,
+      304
     ]
   },
   {
@@ -456,13 +458,13 @@
       5,
       5,
       6,
+      6,
       6
     ]
   },
   {
     "name": "binance",
     "previous_days_downloads": [
-      583,
       584,
       585,
       585,
@@ -475,13 +477,13 @@
       601,
       601,
       603,
-      605
+      605,
+      606
     ]
   },
   {
     "name": "bing-wallpaper",
     "previous_days_downloads": [
-      192,
       202,
       205,
       207,
@@ -494,13 +496,13 @@
       225,
       228,
       230,
-      233
+      233,
+      237
     ]
   },
   {
     "name": "bitbucket",
     "previous_days_downloads": [
-      780,
       788,
       792,
       792,
@@ -513,13 +515,13 @@
       808,
       811,
       815,
-      821
+      821,
+      827
     ]
   },
   {
     "name": "bitly-url-shortener",
     "previous_days_downloads": [
-      1717,
       1728,
       1734,
       1738,
@@ -532,13 +534,13 @@
       1792,
       1803,
       1812,
-      1818
+      1818,
+      1826
     ]
   },
   {
     "name": "bitrise",
     "previous_days_downloads": [
-      153,
       153,
       153,
       153,
@@ -551,13 +553,13 @@
       155,
       156,
       158,
+      158,
       158
     ]
   },
   {
     "name": "bitwarden",
     "previous_days_downloads": [
-      4239,
       4267,
       4280,
       4298,
@@ -570,13 +572,13 @@
       4451,
       4473,
       4507,
-      4537
+      4537,
+      4567
     ]
   },
   {
     "name": "blockchain-explorer-search",
     "previous_days_downloads": [
-      29,
       32,
       33,
       33,
@@ -589,13 +591,13 @@
       39,
       40,
       41,
+      42,
       42
     ]
   },
   {
     "name": "brave",
     "previous_days_downloads": [
-      1034,
       1045,
       1051,
       1054,
@@ -608,13 +610,13 @@
       1130,
       1141,
       1155,
-      1165
+      1165,
+      1174
     ]
   },
   {
     "name": "brew",
     "previous_days_downloads": [
-      12757,
       12840,
       12911,
       12962,
@@ -627,13 +629,13 @@
       13466,
       13532,
       13640,
-      13729
+      13729,
+      13830
     ]
   },
   {
     "name": "browser-bookmarks",
     "previous_days_downloads": [
-      3127,
       3144,
       3158,
       3171,
@@ -646,13 +648,13 @@
       3283,
       3298,
       3320,
-      3338
+      3338,
+      3360
     ]
   },
   {
     "name": "bttv-emote",
     "previous_days_downloads": [
-      140,
       141,
       141,
       141,
@@ -665,13 +667,13 @@
       147,
       148,
       150,
+      150,
       150
     ]
   },
   {
     "name": "bugmenot",
     "previous_days_downloads": [
-      469,
       469,
       469,
       473,
@@ -684,13 +686,13 @@
       483,
       485,
       487,
-      490
+      490,
+      492
     ]
   },
   {
     "name": "buildkite",
     "previous_days_downloads": [
-      137,
       140,
       141,
       142,
@@ -703,13 +705,13 @@
       143,
       143,
       143,
+      143,
       143
     ]
   },
   {
     "name": "bunch",
     "previous_days_downloads": [
-      10,
       16,
       18,
       24,
@@ -722,13 +724,13 @@
       52,
       54,
       56,
-      59
+      59,
+      61
     ]
   },
   {
     "name": "bundesliga",
     "previous_days_downloads": [
-      49,
       49,
       49,
       49,
@@ -741,13 +743,13 @@
       53,
       53,
       54,
-      55
+      55,
+      56
     ]
   },
   {
     "name": "bundlephobia-search",
     "previous_days_downloads": [
-      80,
       82,
       85,
       85,
@@ -760,13 +762,13 @@
       92,
       94,
       95,
-      96
+      96,
+      97
     ]
   },
   {
     "name": "cache-control-builder",
     "previous_days_downloads": [
-      52,
       53,
       54,
       54,
@@ -779,13 +781,13 @@
       57,
       57,
       58,
-      59
+      59,
+      61
     ]
   },
   {
     "name": "calendly",
     "previous_days_downloads": [
-      814,
       818,
       818,
       819,
@@ -798,13 +800,13 @@
       837,
       838,
       845,
-      846
+      846,
+      849
     ]
   },
   {
     "name": "can-i-use",
     "previous_days_downloads": [
-      2648,
       2664,
       2674,
       2682,
@@ -817,13 +819,13 @@
       2749,
       2755,
       2774,
-      2786
+      2786,
+      2799
     ]
   },
   {
     "name": "canvascast",
     "previous_days_downloads": [
-      248,
       250,
       250,
       251,
@@ -836,13 +838,13 @@
       254,
       254,
       254,
+      254,
       254
     ]
   },
   {
     "name": "capture-fullpage-of-website",
     "previous_days_downloads": [
-      10,
       28,
       41,
       48,
@@ -855,13 +857,13 @@
       119,
       130,
       136,
-      142
+      142,
+      152
     ]
   },
   {
     "name": "capture-raycast-metadata",
     "previous_days_downloads": [
-      92,
       95,
       97,
       97,
@@ -874,13 +876,13 @@
       107,
       107,
       109,
+      111,
       111
     ]
   },
   {
     "name": "chakra-ui-docs",
     "previous_days_downloads": [
-      223,
       225,
       229,
       229,
@@ -893,13 +895,13 @@
       234,
       235,
       235,
-      235
+      235,
+      236
     ]
   },
   {
     "name": "change-case",
     "previous_days_downloads": [
-      2983,
       2994,
       3002,
       3011,
@@ -912,13 +914,13 @@
       3081,
       3095,
       3113,
-      3126
+      3126,
+      3136
     ]
   },
   {
     "name": "change-scroll-direction",
     "previous_days_downloads": [
-      366,
       369,
       371,
       371,
@@ -931,13 +933,13 @@
       381,
       383,
       385,
+      388,
       388
     ]
   },
   {
     "name": "cheatsheets",
     "previous_days_downloads": [
-      3045,
       3075,
       3091,
       3103,
@@ -950,13 +952,13 @@
       3235,
       3256,
       3288,
-      3305
+      3305,
+      3323
     ]
   },
   {
     "name": "chess-com",
     "previous_days_downloads": [
-      30,
       33,
       33,
       36,
@@ -968,6 +970,7 @@
       47,
       48,
       49,
+      51,
       51,
       51
     ]
@@ -983,13 +986,13 @@
       7,
       9,
       11,
-      13
+      13,
+      15
     ]
   },
   {
     "name": "choose-a-license",
     "previous_days_downloads": [
-      118,
       120,
       123,
       125,
@@ -1002,13 +1005,13 @@
       135,
       136,
       137,
-      138
+      138,
+      140
     ]
   },
   {
     "name": "circle-ci",
     "previous_days_downloads": [
-      273,
       274,
       274,
       275,
@@ -1021,13 +1024,13 @@
       281,
       281,
       283,
+      283,
       283
     ]
   },
   {
     "name": "citation-generator",
     "previous_days_downloads": [
-      87,
       91,
       92,
       95,
@@ -1040,13 +1043,13 @@
       105,
       106,
       109,
-      110
+      110,
+      112
     ]
   },
   {
     "name": "clash",
     "previous_days_downloads": [
-      617,
       620,
       622,
       625,
@@ -1059,13 +1062,13 @@
       641,
       641,
       643,
+      644,
       644
     ]
   },
   {
     "name": "cleanshotx",
     "previous_days_downloads": [
-      4309,
       4328,
       4347,
       4361,
@@ -1078,13 +1081,13 @@
       4528,
       4558,
       4590,
-      4616
+      4616,
+      4647
     ]
   },
   {
     "name": "clear-clipboard",
     "previous_days_downloads": [
-      516,
       521,
       523,
       531,
@@ -1097,13 +1100,13 @@
       561,
       565,
       570,
-      575
+      575,
+      577
     ]
   },
   {
     "name": "manage-clickup-tasks",
     "previous_days_downloads": [
-      656,
       659,
       660,
       665,
@@ -1116,13 +1119,13 @@
       702,
       707,
       715,
-      719
+      719,
+      724
     ]
   },
   {
     "name": "clockify",
     "previous_days_downloads": [
-      576,
       581,
       585,
       586,
@@ -1135,13 +1138,13 @@
       600,
       602,
       603,
-      604
+      604,
+      607
     ]
   },
   {
     "name": "cloudflare",
     "previous_days_downloads": [
-      498,
       501,
       503,
       504,
@@ -1154,7 +1157,8 @@
       532,
       534,
       542,
-      548
+      548,
+      554
     ]
   },
   {
@@ -1165,13 +1169,13 @@
       5,
       9,
       13,
-      13
+      13,
+      14
     ]
   },
   {
     "name": "code-stash",
     "previous_days_downloads": [
-      28,
       31,
       34,
       34,
@@ -1184,13 +1188,13 @@
       46,
       46,
       47,
-      48
+      48,
+      51
     ]
   },
   {
     "name": "coffee",
     "previous_days_downloads": [
-      3997,
       4014,
       4025,
       4035,
@@ -1203,13 +1207,13 @@
       4162,
       4169,
       4191,
-      4206
+      4206,
+      4228
     ]
   },
   {
     "name": "coinbase-pro",
     "previous_days_downloads": [
-      187,
       188,
       188,
       188,
@@ -1222,13 +1226,13 @@
       193,
       194,
       194,
-      194
+      194,
+      195
     ]
   },
   {
     "name": "coingecko",
     "previous_days_downloads": [
-      611,
       615,
       616,
       618,
@@ -1241,13 +1245,13 @@
       631,
       635,
       638,
-      643
+      643,
+      644
     ]
   },
   {
     "name": "coinmarketcap-crypto-price-crawler",
     "previous_days_downloads": [
-      1554,
       1562,
       1569,
       1569,
@@ -1260,13 +1264,13 @@
       1593,
       1597,
       1598,
-      1602
+      1602,
+      1607
     ]
   },
   {
     "name": "coinpaprika",
     "previous_days_downloads": [
-      72,
       73,
       73,
       73,
@@ -1279,13 +1283,13 @@
       76,
       77,
       78,
-      79
+      79,
+      80
     ]
   },
   {
     "name": "color-casket",
     "previous_days_downloads": [
-      550,
       560,
       567,
       568,
@@ -1298,13 +1302,13 @@
       617,
       626,
       641,
-      646
+      646,
+      657
     ]
   },
   {
     "name": "commitlint",
     "previous_days_downloads": [
-      696,
       701,
       703,
       705,
@@ -1317,13 +1321,13 @@
       722,
       724,
       733,
-      734
+      734,
+      736
     ]
   },
   {
     "name": "common-directory",
     "previous_days_downloads": [
-      186,
       190,
       192,
       195,
@@ -1336,13 +1340,13 @@
       208,
       213,
       214,
+      215,
       215
     ]
   },
   {
     "name": "search-composer-packagist",
     "previous_days_downloads": [
-      199,
       201,
       201,
       202,
@@ -1355,13 +1359,13 @@
       206,
       206,
       208,
+      209,
       209
     ]
   },
   {
     "name": "confluence-search",
     "previous_days_downloads": [
-      1339,
       1350,
       1355,
       1361,
@@ -1374,13 +1378,13 @@
       1414,
       1423,
       1441,
-      1453
+      1453,
+      1470
     ]
   },
   {
     "name": "connect-to-vpn",
     "previous_days_downloads": [
-      821,
       826,
       830,
       831,
@@ -1393,13 +1397,13 @@
       873,
       879,
       889,
-      895
+      895,
+      907
     ]
   },
   {
     "name": "consoledev",
     "previous_days_downloads": [
-      1042,
       1043,
       1045,
       1046,
@@ -1412,13 +1416,13 @@
       1066,
       1067,
       1072,
-      1079
+      1079,
+      1080
     ]
   },
   {
     "name": "conventional-comments",
     "previous_days_downloads": [
-      482,
       484,
       485,
       486,
@@ -1431,13 +1435,13 @@
       489,
       490,
       495,
-      495
+      495,
+      496
     ]
   },
   {
     "name": "converter",
     "previous_days_downloads": [
-      136,
       139,
       141,
       143,
@@ -1450,7 +1454,8 @@
       162,
       164,
       167,
-      169
+      169,
+      173
     ]
   },
   {
@@ -1467,15 +1472,14 @@
       107,
       107,
       107,
-      107,
       108,
-      109
+      109,
+      110
     ]
   },
   {
     "name": "copy-path",
     "previous_days_downloads": [
-      621,
       635,
       641,
       641,
@@ -1488,13 +1492,13 @@
       704,
       720,
       725,
-      736
+      736,
+      744
     ]
   },
   {
     "name": "country-lookup",
     "previous_days_downloads": [
-      58,
       66,
       67,
       69,
@@ -1507,13 +1511,13 @@
       80,
       85,
       89,
-      94
+      94,
+      96
     ]
   },
   {
     "name": "cpf-cnpj-generator",
     "previous_days_downloads": [
-      97,
       97,
       97,
       97,
@@ -1526,13 +1530,13 @@
       103,
       103,
       104,
+      105,
       105
     ]
   },
   {
     "name": "craftdocs",
     "previous_days_downloads": [
-      437,
       450,
       462,
       468,
@@ -1545,13 +1549,13 @@
       533,
       545,
       566,
-      582
+      582,
+      585
     ]
   },
   {
     "name": "cratecast",
     "previous_days_downloads": [
-      330,
       330,
       333,
       334,
@@ -1564,13 +1568,13 @@
       344,
       344,
       345,
+      347,
       347
     ]
   },
   {
     "name": "cricketcast",
     "previous_days_downloads": [
-      152,
       154,
       154,
       154,
@@ -1583,13 +1587,13 @@
       158,
       158,
       161,
+      164,
       164
     ]
   },
   {
     "name": "css-calculations",
     "previous_days_downloads": [
-      2,
       7,
       12,
       13,
@@ -1602,13 +1606,13 @@
       34,
       36,
       39,
-      41
+      41,
+      48
     ]
   },
   {
     "name": "css-gg",
     "previous_days_downloads": [
-      594,
       595,
       596,
       597,
@@ -1621,13 +1625,13 @@
       609,
       611,
       612,
-      614
+      614,
+      615
     ]
   },
   {
     "name": "currency-exchange",
     "previous_days_downloads": [
-      84,
       90,
       96,
       105,
@@ -1640,13 +1644,13 @@
       159,
       171,
       184,
-      195
+      195,
+      210
     ]
   },
   {
     "name": "cyberduck",
     "previous_days_downloads": [
-      299,
       303,
       305,
       307,
@@ -1659,13 +1663,13 @@
       324,
       324,
       325,
-      327
+      327,
+      329
     ]
   },
   {
     "name": "cypress-docs",
     "previous_days_downloads": [
-      42,
       42,
       43,
       43,
@@ -1678,13 +1682,13 @@
       47,
       47,
       48,
+      48,
       48
     ]
   },
   {
     "name": "dash",
     "previous_days_downloads": [
-      3553,
       3566,
       3583,
       3589,
@@ -1697,13 +1701,13 @@
       3696,
       3709,
       3723,
-      3741
+      3741,
+      3765
     ]
   },
   {
     "name": "raycast-datadog",
     "previous_days_downloads": [
-      279,
       284,
       286,
       286,
@@ -1716,13 +1720,13 @@
       303,
       305,
       309,
-      313
+      313,
+      317
     ]
   },
   {
     "name": "date-format-converter",
     "previous_days_downloads": [
-      359,
       365,
       367,
       370,
@@ -1735,13 +1739,13 @@
       387,
       389,
       391,
-      392
+      392,
+      396
     ]
   },
   {
     "name": "days-until-christmas",
     "previous_days_downloads": [
-      284,
       285,
       286,
       286,
@@ -1754,14 +1758,15 @@
       290,
       290,
       290,
-      292
+      292,
+      293
     ]
   },
   {
     "name": "dbtcloud",
     "previous_days_downloads": [
-      23,
       24,
+      25,
       25,
       25,
       25,
@@ -1779,7 +1784,6 @@
   {
     "name": "debank",
     "previous_days_downloads": [
-      76,
       77,
       77,
       77,
@@ -1792,13 +1796,13 @@
       77,
       77,
       78,
+      78,
       78
     ]
   },
   {
     "name": "deepcast",
     "previous_days_downloads": [
-      4499,
       4512,
       4527,
       4533,
@@ -1811,7 +1815,8 @@
       4659,
       4674,
       4699,
-      4718
+      4718,
+      4746
     ]
   },
   {
@@ -1856,7 +1861,6 @@
     "name": "designer-news",
     "previous_days_downloads": [
       223,
-      223,
       224,
       225,
       225,
@@ -1868,13 +1872,13 @@
       230,
       231,
       233,
-      234
+      234,
+      235
     ]
   },
   {
     "name": "devdocs",
     "previous_days_downloads": [
-      1254,
       1259,
       1262,
       1263,
@@ -1887,7 +1891,8 @@
       1292,
       1300,
       1306,
-      1308
+      1308,
+      1314
     ]
   },
   {
@@ -1897,7 +1902,6 @@
       27,
       27,
       27,
-      27,
       28,
       28,
       28,
@@ -1906,13 +1910,13 @@
       30,
       30,
       30,
+      31,
       31
     ]
   },
   {
     "name": "dict-cc",
     "previous_days_downloads": [
-      196,
       199,
       201,
       201,
@@ -1925,13 +1929,13 @@
       219,
       222,
       226,
-      229
+      229,
+      233
     ]
   },
   {
     "name": "diff-checker",
     "previous_days_downloads": [
-      1109,
       1116,
       1123,
       1130,
@@ -1944,13 +1948,13 @@
       1174,
       1180,
       1189,
-      1199
+      1199,
+      1207
     ]
   },
   {
     "name": "dig",
     "previous_days_downloads": [
-      223,
       230,
       233,
       234,
@@ -1963,13 +1967,13 @@
       255,
       258,
       265,
-      268
+      268,
+      270
     ]
   },
   {
     "name": "discord",
     "previous_days_downloads": [
-      260,
       264,
       266,
       267,
@@ -1982,13 +1986,13 @@
       290,
       297,
       308,
-      314
+      314,
+      321
     ]
   },
   {
     "name": "discordjs-documentation",
     "previous_days_downloads": [
-      15,
       15,
       16,
       16,
@@ -2001,13 +2005,13 @@
       20,
       21,
       21,
-      22
+      22,
+      23
     ]
   },
   {
     "name": "displayplacer",
     "previous_days_downloads": [
-      1222,
       1228,
       1233,
       1237,
@@ -2020,13 +2024,13 @@
       1267,
       1273,
       1279,
-      1279
+      1279,
+      1284
     ]
   },
   {
     "name": "dock",
     "previous_days_downloads": [
-      209,
       210,
       215,
       218,
@@ -2039,13 +2043,13 @@
       229,
       231,
       235,
-      238
+      238,
+      239
     ]
   },
   {
     "name": "docker",
     "previous_days_downloads": [
-      3447,
       3469,
       3478,
       3485,
@@ -2058,13 +2062,13 @@
       3589,
       3603,
       3628,
-      3643
+      3643,
+      3660
     ]
   },
   {
     "name": "dockerhub",
     "previous_days_downloads": [
-      770,
       775,
       777,
       777,
@@ -2077,13 +2081,13 @@
       806,
       812,
       813,
-      822
+      822,
+      831
     ]
   },
   {
     "name": "dock-tinker",
     "previous_days_downloads": [
-      149,
       150,
       152,
       154,
@@ -2096,13 +2100,13 @@
       174,
       184,
       187,
-      191
+      191,
+      195
     ]
   },
   {
     "name": "domainr",
     "previous_days_downloads": [
-      588,
       590,
       590,
       590,
@@ -2115,13 +2119,13 @@
       597,
       601,
       603,
-      605
+      605,
+      606
     ]
   },
   {
     "name": "doppler-share-secrets",
     "previous_days_downloads": [
-      403,
       405,
       407,
       407,
@@ -2134,13 +2138,13 @@
       414,
       414,
       416,
+      418,
       418
     ]
   },
   {
     "name": "dot-new",
     "previous_days_downloads": [
-      95,
       97,
       98,
       98,
@@ -2153,13 +2157,13 @@
       100,
       100,
       102,
-      102
+      102,
+      104
     ]
   },
   {
     "name": "drafts",
     "previous_days_downloads": [
-      162,
       175,
       183,
       189,
@@ -2172,13 +2176,13 @@
       251,
       257,
       262,
-      267
+      267,
+      275
     ]
   },
   {
     "name": "dribbble",
     "previous_days_downloads": [
-      162,
       166,
       178,
       186,
@@ -2191,13 +2195,13 @@
       252,
       259,
       273,
-      282
+      282,
+      293
     ]
   },
   {
     "name": "dropbox",
     "previous_days_downloads": [
-      390,
       394,
       400,
       402,
@@ -2210,13 +2214,13 @@
       434,
       442,
       451,
-      459
+      459,
+      465
     ]
   },
   {
     "name": "eagle",
     "previous_days_downloads": [
-      119,
       121,
       122,
       125,
@@ -2229,7 +2233,8 @@
       137,
       137,
       141,
-      141
+      141,
+      143
     ]
   },
   {
@@ -2247,13 +2252,13 @@
       53,
       56,
       63,
-      68
+      68,
+      75
     ]
   },
   {
     "name": "easy-new-file",
     "previous_days_downloads": [
-      351,
       355,
       356,
       358,
@@ -2266,13 +2271,13 @@
       380,
       384,
       386,
-      392
+      392,
+      394
     ]
   },
   {
     "name": "element",
     "previous_days_downloads": [
-      105,
       106,
       106,
       106,
@@ -2285,13 +2290,13 @@
       109,
       110,
       114,
-      115
+      115,
+      118
     ]
   },
   {
     "name": "elgato-key-light",
     "previous_days_downloads": [
-      351,
       352,
       352,
       352,
@@ -2304,6 +2309,7 @@
       362,
       364,
       366,
+      370,
       370
     ]
   },
@@ -2314,7 +2320,7 @@
       38,
       38,
       38,
-      38,
+      39,
       39,
       39,
       39,
@@ -2329,7 +2335,6 @@
   {
     "name": "emoji",
     "previous_days_downloads": [
-      7486,
       7505,
       7519,
       7528,
@@ -2342,13 +2347,13 @@
       7648,
       7674,
       7701,
-      7720
+      7720,
+      7741
     ]
   },
   {
     "name": "encoding-tools",
     "previous_days_downloads": [
-      268,
       271,
       277,
       279,
@@ -2361,7 +2366,8 @@
       299,
       302,
       307,
-      316
+      316,
+      322
     ]
   },
   {
@@ -2378,6 +2384,7 @@
       7,
       7,
       7,
+      7,
       7
     ]
   },
@@ -2385,11 +2392,11 @@
     "name": "ens-name-lookup",
     "previous_days_downloads": [
       268,
-      268,
       270,
       270,
       270,
       271,
+      272,
       272,
       272,
       272,
@@ -2422,7 +2429,6 @@
   {
     "name": "ethereum-utils",
     "previous_days_downloads": [
-      105,
       106,
       106,
       106,
@@ -2435,7 +2441,8 @@
       107,
       108,
       108,
-      108
+      108,
+      109
     ]
   },
   {
@@ -2454,13 +2461,12 @@
       125,
       125,
       125,
-      125
+      127
     ]
   },
   {
     "name": "facetime",
     "previous_days_downloads": [
-      1687,
       1699,
       1706,
       1711,
@@ -2473,7 +2479,8 @@
       1818,
       1840,
       1849,
-      1866
+      1866,
+      1875
     ]
   },
   {
@@ -2483,13 +2490,13 @@
       3,
       3,
       4,
-      5
+      5,
+      7
     ]
   },
   {
     "name": "fibonacci-sequence",
     "previous_days_downloads": [
-      31,
       31,
       31,
       31,
@@ -2502,13 +2509,13 @@
       37,
       38,
       39,
-      41
+      41,
+      42
     ]
   },
   {
     "name": "figma-files-raycast-extension",
     "previous_days_downloads": [
-      4041,
       4053,
       4068,
       4072,
@@ -2521,13 +2528,13 @@
       4163,
       4171,
       4192,
-      4210
+      4210,
+      4229
     ]
   },
   {
     "name": "file-manager",
     "previous_days_downloads": [
-      4499,
       4524,
       4536,
       4553,
@@ -2540,7 +2547,8 @@
       4696,
       4721,
       4751,
-      4771
+      4771,
+      4796
     ]
   },
   {
@@ -2548,11 +2556,11 @@
     "previous_days_downloads": [
       29,
       29,
-      29,
       30,
       30,
       30,
       30,
+      31,
       31,
       31,
       31,
@@ -2569,7 +2577,6 @@
       16,
       16,
       16,
-      16,
       17,
       17,
       17,
@@ -2578,13 +2585,13 @@
       19,
       19,
       19,
-      19
+      19,
+      20
     ]
   },
   {
     "name": "flow",
     "previous_days_downloads": [
-      1602,
       1606,
       1609,
       1617,
@@ -2597,13 +2604,13 @@
       1673,
       1680,
       1691,
-      1698
+      1698,
+      1700
     ]
   },
   {
     "name": "flutter-documentation-search",
     "previous_days_downloads": [
-      172,
       172,
       173,
       173,
@@ -2616,7 +2623,8 @@
       184,
       185,
       186,
-      187
+      187,
+      190
     ]
   },
   {
@@ -2641,7 +2649,6 @@
   {
     "name": "fork-repositories",
     "previous_days_downloads": [
-      451,
       457,
       458,
       458,
@@ -2654,13 +2661,13 @@
       472,
       475,
       479,
-      482
+      482,
+      484
     ]
   },
   {
     "name": "format-graphql",
     "previous_days_downloads": [
-      81,
       82,
       85,
       85,
@@ -2673,13 +2680,13 @@
       89,
       89,
       90,
+      91,
       91
     ]
   },
   {
     "name": "json-format",
     "previous_days_downloads": [
-      2969,
       2986,
       3007,
       3019,
@@ -2692,13 +2699,13 @@
       3129,
       3138,
       3157,
-      3176
+      3176,
+      3200
     ]
   },
   {
     "name": "f1-standings",
     "previous_days_downloads": [
-      885,
       892,
       899,
       902,
@@ -2711,7 +2718,8 @@
       927,
       929,
       934,
-      939
+      939,
+      943
     ]
   },
   {
@@ -2724,11 +2732,11 @@
       16,
       16,
       16,
-      16,
       17,
       17,
       17,
       17,
+      18,
       18,
       18
     ]
@@ -2742,13 +2750,13 @@
       7,
       7,
       10,
-      11
+      11,
+      12
     ]
   },
   {
     "name": "geohash-encode-decode",
     "previous_days_downloads": [
-      76,
       78,
       78,
       78,
@@ -2761,13 +2769,13 @@
       80,
       80,
       81,
+      81,
       81
     ]
   },
   {
     "name": "gif-search",
     "previous_days_downloads": [
-      3166,
       3186,
       3201,
       3208,
@@ -2780,14 +2788,14 @@
       3326,
       3335,
       3351,
-      3361
+      3361,
+      3378
     ]
   },
   {
     "name": "gitee",
     "previous_days_downloads": [
       8,
-      8,
       9,
       9,
       9,
@@ -2796,6 +2804,7 @@
       11,
       11,
       11,
+      12,
       12,
       12,
       12,
@@ -2816,15 +2825,14 @@
       66,
       66,
       66,
-      66,
       69,
+      70,
       70
     ]
   },
   {
     "name": "github",
     "previous_days_downloads": [
-      6152,
       6187,
       6215,
       6231,
@@ -2837,13 +2845,13 @@
       6417,
       6440,
       6483,
-      6522
+      6522,
+      6563
     ]
   },
   {
     "name": "github-for-enterprise",
     "previous_days_downloads": [
-      891,
       896,
       904,
       906,
@@ -2856,13 +2864,13 @@
       939,
       940,
       946,
-      947
+      947,
+      953
     ]
   },
   {
     "name": "github-gist",
     "previous_days_downloads": [
-      353,
       356,
       360,
       361,
@@ -2875,13 +2883,13 @@
       386,
       387,
       394,
-      397
+      397,
+      405
     ]
   },
   {
     "name": "github-repository-search",
     "previous_days_downloads": [
-      2662,
       2676,
       2687,
       2694,
@@ -2894,13 +2902,13 @@
       2750,
       2759,
       2765,
-      2772
+      2772,
+      2782
     ]
   },
   {
     "name": "github-review-requests",
     "previous_days_downloads": [
-      174,
       177,
       179,
       180,
@@ -2913,13 +2921,13 @@
       195,
       198,
       202,
-      204
+      204,
+      209
     ]
   },
   {
     "name": "search-github-stars",
     "previous_days_downloads": [
-      874,
       877,
       878,
       878,
@@ -2932,13 +2940,13 @@
       898,
       901,
       904,
-      905
+      905,
+      911
     ]
   },
   {
     "name": "github-status",
     "previous_days_downloads": [
-      171,
       176,
       178,
       178,
@@ -2951,13 +2959,13 @@
       185,
       186,
       188,
-      190
+      190,
+      192
     ]
   },
   {
     "name": "gitignore",
     "previous_days_downloads": [
-      420,
       428,
       431,
       432,
@@ -2970,13 +2978,13 @@
       456,
       457,
       463,
-      468
+      468,
+      473
     ]
   },
   {
     "name": "gitlab",
     "previous_days_downloads": [
-      2547,
       2565,
       2580,
       2583,
@@ -2989,13 +2997,13 @@
       2652,
       2663,
       2679,
-      2697
+      2697,
+      2713
     ]
   },
   {
     "name": "gitmoji",
     "previous_days_downloads": [
-      787,
       788,
       789,
       789,
@@ -3008,13 +3016,13 @@
       804,
       805,
       805,
-      806
+      806,
+      807
     ]
   },
   {
     "name": "git-repos",
     "previous_days_downloads": [
-      2685,
       2696,
       2704,
       2706,
@@ -3027,13 +3035,13 @@
       2760,
       2767,
       2784,
-      2791
+      2791,
+      2804
     ]
   },
   {
     "name": "google-books",
     "previous_days_downloads": [
-      152,
       153,
       154,
       155,
@@ -3046,13 +3054,13 @@
       166,
       168,
       168,
-      168
+      168,
+      169
     ]
   },
   {
     "name": "google-chrome",
     "previous_days_downloads": [
-      5464,
       5497,
       5523,
       5542,
@@ -3065,13 +3073,13 @@
       5758,
       5789,
       5824,
-      5859
+      5859,
+      5900
     ]
   },
   {
     "name": "google-chrome-profiles",
     "previous_days_downloads": [
-      1182,
       1189,
       1194,
       1201,
@@ -3084,13 +3092,13 @@
       1242,
       1249,
       1264,
-      1272
+      1272,
+      1282
     ]
   },
   {
     "name": "gcp-search",
     "previous_days_downloads": [
-      240,
       243,
       245,
       245,
@@ -3103,13 +3111,13 @@
       251,
       253,
       253,
-      256
+      256,
+      258
     ]
   },
   {
     "name": "google-drive",
     "previous_days_downloads": [
-      998,
       1022,
       1036,
       1053,
@@ -3122,13 +3130,13 @@
       1204,
       1232,
       1265,
-      1283
+      1283,
+      1308
     ]
   },
   {
     "name": "google-maps-search",
     "previous_days_downloads": [
-      3168,
       3187,
       3199,
       3216,
@@ -3141,7 +3149,8 @@
       3346,
       3366,
       3388,
-      3416
+      3416,
+      3443
     ]
   },
   {
@@ -3157,16 +3166,15 @@
       16,
       16,
       16,
-      16,
       17,
       18,
+      19,
       19
     ]
   },
   {
     "name": "google-meet",
     "previous_days_downloads": [
-      1335,
       1351,
       1361,
       1368,
@@ -3179,13 +3187,13 @@
       1458,
       1469,
       1489,
-      1501
+      1501,
+      1519
     ]
   },
   {
     "name": "google-search",
     "previous_days_downloads": [
-      4241,
       4277,
       4313,
       4341,
@@ -3198,13 +3206,13 @@
       4641,
       4678,
       4730,
-      4775
+      4775,
+      4822
     ]
   },
   {
     "name": "translate",
     "previous_days_downloads": [
-      13271,
       13380,
       13465,
       13543,
@@ -3217,13 +3225,13 @@
       14289,
       14392,
       14526,
-      14640
+      14640,
+      14759
     ]
   },
   {
     "name": "google-trends",
     "previous_days_downloads": [
-      984,
       985,
       985,
       990,
@@ -3236,13 +3244,13 @@
       1010,
       1013,
       1019,
-      1023
+      1023,
+      1027
     ]
   },
   {
     "name": "google-workspace",
     "previous_days_downloads": [
-      2706,
       2718,
       2725,
       2734,
@@ -3255,13 +3263,13 @@
       2806,
       2811,
       2830,
-      2847
+      2847,
+      2862
     ]
   },
   {
     "name": "go-package-search",
     "previous_days_downloads": [
-      106,
       109,
       110,
       111,
@@ -3274,13 +3282,13 @@
       119,
       119,
       123,
-      125
+      125,
+      126
     ]
   },
   {
     "name": "gopass",
     "previous_days_downloads": [
-      2,
       4,
       4,
       4,
@@ -3293,13 +3301,13 @@
       7,
       7,
       7,
+      9,
       9
     ]
   },
   {
     "name": "grafana",
     "previous_days_downloads": [
-      201,
       201,
       201,
       201,
@@ -3312,7 +3320,8 @@
       206,
       206,
       207,
-      211
+      211,
+      214
     ]
   },
   {
@@ -3337,7 +3346,6 @@
   {
     "name": "hacker-news",
     "previous_days_downloads": [
-      2436,
       2450,
       2456,
       2464,
@@ -3350,13 +3358,13 @@
       2512,
       2519,
       2526,
-      2535
+      2535,
+      2544
     ]
   },
   {
     "name": "harvest",
     "previous_days_downloads": [
-      325,
       327,
       329,
       330,
@@ -3369,13 +3377,13 @@
       336,
       337,
       340,
-      343
+      343,
+      347
     ]
   },
   {
     "name": "hashnode",
     "previous_days_downloads": [
-      63,
       63,
       64,
       64,
@@ -3388,13 +3396,13 @@
       66,
       66,
       68,
-      68
+      68,
+      70
     ]
   },
   {
     "name": "hazeover",
     "previous_days_downloads": [
-      451,
       452,
       452,
       453,
@@ -3407,7 +3415,8 @@
       461,
       466,
       468,
-      470
+      470,
+      471
     ]
   },
   {
@@ -3424,7 +3433,7 @@
       7,
       7,
       7,
-      7,
+      8,
       8,
       8
     ]
@@ -3432,7 +3441,6 @@
   {
     "name": "hellonext-wallpapers",
     "previous_days_downloads": [
-      92,
       94,
       95,
       96,
@@ -3445,13 +3453,13 @@
       104,
       106,
       109,
-      109
+      109,
+      110
     ]
   },
   {
     "name": "helm-docs",
     "previous_days_downloads": [
-      79,
       80,
       81,
       81,
@@ -3464,13 +3472,13 @@
       83,
       83,
       84,
-      86
+      86,
+      87
     ]
   },
   {
     "name": "heroku",
     "previous_days_downloads": [
-      87,
       87,
       87,
       89,
@@ -3483,13 +3491,13 @@
       102,
       105,
       106,
-      106
+      106,
+      108
     ]
   },
   {
     "name": "hexlify",
     "previous_days_downloads": [
-      225,
       225,
       226,
       226,
@@ -3502,13 +3510,13 @@
       230,
       230,
       232,
+      232,
       232
     ]
   },
   {
     "name": "hidden-icons",
     "previous_days_downloads": [
-      43,
       44,
       44,
       44,
@@ -3521,13 +3529,13 @@
       45,
       45,
       46,
+      46,
       46
     ]
   },
   {
     "name": "hide-files",
     "previous_days_downloads": [
-      138,
       140,
       140,
       142,
@@ -3540,13 +3548,13 @@
       153,
       156,
       158,
-      162
+      162,
+      163
     ]
   },
   {
     "name": "hide-mail",
     "previous_days_downloads": [
-      69,
       70,
       70,
       70,
@@ -3559,13 +3567,13 @@
       74,
       74,
       76,
+      77,
       77
     ]
   },
   {
     "name": "holodex",
     "previous_days_downloads": [
-      11,
       11,
       13,
       13,
@@ -3578,13 +3586,13 @@
       15,
       15,
       16,
+      16,
       16
     ]
   },
   {
     "name": "homeassistant",
     "previous_days_downloads": [
-      1656,
       1664,
       1671,
       1676,
@@ -3597,13 +3605,13 @@
       1718,
       1728,
       1735,
-      1748
+      1748,
+      1756
     ]
   },
   {
     "name": "hostloc",
     "previous_days_downloads": [
-      1,
       2,
       2,
       2,
@@ -3616,13 +3624,13 @@
       4,
       4,
       5,
+      5,
       5
     ]
   },
   {
     "name": "howlongtobeat",
     "previous_days_downloads": [
-      85,
       87,
       88,
       91,
@@ -3635,13 +3643,13 @@
       96,
       96,
       96,
-      97
+      97,
+      99
     ]
   },
   {
     "name": "http-status-codes",
     "previous_days_downloads": [
-      860,
       874,
       884,
       890,
@@ -3654,13 +3662,13 @@
       948,
       955,
       959,
-      970
+      970,
+      985
     ]
   },
   {
     "name": "huggingcast",
     "previous_days_downloads": [
-      205,
       207,
       207,
       208,
@@ -3673,20 +3681,21 @@
       212,
       212,
       213,
-      213
+      213,
+      214
     ]
   },
   {
     "name": "hypersonic",
     "previous_days_downloads": [
       9,
-      22
+      22,
+      33
     ]
   },
   {
     "name": "iata-code-decoder",
     "previous_days_downloads": [
-      69,
       70,
       70,
       72,
@@ -3699,13 +3708,13 @@
       75,
       76,
       76,
-      76
+      76,
+      78
     ]
   },
   {
     "name": "iconify",
     "previous_days_downloads": [
-      435,
       438,
       439,
       439,
@@ -3718,7 +3727,8 @@
       455,
       460,
       467,
-      473
+      473,
+      480
     ]
   },
   {
@@ -3729,13 +3739,13 @@
       31,
       41,
       51,
-      59
+      59,
+      67
     ]
   },
   {
     "name": "imdb",
     "previous_days_downloads": [
-      1734,
       1743,
       1750,
       1755,
@@ -3748,13 +3758,13 @@
       1817,
       1830,
       1849,
-      1855
+      1855,
+      1863
     ]
   },
   {
     "name": "inertiajs-documentation",
     "previous_days_downloads": [
-      93,
       94,
       94,
       94,
@@ -3767,13 +3777,13 @@
       96,
       96,
       96,
+      97,
       97
     ]
   },
   {
     "name": "ip-geolocation",
     "previous_days_downloads": [
-      307,
       309,
       315,
       317,
@@ -3786,13 +3796,13 @@
       347,
       350,
       357,
-      360
+      360,
+      365
     ]
   },
   {
     "name": "iptv",
     "previous_days_downloads": [
-      134,
       134,
       135,
       135,
@@ -3805,19 +3815,20 @@
       147,
       148,
       148,
-      148
+      148,
+      149
     ]
   },
   {
     "name": "itch-io",
     "previous_days_downloads": [
-      41,
       42,
       42,
       42,
       42,
       43,
       43,
+      45,
       45,
       45,
       45,
@@ -3830,7 +3841,6 @@
   {
     "name": "jetbrains",
     "previous_days_downloads": [
-      1797,
       1809,
       1819,
       1821,
@@ -3843,13 +3853,13 @@
       1899,
       1910,
       1927,
-      1948
+      1948,
+      1965
     ]
   },
   {
     "name": "jira",
     "previous_days_downloads": [
-      3274,
       3291,
       3310,
       3315,
@@ -3862,13 +3872,13 @@
       3424,
       3441,
       3474,
-      3503
+      3503,
+      3536
     ]
   },
   {
     "name": "jira-search",
     "previous_days_downloads": [
-      1550,
       1557,
       1566,
       1569,
@@ -3881,13 +3891,13 @@
       1608,
       1613,
       1626,
-      1639
+      1639,
+      1654
     ]
   },
   {
     "name": "jira-search-self-hosted",
     "previous_days_downloads": [
-      214,
       216,
       221,
       223,
@@ -3900,13 +3910,13 @@
       250,
       254,
       261,
-      266
+      266,
+      272
     ]
   },
   {
     "name": "jira-time-tracking",
     "previous_days_downloads": [
-      63,
       65,
       67,
       67,
@@ -3919,13 +3929,13 @@
       75,
       75,
       77,
-      78
+      78,
+      79
     ]
   },
   {
     "name": "jisho",
     "previous_days_downloads": [
-      147,
       147,
       147,
       147,
@@ -3938,13 +3948,13 @@
       151,
       152,
       153,
+      155,
       155
     ]
   },
   {
     "name": "json2ts",
     "previous_days_downloads": [
-      255,
       255,
       256,
       256,
@@ -3957,13 +3967,13 @@
       265,
       266,
       266,
-      268
+      268,
+      270
     ]
   },
   {
     "name": "json-to-go",
     "previous_days_downloads": [
-      117,
       117,
       118,
       119,
@@ -3976,13 +3986,13 @@
       122,
       124,
       124,
-      124
+      124,
+      127
     ]
   },
   {
     "name": "search-justwatch",
     "previous_days_downloads": [
-      337,
       337,
       338,
       342,
@@ -3995,13 +4005,13 @@
       362,
       364,
       365,
-      366
+      366,
+      367
     ]
   },
   {
     "name": "jwt-decoder",
     "previous_days_downloads": [
-      357,
       361,
       367,
       369,
@@ -4014,13 +4024,13 @@
       415,
       420,
       431,
-      438
+      438,
+      448
     ]
   },
   {
     "name": "kaalam",
     "previous_days_downloads": [
-      236,
       236,
       236,
       236,
@@ -4033,13 +4043,13 @@
       239,
       239,
       242,
+      243,
       243
     ]
   },
   {
     "name": "kagi-search",
     "previous_days_downloads": [
-      114,
       117,
       118,
       119,
@@ -4052,13 +4062,13 @@
       122,
       124,
       126,
+      126,
       126
     ]
   },
   {
     "name": "kaomoji-search",
     "previous_days_downloads": [
-      231,
       231,
       231,
       233,
@@ -4071,13 +4081,13 @@
       237,
       237,
       238,
-      238
+      238,
+      240
     ]
   },
   {
     "name": "karabiner-profile-switcher",
     "previous_days_downloads": [
-      86,
       86,
       86,
       87,
@@ -4090,13 +4100,13 @@
       90,
       90,
       91,
-      91
+      91,
+      92
     ]
   },
   {
     "name": "keepassxc",
     "previous_days_downloads": [
-      294,
       294,
       296,
       296,
@@ -4109,13 +4119,13 @@
       307,
       308,
       311,
-      312
+      312,
+      317
     ]
   },
   {
     "name": "input-switcher",
     "previous_days_downloads": [
-      227,
       228,
       228,
       229,
@@ -4128,13 +4138,13 @@
       239,
       240,
       240,
-      241
+      241,
+      242
     ]
   },
   {
     "name": "list-keyboard-maestro-macros",
     "previous_days_downloads": [
-      613,
       623,
       627,
       633,
@@ -4147,13 +4157,13 @@
       671,
       674,
       677,
-      680
+      680,
+      685
     ]
   },
   {
     "name": "kill-process",
     "previous_days_downloads": [
-      6848,
       6894,
       6928,
       6952,
@@ -4166,13 +4176,13 @@
       7258,
       7303,
       7371,
-      7428
+      7428,
+      7484
     ]
   },
   {
     "name": "kinopoisk",
     "previous_days_downloads": [
-      174,
       174,
       174,
       174,
@@ -4185,13 +4195,13 @@
       177,
       179,
       182,
-      182
+      182,
+      183
     ]
   },
   {
     "name": "kubectx",
     "previous_days_downloads": [
-      339,
       341,
       344,
       345,
@@ -4204,13 +4214,13 @@
       356,
       358,
       360,
-      362
+      362,
+      367
     ]
   },
   {
     "name": "kubernetes-docs",
     "previous_days_downloads": [
-      186,
       187,
       189,
       189,
@@ -4223,13 +4233,13 @@
       201,
       202,
       203,
-      207
+      207,
+      211
     ]
   },
   {
     "name": "laliga",
     "previous_days_downloads": [
-      50,
       50,
       50,
       51,
@@ -4242,13 +4252,13 @@
       55,
       55,
       56,
+      58,
       58
     ]
   },
   {
     "name": "laracasts",
     "previous_days_downloads": [
-      93,
       94,
       94,
       94,
@@ -4261,13 +4271,13 @@
       97,
       98,
       98,
-      99
+      99,
+      100
     ]
   },
   {
     "name": "laravel-docs",
     "previous_days_downloads": [
-      700,
       704,
       705,
       707,
@@ -4280,13 +4290,13 @@
       720,
       723,
       726,
-      731
+      731,
+      739
     ]
   },
   {
     "name": "laravel-forge",
     "previous_days_downloads": [
-      188,
       189,
       189,
       189,
@@ -4299,13 +4309,13 @@
       195,
       197,
       197,
-      198
+      198,
+      201
     ]
   },
   {
     "name": "laravel-livewire",
     "previous_days_downloads": [
-      209,
       210,
       210,
       212,
@@ -4318,13 +4328,13 @@
       213,
       213,
       216,
-      218
+      218,
+      221
     ]
   },
   {
     "name": "laravel-nova",
     "previous_days_downloads": [
-      35,
       36,
       36,
       37,
@@ -4337,13 +4347,13 @@
       37,
       37,
       38,
-      39
+      39,
+      43
     ]
   },
   {
     "name": "large-type",
     "previous_days_downloads": [
-      636,
       636,
       637,
       638,
@@ -4356,7 +4366,8 @@
       645,
       645,
       646,
-      649
+      649,
+      650
     ]
   },
   {
@@ -4370,10 +4381,10 @@
       27,
       27,
       27,
-      27,
       30,
       30,
       30,
+      31,
       31,
       31
     ]
@@ -4381,7 +4392,6 @@
   {
     "name": "lark",
     "previous_days_downloads": [
-      335,
       335,
       337,
       338,
@@ -4394,13 +4404,13 @@
       349,
       349,
       350,
+      351,
       351
     ]
   },
   {
     "name": "lastfm",
     "previous_days_downloads": [
-      370,
       371,
       371,
       373,
@@ -4413,13 +4423,13 @@
       387,
       392,
       399,
-      402
+      402,
+      404
     ]
   },
   {
     "name": "latest-news",
     "previous_days_downloads": [
-      6,
       10,
       13,
       14,
@@ -4432,13 +4442,13 @@
       29,
       29,
       34,
+      35,
       35
     ]
   },
   {
     "name": "life-progress",
     "previous_days_downloads": [
-      197,
       198,
       198,
       200,
@@ -4451,13 +4461,13 @@
       217,
       218,
       224,
-      224
+      224,
+      227
     ]
   },
   {
     "name": "linear",
     "previous_days_downloads": [
-      1176,
       1187,
       1199,
       1201,
@@ -4470,13 +4480,13 @@
       1241,
       1243,
       1248,
-      1252
+      1252,
+      1260
     ]
   },
   {
     "name": "linguee",
     "previous_days_downloads": [
-      559,
       562,
       564,
       564,
@@ -4489,7 +4499,8 @@
       577,
       579,
       581,
-      584
+      584,
+      588
     ]
   },
   {
@@ -4503,7 +4514,7 @@
       3,
       3,
       3,
-      3,
+      4,
       4,
       4,
       4,
@@ -4516,7 +4527,6 @@
     "previous_days_downloads": [
       193,
       193,
-      193,
       194,
       194,
       194,
@@ -4527,13 +4537,13 @@
       195,
       195,
       196,
+      196,
       196
     ]
   },
   {
     "name": "logseq",
     "previous_days_downloads": [
-      594,
       600,
       607,
       608,
@@ -4546,13 +4556,13 @@
       658,
       663,
       672,
-      677
+      677,
+      684
     ]
   },
   {
     "name": "lorem-ipsum",
     "previous_days_downloads": [
-      3884,
       3901,
       3912,
       3922,
@@ -4565,13 +4575,13 @@
       4052,
       4071,
       4104,
-      4120
+      4120,
+      4145
     ]
   },
   {
     "name": "macupdater",
     "previous_days_downloads": [
-      290,
       291,
       292,
       293,
@@ -4584,13 +4594,13 @@
       308,
       311,
       317,
-      318
+      318,
+      319
     ]
   },
   {
     "name": "mailsy",
     "previous_days_downloads": [
-      47,
       54,
       54,
       55,
@@ -4603,13 +4613,13 @@
       81,
       85,
       97,
-      99
+      99,
+      106
     ]
   },
   {
     "name": "brew-services",
     "previous_days_downloads": [
-      2010,
       2014,
       2019,
       2023,
@@ -4622,13 +4632,13 @@
       2068,
       2074,
       2085,
-      2095
+      2095,
+      2105
     ]
   },
   {
     "name": "mantine-documentation",
     "previous_days_downloads": [
-      0,
       1,
       2,
       2,
@@ -4641,13 +4651,13 @@
       3,
       4,
       4,
+      4,
       4
     ]
   },
   {
     "name": "markdown-reference",
     "previous_days_downloads": [
-      1540,
       1550,
       1555,
       1559,
@@ -4660,13 +4670,13 @@
       1623,
       1629,
       1641,
-      1650
+      1650,
+      1662
     ]
   },
   {
     "name": "markdown-this",
     "previous_days_downloads": [
-      20,
       20,
       20,
       22,
@@ -4679,13 +4689,13 @@
       34,
       35,
       38,
-      39
+      39,
+      44
     ]
   },
   {
     "name": "masscode",
     "previous_days_downloads": [
-      78,
       78,
       78,
       78,
@@ -4698,13 +4708,13 @@
       84,
       86,
       89,
-      90
+      90,
+      94
     ]
   },
   {
     "name": "material-icons",
     "previous_days_downloads": [
-      191,
       194,
       194,
       194,
@@ -4717,13 +4727,13 @@
       211,
       215,
       216,
-      221
+      221,
+      229
     ]
   },
   {
     "name": "maven-central-repository",
     "previous_days_downloads": [
-      39,
       40,
       40,
       40,
@@ -4736,7 +4746,8 @@
       45,
       46,
       46,
-      49
+      49,
+      52
     ]
   },
   {
@@ -4745,7 +4756,6 @@
       15,
       15,
       15,
-      15,
       16,
       16,
       16,
@@ -4755,13 +4765,13 @@
       16,
       16,
       16,
+      17,
       17
     ]
   },
   {
     "name": "microsoft-edge",
     "previous_days_downloads": [
-      1271,
       1277,
       1282,
       1287,
@@ -4774,13 +4784,13 @@
       1337,
       1343,
       1348,
-      1356
+      1356,
+      1362
     ]
   },
   {
     "name": "mlb-scores",
     "previous_days_downloads": [
-      92,
       92,
       95,
       95,
@@ -4793,6 +4803,7 @@
       102,
       103,
       104,
+      105,
       105
     ]
   },
@@ -4806,13 +4817,13 @@
       166,
       166,
       166,
-      166,
       167,
       168,
       168,
       169,
       169,
-      169
+      169,
+      171
     ]
   },
   {
@@ -4840,7 +4851,6 @@
       118,
       118,
       118,
-      118,
       120,
       120,
       123,
@@ -4850,13 +4860,13 @@
       126,
       127,
       128,
+      129,
       129
     ]
   },
   {
     "name": "multilinks",
     "previous_days_downloads": [
-      26,
       29,
       31,
       32,
@@ -4869,13 +4879,13 @@
       45,
       47,
       50,
-      50
+      50,
+      52
     ]
   },
   {
     "name": "music",
     "previous_days_downloads": [
-      5551,
       5580,
       5610,
       5628,
@@ -4888,13 +4898,13 @@
       5861,
       5901,
       5937,
-      5968
+      5968,
+      6001
     ]
   },
   {
     "name": "must",
     "previous_days_downloads": [
-      80,
       81,
       81,
       81,
@@ -4904,6 +4914,7 @@
       81,
       81,
       81,
+      82,
       82,
       82,
       82,
@@ -4913,7 +4924,6 @@
   {
     "name": "myip",
     "previous_days_downloads": [
-      2368,
       2379,
       2384,
       2390,
@@ -4926,7 +4936,8 @@
       2488,
       2500,
       2521,
-      2528
+      2528,
+      2541
     ]
   },
   {
@@ -4938,7 +4949,8 @@
       7,
       7,
       8,
-      8
+      8,
+      11
     ]
   },
   {
@@ -4963,7 +4975,6 @@
   {
     "name": "nba-viewer",
     "previous_days_downloads": [
-      230,
       233,
       235,
       235,
@@ -4976,13 +4987,13 @@
       241,
       243,
       246,
-      246
+      246,
+      247
     ]
   },
   {
     "name": "netease-music",
     "previous_days_downloads": [
-      77,
       77,
       78,
       79,
@@ -4995,13 +5006,13 @@
       87,
       87,
       88,
+      88,
       88
     ]
   },
   {
     "name": "netlify",
     "previous_days_downloads": [
-      455,
       457,
       459,
       461,
@@ -5014,13 +5025,13 @@
       473,
       473,
       474,
-      475
+      475,
+      476
     ]
   },
   {
     "name": "nextcloud",
     "previous_days_downloads": [
-      94,
       95,
       96,
       96,
@@ -5033,13 +5044,13 @@
       102,
       103,
       104,
-      106
+      106,
+      111
     ]
   },
   {
     "name": "nextjs-docs",
     "previous_days_downloads": [
-      174,
       178,
       181,
       182,
@@ -5052,13 +5063,13 @@
       197,
       200,
       204,
-      205
+      205,
+      208
     ]
   },
   {
     "name": "node-js-evaluate",
     "previous_days_downloads": [
-      309,
       311,
       313,
       316,
@@ -5071,13 +5082,13 @@
       328,
       331,
       335,
-      336
+      336,
+      339
     ]
   },
   {
     "name": "nos-nieuws",
     "previous_days_downloads": [
-      78,
       79,
       79,
       79,
@@ -5090,13 +5101,13 @@
       81,
       81,
       81,
-      81
+      81,
+      82
     ]
   },
   {
     "name": "noteplan-3",
     "previous_days_downloads": [
-      127,
       128,
       129,
       130,
@@ -5109,13 +5120,13 @@
       136,
       136,
       138,
-      140
+      140,
+      141
     ]
   },
   {
     "name": "notion",
     "previous_days_downloads": [
-      7536,
       7577,
       7606,
       7628,
@@ -5128,13 +5139,13 @@
       7867,
       7890,
       7942,
-      7979
+      7979,
+      8016
     ]
   },
   {
     "name": "search-notion",
     "previous_days_downloads": [
-      3131,
       3149,
       3163,
       3173,
@@ -5147,7 +5158,8 @@
       3269,
       3290,
       3315,
-      3325
+      3325,
+      3348
     ]
   },
   {
@@ -5178,13 +5190,13 @@
       9,
       10,
       14,
-      15
+      15,
+      20
     ]
   },
   {
     "name": "obsidian",
     "previous_days_downloads": [
-      4242,
       4289,
       4328,
       4352,
@@ -5197,13 +5209,13 @@
       4649,
       4688,
       4734,
-      4779
+      4779,
+      4837
     ]
   },
   {
     "name": "obsidian-bookmarks",
     "previous_days_downloads": [
-      200,
       205,
       207,
       211,
@@ -5216,13 +5228,13 @@
       232,
       234,
       238,
-      241
+      241,
+      248
     ]
   },
   {
     "name": "office-quotes",
     "previous_days_downloads": [
-      101,
       101,
       101,
       102,
@@ -5235,7 +5247,8 @@
       110,
       110,
       110,
-      112
+      112,
+      113
     ]
   },
   {
@@ -5272,20 +5285,21 @@
       30,
       30,
       33,
-      34
+      34,
+      37
     ]
   },
   {
     "name": "openfortivpn",
     "previous_days_downloads": [
       1,
-      1
+      1,
+      3
     ]
   },
   {
     "name": "open-in-json-hero",
     "previous_days_downloads": [
-      74,
       75,
       77,
       77,
@@ -5298,13 +5312,13 @@
       87,
       88,
       91,
-      92
+      92,
+      94
     ]
   },
   {
     "name": "open-link-in-specific-browser",
     "previous_days_downloads": [
-      77,
       78,
       79,
       80,
@@ -5317,13 +5331,13 @@
       92,
       92,
       93,
-      93
+      93,
+      97
     ]
   },
   {
     "name": "open-path",
     "previous_days_downloads": [
-      140,
       140,
       141,
       142,
@@ -5336,13 +5350,13 @@
       152,
       154,
       159,
-      161
+      161,
+      162
     ]
   },
   {
     "name": "openweathermap",
     "previous_days_downloads": [
-      161,
       165,
       167,
       167,
@@ -5355,13 +5369,13 @@
       179,
       181,
       186,
-      190
+      190,
+      196
     ]
   },
   {
     "name": "open-with-app",
     "previous_days_downloads": [
-      2117,
       2124,
       2127,
       2130,
@@ -5374,13 +5388,13 @@
       2175,
       2185,
       2194,
-      2199
+      2199,
+      2204
     ]
   },
   {
     "name": "opsgenie",
     "previous_days_downloads": [
-      128,
       128,
       128,
       128,
@@ -5393,13 +5407,13 @@
       131,
       132,
       132,
-      133
+      133,
+      134
     ]
   },
   {
     "name": "oss",
     "previous_days_downloads": [
-      19,
       19,
       19,
       19,
@@ -5412,7 +5426,8 @@
       21,
       21,
       22,
-      22
+      22,
+      24
     ]
   },
   {
@@ -5423,7 +5438,7 @@
       2,
       2,
       2,
-      2,
+      3,
       3,
       3,
       3,
@@ -5439,7 +5454,6 @@
     "previous_days_downloads": [
       19,
       19,
-      19,
       21,
       22,
       22,
@@ -5450,13 +5464,13 @@
       22,
       22,
       22,
-      22
+      22,
+      23
     ]
   },
   {
     "name": "parrot-translate",
     "previous_days_downloads": [
-      115,
       116,
       116,
       116,
@@ -5469,13 +5483,13 @@
       124,
       124,
       125,
-      125
+      125,
+      127
     ]
   },
   {
     "name": "party-parrot",
     "previous_days_downloads": [
-      947,
       948,
       948,
       950,
@@ -5488,13 +5502,13 @@
       958,
       959,
       959,
-      961
+      961,
+      963
     ]
   },
   {
     "name": "password-generator",
     "previous_days_downloads": [
-      598,
       603,
       609,
       615,
@@ -5507,13 +5521,13 @@
       666,
       675,
       682,
-      692
+      692,
+      706
     ]
   },
   {
     "name": "paste-as-plain-text",
     "previous_days_downloads": [
-      423,
       431,
       433,
       435,
@@ -5526,13 +5540,13 @@
       478,
       486,
       497,
-      502
+      502,
+      506
     ]
   },
   {
     "name": "pastebin",
     "previous_days_downloads": [
-      3,
       3,
       3,
       4,
@@ -5545,13 +5559,13 @@
       15,
       15,
       17,
-      17
+      17,
+      20
     ]
   },
   {
     "name": "pestphp-documentation",
     "previous_days_downloads": [
-      107,
       108,
       108,
       108,
@@ -5564,13 +5578,13 @@
       110,
       110,
       110,
-      110
+      110,
+      111
     ]
   },
   {
     "name": "pexels",
     "previous_days_downloads": [
-      162,
       164,
       167,
       167,
@@ -5583,13 +5597,13 @@
       185,
       186,
       191,
-      195
+      195,
+      202
     ]
   },
   {
     "name": "php-monitor",
     "previous_days_downloads": [
-      308,
       308,
       308,
       309,
@@ -5602,7 +5616,8 @@
       314,
       315,
       317,
-      319
+      319,
+      320
     ]
   },
   {
@@ -5620,13 +5635,13 @@
       26,
       26,
       27,
-      32
+      32,
+      35
     ]
   },
   {
     "name": "pinboard",
     "previous_days_downloads": [
-      387,
       390,
       390,
       390,
@@ -5639,13 +5654,13 @@
       396,
       396,
       396,
-      397
+      397,
+      398
     ]
   },
   {
     "name": "pipe-commands",
     "previous_days_downloads": [
-      241,
       243,
       245,
       245,
@@ -5658,13 +5673,13 @@
       255,
       255,
       257,
+      258,
       258
     ]
   },
   {
     "name": "pipedrive",
     "previous_days_downloads": [
-      67,
       67,
       68,
       68,
@@ -5677,13 +5692,13 @@
       71,
       71,
       72,
+      72,
       72
     ]
   },
   {
     "name": "placeholder",
     "previous_days_downloads": [
-      622,
       629,
       631,
       638,
@@ -5696,13 +5711,13 @@
       661,
       663,
       668,
-      671
+      671,
+      673
     ]
   },
   {
     "name": "ploi",
     "previous_days_downloads": [
-      103,
       105,
       105,
       105,
@@ -5715,13 +5730,13 @@
       105,
       105,
       106,
+      108,
       108
     ]
   },
   {
     "name": "pocket",
     "previous_days_downloads": [
-      580,
       582,
       583,
       585,
@@ -5734,13 +5749,13 @@
       612,
       618,
       623,
-      632
+      632,
+      641
     ]
   },
   {
     "name": "podcasts",
     "previous_days_downloads": [
-      449,
       455,
       457,
       460,
@@ -5753,13 +5768,13 @@
       485,
       488,
       495,
-      496
+      496,
+      500
     ]
   },
   {
     "name": "pokedex",
     "previous_days_downloads": [
-      299,
       303,
       306,
       308,
@@ -5772,13 +5787,13 @@
       325,
       330,
       332,
-      333
+      333,
+      337
     ]
   },
   {
     "name": "polished",
     "previous_days_downloads": [
-      1108,
       1115,
       1119,
       1122,
@@ -5791,13 +5806,13 @@
       1163,
       1166,
       1175,
-      1178
+      1178,
+      1181
     ]
   },
   {
     "name": "port-manager",
     "previous_days_downloads": [
-      1036,
       1046,
       1052,
       1055,
@@ -5810,7 +5825,8 @@
       1100,
       1109,
       1119,
-      1127
+      1127,
+      1136
     ]
   },
   {
@@ -5828,13 +5844,13 @@
       5,
       5,
       5,
+      5,
       5
     ]
   },
   {
     "name": "premier-league",
     "previous_days_downloads": [
-      197,
       198,
       199,
       202,
@@ -5847,13 +5863,13 @@
       216,
       219,
       222,
-      224
+      224,
+      229
     ]
   },
   {
     "name": "productboard",
     "previous_days_downloads": [
-      111,
       112,
       112,
       113,
@@ -5866,13 +5882,13 @@
       113,
       113,
       113,
+      114,
       114
     ]
   },
   {
     "name": "producthunt",
     "previous_days_downloads": [
-      1451,
       1457,
       1457,
       1458,
@@ -5885,13 +5901,13 @@
       1483,
       1487,
       1492,
-      1495
+      1495,
+      1500
     ]
   },
   {
     "name": "projects",
     "previous_days_downloads": [
-      117,
       119,
       119,
       119,
@@ -5904,13 +5920,13 @@
       131,
       132,
       133,
-      136
+      136,
+      137
     ]
   },
   {
     "name": "pub-dev",
     "previous_days_downloads": [
-      191,
       193,
       193,
       193,
@@ -5923,13 +5939,13 @@
       201,
       202,
       203,
+      205,
       205
     ]
   },
   {
     "name": "px-to-rem-converter",
     "previous_days_downloads": [
-      107,
       110,
       110,
       110,
@@ -5942,7 +5958,8 @@
       117,
       118,
       118,
-      119
+      119,
+      124
     ]
   },
   {
@@ -5959,13 +5976,13 @@
       20,
       23,
       26,
-      29
+      29,
+      33
     ]
   },
   {
     "name": "qq-music-controls",
     "previous_days_downloads": [
-      30,
       32,
       34,
       35,
@@ -5978,13 +5995,13 @@
       42,
       43,
       44,
-      44
+      44,
+      45
     ]
   },
   {
     "name": "qrcode-generator",
     "previous_days_downloads": [
-      1076,
       1087,
       1091,
       1098,
@@ -5997,13 +6014,13 @@
       1163,
       1171,
       1181,
-      1186
+      1186,
+      1195
     ]
   },
   {
     "name": "qr-code-scanner",
     "previous_days_downloads": [
-      1036,
       1042,
       1046,
       1051,
@@ -6016,13 +6033,13 @@
       1083,
       1088,
       1093,
-      1096
+      1096,
+      1101
     ]
   },
   {
     "name": "quick-access",
     "previous_days_downloads": [
-      199,
       200,
       200,
       201,
@@ -6035,13 +6052,13 @@
       212,
       214,
       216,
-      217
+      217,
+      219
     ]
   },
   {
     "name": "calendar",
     "previous_days_downloads": [
-      3194,
       3207,
       3221,
       3235,
@@ -6054,13 +6071,13 @@
       3344,
       3363,
       3384,
-      3395
+      3395,
+      3419
     ]
   },
   {
     "name": "quick-event",
     "previous_days_downloads": [
-      1474,
       1484,
       1491,
       1500,
@@ -6073,7 +6090,8 @@
       1570,
       1584,
       1599,
-      1613
+      1613,
+      1629
     ]
   },
   {
@@ -6087,7 +6105,7 @@
       4,
       4,
       4,
-      4,
+      6,
       6,
       6,
       6,
@@ -6098,7 +6116,6 @@
   {
     "name": "quick-open-project",
     "previous_days_downloads": [
-      584,
       585,
       585,
       585,
@@ -6111,13 +6128,13 @@
       590,
       590,
       591,
+      592,
       592
     ]
   },
   {
     "name": "quick-search",
     "previous_days_downloads": [
-      1513,
       1517,
       1522,
       1523,
@@ -6130,13 +6147,13 @@
       1559,
       1562,
       1574,
-      1581
+      1581,
+      1591
     ]
   },
   {
     "name": "quicktime",
     "previous_days_downloads": [
-      289,
       291,
       292,
       293,
@@ -6149,7 +6166,8 @@
       320,
       323,
       327,
-      329
+      329,
+      332
     ]
   },
   {
@@ -6161,20 +6179,19 @@
       78,
       78,
       78,
-      78,
       79,
       79,
       79,
       79,
       80,
       80,
-      80
+      80,
+      81
     ]
   },
   {
     "name": "radix",
     "previous_days_downloads": [
-      254,
       254,
       255,
       255,
@@ -6187,7 +6204,8 @@
       256,
       256,
       258,
-      258
+      258,
+      259
     ]
   },
   {
@@ -6199,11 +6217,11 @@
       56,
       56,
       56,
-      56,
       57,
       57,
       57,
       57,
+      58,
       58,
       58,
       58
@@ -6212,7 +6230,6 @@
   {
     "name": "raindrop-io",
     "previous_days_downloads": [
-      2094,
       2104,
       2114,
       2118,
@@ -6225,13 +6242,13 @@
       2172,
       2192,
       2208,
-      2215
+      2215,
+      2223
     ]
   },
   {
     "name": "random",
     "previous_days_downloads": [
-      1815,
       1824,
       1827,
       1829,
@@ -6244,13 +6261,13 @@
       1898,
       1910,
       1924,
-      1941
+      1941,
+      1955
     ]
   },
   {
     "name": "random-email",
     "previous_days_downloads": [
-      522,
       523,
       523,
       524,
@@ -6263,13 +6280,13 @@
       542,
       544,
       548,
-      551
+      551,
+      553
     ]
   },
   {
     "name": "random-password-generator",
     "previous_days_downloads": [
-      216,
       219,
       220,
       221,
@@ -6282,13 +6299,13 @@
       241,
       243,
       246,
-      252
+      252,
+      255
     ]
   },
   {
     "name": "api-icon-list",
     "previous_days_downloads": [
-      522,
       523,
       524,
       526,
@@ -6301,13 +6318,13 @@
       533,
       534,
       536,
-      538
+      538,
+      540
     ]
   },
   {
     "name": "raycast-wallpaper",
     "previous_days_downloads": [
-      412,
       415,
       418,
       420,
@@ -6320,13 +6337,13 @@
       441,
       445,
       450,
-      454
+      454,
+      457
     ]
   },
   {
     "name": "raynab",
     "previous_days_downloads": [
-      131,
       132,
       133,
       133,
@@ -6339,13 +6356,13 @@
       136,
       140,
       142,
+      143,
       143
     ]
   },
   {
     "name": "ray-so",
     "previous_days_downloads": [
-      2614,
       2626,
       2639,
       2644,
@@ -6358,13 +6375,13 @@
       2707,
       2718,
       2731,
-      2738
+      2738,
+      2752
     ]
   },
   {
     "name": "readwise",
     "previous_days_downloads": [
-      266,
       268,
       270,
       270,
@@ -6377,7 +6394,8 @@
       284,
       286,
       289,
-      289
+      289,
+      292
     ]
   },
   {
@@ -6387,7 +6405,6 @@
       53,
       53,
       53,
-      53,
       55,
       55,
       55,
@@ -6396,13 +6413,13 @@
       56,
       57,
       57,
+      58,
       58
     ]
   },
   {
     "name": "reddit-search",
     "previous_days_downloads": [
-      1602,
       1612,
       1615,
       1617,
@@ -6415,14 +6432,14 @@
       1675,
       1687,
       1695,
-      1703
+      1703,
+      1714
     ]
   },
   {
     "name": "redmine",
     "previous_days_downloads": [
       24,
-      24,
       25,
       25,
       26,
@@ -6434,13 +6451,13 @@
       27,
       27,
       27,
-      27
+      27,
+      28
     ]
   },
   {
     "name": "refresh-wifi",
     "previous_days_downloads": [
-      398,
       404,
       406,
       408,
@@ -6453,19 +6470,20 @@
       434,
       439,
       448,
-      453
+      453,
+      460
     ]
   },
   {
     "name": "regex-tester",
     "previous_days_downloads": [
-      18
+      18,
+      42
     ]
   },
   {
     "name": "remember-the-date",
     "previous_days_downloads": [
-      71,
       74,
       75,
       75,
@@ -6478,13 +6496,13 @@
       78,
       79,
       80,
-      80
+      80,
+      81
     ]
   },
   {
     "name": "remove-background",
     "previous_days_downloads": [
-      1215,
       1221,
       1224,
       1226,
@@ -6497,13 +6515,13 @@
       1272,
       1283,
       1294,
-      1298
+      1298,
+      1314
     ]
   },
   {
     "name": "render",
     "previous_days_downloads": [
-      45,
       45,
       45,
       45,
@@ -6515,6 +6533,7 @@
       48,
       51,
       51,
+      52,
       52,
       52
     ]
@@ -6532,10 +6551,10 @@
       43,
       43,
       43,
-      43,
       44,
       45,
-      45
+      45,
+      46
     ]
   },
   {
@@ -6549,12 +6568,12 @@
       69,
       69,
       69,
-      69,
       70,
       70,
       70,
       70,
-      70
+      70,
+      71
     ]
   },
   {
@@ -6573,13 +6592,12 @@
       32,
       32,
       32,
-      32
+      33
     ]
   },
   {
     "name": "rss-reader",
     "previous_days_downloads": [
-      656,
       657,
       659,
       659,
@@ -6592,7 +6610,8 @@
       671,
       672,
       674,
-      675
+      675,
+      676
     ]
   },
   {
@@ -6606,18 +6625,17 @@
       35,
       35,
       35,
-      35,
       39,
       39,
       39,
       41,
-      42
+      42,
+      45
     ]
   },
   {
     "name": "script-kit",
     "previous_days_downloads": [
-      240,
       240,
       241,
       241,
@@ -6629,6 +6647,7 @@
       247,
       248,
       249,
+      250,
       250,
       250
     ]
@@ -6645,17 +6664,16 @@
       118,
       118,
       118,
-      118,
       119,
       121,
       121,
+      122,
       122
     ]
   },
   {
     "name": "safari",
     "previous_days_downloads": [
-      4883,
       4892,
       4901,
       4911,
@@ -6668,13 +6686,13 @@
       5022,
       5038,
       5054,
-      5072
+      5072,
+      5102
     ]
   },
   {
     "name": "script-commands",
     "previous_days_downloads": [
-      1166,
       1170,
       1175,
       1178,
@@ -6687,13 +6705,13 @@
       1206,
       1208,
       1213,
-      1221
+      1221,
+      1226
     ]
   },
   {
     "name": "biaodian",
     "previous_days_downloads": [
-      27,
       27,
       27,
       27,
@@ -6706,13 +6724,13 @@
       31,
       31,
       31,
+      31,
       31
     ]
   },
   {
     "name": "vuejs-documentation",
     "previous_days_downloads": [
-      223,
       225,
       226,
       226,
@@ -6725,13 +6743,13 @@
       244,
       244,
       247,
-      248
+      248,
+      250
     ]
   },
   {
     "name": "linux-command",
     "previous_days_downloads": [
-      243,
       246,
       246,
       247,
@@ -6744,13 +6762,13 @@
       256,
       258,
       259,
-      265
+      265,
+      267
     ]
   },
   {
     "name": "search-mdn",
     "previous_days_downloads": [
-      2537,
       2549,
       2559,
       2564,
@@ -6763,13 +6781,13 @@
       2628,
       2640,
       2651,
-      2660
+      2660,
+      2678
     ]
   },
   {
     "name": "search-npm",
     "previous_days_downloads": [
-      2472,
       2481,
       2486,
       2490,
@@ -6782,13 +6800,13 @@
       2551,
       2561,
       2571,
-      2586
+      2586,
+      2596
     ]
   },
   {
     "name": "search-rubygems",
     "previous_days_downloads": [
-      143,
       144,
       146,
       146,
@@ -6801,13 +6819,13 @@
       153,
       155,
       156,
-      157
+      157,
+      158
     ]
   },
   {
     "name": "stackoverflow",
     "previous_days_downloads": [
-      2155,
       2163,
       2167,
       2173,
@@ -6820,13 +6838,13 @@
       2238,
       2250,
       2260,
-      2270
+      2270,
+      2282
     ]
   },
   {
     "name": "search-with-algolia",
     "previous_days_downloads": [
-      107,
       108,
       108,
       108,
@@ -6839,13 +6857,13 @@
       111,
       111,
       111,
+      112,
       112
     ]
   },
   {
     "name": "zotero",
     "previous_days_downloads": [
-      756,
       758,
       761,
       763,
@@ -6858,13 +6876,13 @@
       783,
       786,
       789,
-      794
+      794,
+      797
     ]
   },
   {
     "name": "semantic-scholar",
     "previous_days_downloads": [
-      100,
       100,
       102,
       104,
@@ -6877,13 +6895,13 @@
       108,
       109,
       109,
+      110,
       110
     ]
   },
   {
     "name": "send-to-flomo",
     "previous_days_downloads": [
-      248,
       251,
       253,
       253,
@@ -6896,13 +6914,13 @@
       263,
       263,
       264,
-      267
+      267,
+      268
     ]
   },
   {
     "name": "sentry",
     "previous_days_downloads": [
-      367,
       368,
       369,
       369,
@@ -6915,13 +6933,13 @@
       381,
       383,
       383,
-      383
+      383,
+      384
     ]
   },
   {
     "name": "session",
     "previous_days_downloads": [
-      108,
       117,
       124,
       130,
@@ -6934,13 +6952,13 @@
       176,
       184,
       188,
-      192
+      192,
+      201
     ]
   },
   {
     "name": "audio-device",
     "previous_days_downloads": [
-      1884,
       1894,
       1900,
       1911,
@@ -6953,13 +6971,13 @@
       2008,
       2031,
       2063,
-      2076
+      2076,
+      2091
     ]
   },
   {
     "name": "sf-symbols-search",
     "previous_days_downloads": [
-      714,
       716,
       718,
       719,
@@ -6972,7 +6990,8 @@
       740,
       746,
       751,
-      757
+      757,
+      763
     ]
   },
   {
@@ -6985,7 +7004,8 @@
       116,
       143,
       170,
-      190
+      190,
+      213
     ]
   },
   {
@@ -7009,12 +7029,13 @@
   },
   {
     "name": "short-io",
-    "previous_days_downloads": []
+    "previous_days_downloads": [
+      4
+    ]
   },
   {
     "name": "twitter-trendscast",
     "previous_days_downloads": [
-      192,
       192,
       192,
       194,
@@ -7027,13 +7048,13 @@
       201,
       202,
       204,
-      205
+      205,
+      208
     ]
   },
   {
     "name": "signal",
     "previous_days_downloads": [
-      168,
       171,
       173,
       176,
@@ -7046,7 +7067,8 @@
       209,
       212,
       215,
-      220
+      220,
+      229
     ]
   },
   {
@@ -7058,13 +7080,13 @@
       23,
       23,
       26,
-      28
+      28,
+      30
     ]
   },
   {
     "name": "simple-youdao",
     "previous_days_downloads": [
-      43,
       46,
       46,
       46,
@@ -7077,7 +7099,8 @@
       55,
       56,
       57,
-      57
+      57,
+      60
     ]
   },
   {
@@ -7090,9 +7113,9 @@
       87,
       87,
       87,
-      87,
       88,
       88,
+      89,
       89,
       89,
       89,
@@ -7102,7 +7125,6 @@
   {
     "name": "single-disk-eject",
     "previous_days_downloads": [
-      997,
       998,
       1000,
       1002,
@@ -7115,13 +7137,13 @@
       1022,
       1030,
       1039,
-      1045
+      1045,
+      1049
     ]
   },
   {
     "name": "sip",
     "previous_days_downloads": [
-      34,
       40,
       44,
       49,
@@ -7134,13 +7156,13 @@
       90,
       95,
       106,
-      110
+      110,
+      114
     ]
   },
   {
     "name": "sketch",
     "previous_days_downloads": [
-      326,
       327,
       327,
       327,
@@ -7153,13 +7175,13 @@
       328,
       329,
       330,
-      330
+      330,
+      331
     ]
   },
   {
     "name": "slack",
     "previous_days_downloads": [
-      3368,
       3396,
       3419,
       3431,
@@ -7172,13 +7194,13 @@
       3591,
       3615,
       3657,
-      3685
+      3685,
+      3718
     ]
   },
   {
     "name": "slack-status",
     "previous_days_downloads": [
-      3895,
       3909,
       3926,
       3935,
@@ -7191,13 +7213,13 @@
       4024,
       4033,
       4055,
-      4074
+      4074,
+      4087
     ]
   },
   {
     "name": "sm-ms",
     "previous_days_downloads": [
-      5,
       6,
       6,
       6,
@@ -7210,13 +7232,13 @@
       8,
       8,
       8,
+      8,
       8
     ]
   },
   {
     "name": "snake",
     "previous_days_downloads": [
-      1192,
       1200,
       1204,
       1204,
@@ -7229,13 +7251,13 @@
       1233,
       1239,
       1244,
-      1247
+      1247,
+      1253
     ]
   },
   {
     "name": "social-network-trends",
     "previous_days_downloads": [
-      39,
       39,
       39,
       40,
@@ -7248,6 +7270,7 @@
       41,
       41,
       42,
+      43,
       43
     ]
   },
@@ -7262,18 +7285,17 @@
       49,
       49,
       49,
-      49,
       50,
       50,
       50,
       50,
+      51,
       51
     ]
   },
   {
     "name": "sourcegraph",
     "previous_days_downloads": [
-      448,
       449,
       450,
       450,
@@ -7286,7 +7308,8 @@
       460,
       460,
       463,
-      466
+      466,
+      467
     ]
   },
   {
@@ -7299,13 +7322,13 @@
       32,
       42,
       57,
-      65
+      65,
+      74
     ]
   },
   {
     "name": "spatie-documentation",
     "previous_days_downloads": [
-      118,
       118,
       118,
       119,
@@ -7318,13 +7341,13 @@
       120,
       120,
       123,
-      125
+      125,
+      127
     ]
   },
   {
     "name": "speedtest",
     "previous_days_downloads": [
-      4756,
       4774,
       4789,
       4806,
@@ -7337,13 +7360,13 @@
       4970,
       5004,
       5038,
-      5067
+      5067,
+      5091
     ]
   },
   {
     "name": "spotify-controls",
     "previous_days_downloads": [
-      8938,
       8991,
       9029,
       9067,
@@ -7356,13 +7379,13 @@
       9412,
       9460,
       9519,
-      9579
+      9579,
+      9640
     ]
   },
   {
     "name": "spotify-player",
     "previous_days_downloads": [
-      5911,
       5942,
       5973,
       5995,
@@ -7375,13 +7398,13 @@
       6263,
       6300,
       6346,
-      6387
+      6387,
+      6436
     ]
   },
   {
     "name": "ssh-manager",
     "previous_days_downloads": [
-      481,
       489,
       497,
       499,
@@ -7394,7 +7417,8 @@
       538,
       543,
       551,
-      554
+      554,
+      565
     ]
   },
   {
@@ -7410,13 +7434,13 @@
       65,
       71,
       79,
-      86
+      86,
+      91
     ]
   },
   {
     "name": "stock-lookup",
     "previous_days_downloads": [
-      95,
       99,
       101,
       103,
@@ -7429,13 +7453,13 @@
       114,
       116,
       117,
-      118
+      118,
+      121
     ]
   },
   {
     "name": "stripe",
     "previous_days_downloads": [
-      63,
       64,
       64,
       64,
@@ -7448,13 +7472,13 @@
       66,
       67,
       67,
-      68
+      68,
+      69
     ]
   },
   {
     "name": "supabase-docs",
     "previous_days_downloads": [
-      29,
       30,
       30,
       30,
@@ -7467,13 +7491,13 @@
       36,
       38,
       39,
-      39
+      39,
+      40
     ]
   },
   {
     "name": "raycast-surge",
     "previous_days_downloads": [
-      247,
       247,
       249,
       250,
@@ -7486,13 +7510,13 @@
       254,
       254,
       256,
-      258
+      258,
+      259
     ]
   },
   {
     "name": "svgr",
     "previous_days_downloads": [
-      35,
       35,
       35,
       36,
@@ -7505,13 +7529,13 @@
       40,
       41,
       43,
-      43
+      43,
+      45
     ]
   },
   {
     "name": "swift-evolution",
     "previous_days_downloads": [
-      277,
       277,
       277,
       278,
@@ -7524,13 +7548,13 @@
       285,
       286,
       288,
+      288,
       288
     ]
   },
   {
     "name": "switchhosts",
     "previous_days_downloads": [
-      280,
       280,
       281,
       281,
@@ -7543,13 +7567,13 @@
       288,
       288,
       290,
-      292
+      292,
+      296
     ]
   },
   {
     "name": "raycast-system-monitor",
     "previous_days_downloads": [
-      1075,
       1084,
       1087,
       1091,
@@ -7562,13 +7586,13 @@
       1155,
       1169,
       1179,
-      1188
+      1188,
+      1204
     ]
   },
   {
     "name": "tableplus",
     "previous_days_downloads": [
-      1681,
       1686,
       1687,
       1688,
@@ -7581,13 +7605,13 @@
       1715,
       1719,
       1727,
-      1731
+      1731,
+      1738
     ]
   },
   {
     "name": "tailscale",
     "previous_days_downloads": [
-      182,
       182,
       183,
       183,
@@ -7600,13 +7624,13 @@
       195,
       197,
       198,
-      202
+      202,
+      206
     ]
   },
   {
     "name": "tailwindcss",
     "previous_days_downloads": [
-      2673,
       2695,
       2706,
       2712,
@@ -7619,13 +7643,13 @@
       2805,
       2817,
       2832,
-      2839
+      2839,
+      2853
     ]
   },
   {
     "name": "tw-colorpicker",
     "previous_days_downloads": [
-      646,
       649,
       653,
       659,
@@ -7638,14 +7662,14 @@
       679,
       681,
       686,
-      688
+      688,
+      691
     ]
   },
   {
     "name": "raycast-tapo-smart-devices",
     "previous_days_downloads": [
       5,
-      5,
       6,
       6,
       8,
@@ -7655,6 +7679,7 @@
       9,
       9,
       9,
+      10,
       10,
       10,
       10
@@ -7674,13 +7699,13 @@
       0,
       0,
       1,
+      1,
       1
     ]
   },
   {
     "name": "temporary-email",
     "previous_days_downloads": [
-      416,
       419,
       419,
       423,
@@ -7693,13 +7718,13 @@
       451,
       456,
       459,
-      461
+      461,
+      465
     ]
   },
   {
     "name": "terminalfinder",
     "previous_days_downloads": [
-      2182,
       2199,
       2213,
       2218,
@@ -7712,7 +7737,8 @@
       2310,
       2320,
       2340,
-      2353
+      2353,
+      2371
     ]
   },
   {
@@ -7724,13 +7750,13 @@
       31,
       38,
       41,
-      47
+      47,
+      54
     ]
   },
   {
     "name": "text-shortcuts",
     "previous_days_downloads": [
-      253,
       256,
       262,
       262,
@@ -7743,13 +7769,13 @@
       278,
       283,
       285,
-      288
+      288,
+      290
     ]
   },
   {
     "name": "things",
     "previous_days_downloads": [
-      4482,
       4520,
       4546,
       4568,
@@ -7762,13 +7788,13 @@
       4766,
       4796,
       4830,
-      4866
+      4866,
+      4892
     ]
   },
   {
     "name": "ticktick",
     "previous_days_downloads": [
-      1411,
       1416,
       1419,
       1425,
@@ -7781,13 +7807,13 @@
       1489,
       1498,
       1510,
-      1520
+      1520,
+      1529
     ]
   },
   {
     "name": "timers",
     "previous_days_downloads": [
-      718,
       745,
       756,
       771,
@@ -7800,13 +7826,13 @@
       930,
       955,
       981,
-      1013
+      1013,
+      1038
     ]
   },
   {
     "name": "raycast-timeular",
     "previous_days_downloads": [
-      62,
       62,
       62,
       62,
@@ -7819,13 +7845,13 @@
       64,
       65,
       65,
+      65,
       65
     ]
   },
   {
     "name": "tldr",
     "previous_days_downloads": [
-      1542,
       1548,
       1554,
       1556,
@@ -7838,13 +7864,13 @@
       1593,
       1598,
       1603,
-      1608
+      1608,
+      1619
     ]
   },
   {
     "name": "todoist",
     "previous_days_downloads": [
-      4025,
       4047,
       4067,
       4073,
@@ -7857,13 +7883,13 @@
       4188,
       4211,
       4230,
-      4251
+      4251,
+      4273
     ]
   },
   {
     "name": "todo-list",
     "previous_days_downloads": [
-      1142,
       1150,
       1152,
       1153,
@@ -7876,13 +7902,13 @@
       1184,
       1185,
       1192,
-      1194
+      1194,
+      1199
     ]
   },
   {
     "name": "toggle-desktop-visibility",
     "previous_days_downloads": [
-      129,
       130,
       130,
       131,
@@ -7895,13 +7921,13 @@
       140,
       143,
       143,
-      144
+      144,
+      145
     ]
   },
   {
     "name": "toggl-track",
     "previous_days_downloads": [
-      848,
       853,
       857,
       857,
@@ -7914,13 +7940,13 @@
       893,
       896,
       905,
-      910
+      910,
+      915
     ]
   },
   {
     "name": "toolbox",
     "previous_days_downloads": [
-      562,
       563,
       563,
       563,
@@ -7933,13 +7959,13 @@
       571,
       571,
       573,
-      574
+      574,
+      576
     ]
   },
   {
     "name": "toothpick",
     "previous_days_downloads": [
-      1816,
       1829,
       1837,
       1848,
@@ -7952,13 +7978,13 @@
       1901,
       1908,
       1924,
-      1930
+      1930,
+      1936
     ]
   },
   {
     "name": "tower",
     "previous_days_downloads": [
-      680,
       683,
       684,
       684,
@@ -7971,13 +7997,13 @@
       699,
       700,
       701,
-      701
+      701,
+      703
     ]
   },
   {
     "name": "transmission",
     "previous_days_downloads": [
-      690,
       690,
       692,
       692,
@@ -7990,13 +8016,13 @@
       711,
       715,
       722,
-      723
+      723,
+      724
     ]
   },
   {
     "name": "transmit",
     "previous_days_downloads": [
-      143,
       147,
       148,
       149,
@@ -8009,13 +8035,13 @@
       175,
       178,
       184,
-      187
+      187,
+      194
     ]
   },
   {
     "name": "trello",
     "previous_days_downloads": [
-      426,
       428,
       433,
       436,
@@ -8028,13 +8054,13 @@
       464,
       468,
       474,
-      479
+      479,
+      484
     ]
   },
   {
     "name": "tunnelblick",
     "previous_days_downloads": [
-      539,
       543,
       546,
       546,
@@ -8047,7 +8073,8 @@
       561,
       563,
       565,
-      566
+      566,
+      568
     ]
   },
   {
@@ -8061,18 +8088,17 @@
       144,
       144,
       144,
-      144,
       146,
       146,
       146,
       146,
-      147
+      147,
+      148
     ]
   },
   {
     "name": "twitch",
     "previous_days_downloads": [
-      455,
       456,
       458,
       459,
@@ -8085,13 +8111,13 @@
       478,
       480,
       482,
-      488
+      488,
+      489
     ]
   },
   {
     "name": "twitter",
     "previous_days_downloads": [
-      2114,
       2122,
       2128,
       2133,
@@ -8104,13 +8130,13 @@
       2202,
       2211,
       2224,
-      2232
+      2232,
+      2241
     ]
   },
   {
     "name": "two-factor-authentication-code-generator",
     "previous_days_downloads": [
-      863,
       864,
       864,
       867,
@@ -8123,7 +8149,8 @@
       878,
       881,
       886,
-      887
+      887,
+      889
     ]
   },
   {
@@ -8131,7 +8158,6 @@
     "previous_days_downloads": [
       17,
       17,
-      17,
       18,
       18,
       19,
@@ -8142,7 +8168,8 @@
       19,
       19,
       19,
-      19
+      19,
+      20
     ]
   },
   {
@@ -8155,13 +8182,13 @@
       16,
       19,
       21,
-      23
+      23,
+      25
     ]
   },
   {
     "name": "typescript-documentation-search",
     "previous_days_downloads": [
-      238,
       239,
       240,
       241,
@@ -8174,13 +8201,13 @@
       260,
       262,
       265,
-      269
+      269,
+      273
     ]
   },
   {
     "name": "typographer",
     "previous_days_downloads": [
-      153,
       154,
       154,
       154,
@@ -8193,13 +8220,13 @@
       166,
       169,
       169,
+      172,
       172
     ]
   },
   {
     "name": "ulysses",
     "previous_days_downloads": [
-      295,
       296,
       297,
       300,
@@ -8212,13 +8239,13 @@
       311,
       315,
       319,
-      319
+      319,
+      320
     ]
   },
   {
     "name": "unicode-symbols",
     "previous_days_downloads": [
-      1190,
       1195,
       1198,
       1201,
@@ -8231,13 +8258,13 @@
       1239,
       1242,
       1253,
-      1255
+      1255,
+      1262
     ]
   },
   {
     "name": "unix-timestamp",
     "previous_days_downloads": [
-      1640,
       1648,
       1656,
       1659,
@@ -8250,7 +8277,8 @@
       1725,
       1730,
       1743,
-      1758
+      1758,
+      1775
     ]
   },
   {
@@ -8269,13 +8297,12 @@
       1,
       1,
       1,
-      1
+      2
     ]
   },
   {
     "name": "unsplash",
     "previous_days_downloads": [
-      2115,
       2124,
       2143,
       2154,
@@ -8288,13 +8315,13 @@
       2254,
       2266,
       2286,
-      2301
+      2301,
+      2314
     ]
   },
   {
     "name": "upcoming-holidays",
     "previous_days_downloads": [
-      101,
       104,
       107,
       108,
@@ -8307,13 +8334,13 @@
       130,
       132,
       136,
-      137
+      137,
+      140
     ]
   },
   {
     "name": "url-tools",
     "previous_days_downloads": [
-      691,
       694,
       697,
       701,
@@ -8326,13 +8353,13 @@
       727,
       731,
       736,
-      741
+      741,
+      747
     ]
   },
   {
     "name": "uuid-generator",
     "previous_days_downloads": [
-      1535,
       1540,
       1545,
       1549,
@@ -8345,13 +8372,13 @@
       1601,
       1606,
       1613,
-      1620
+      1620,
+      1626
     ]
   },
   {
     "name": "v2ex",
     "previous_days_downloads": [
-      239,
       240,
       240,
       243,
@@ -8364,13 +8391,13 @@
       247,
       247,
       249,
+      251,
       251
     ]
   },
   {
     "name": "vault",
     "previous_days_downloads": [
-      223,
       223,
       223,
       223,
@@ -8383,13 +8410,13 @@
       227,
       229,
       232,
-      234
+      234,
+      235
     ]
   },
   {
     "name": "vercast",
     "previous_days_downloads": [
-      985,
       990,
       992,
       993,
@@ -8402,13 +8429,13 @@
       1016,
       1019,
       1022,
-      1022
+      1022,
+      1025
     ]
   },
   {
     "name": "vim-bro",
     "previous_days_downloads": [
-      402,
       408,
       412,
       417,
@@ -8421,13 +8448,13 @@
       451,
       454,
       458,
-      466
+      466,
+      474
     ]
   },
   {
     "name": "vscode-project-manager",
     "previous_days_downloads": [
-      5688,
       5729,
       5763,
       5780,
@@ -8440,13 +8467,13 @@
       6042,
       6065,
       6107,
-      6152
+      6152,
+      6203
     ]
   },
   {
     "name": "visual-studio-code",
     "previous_days_downloads": [
-      4238,
       4256,
       4269,
       4279,
@@ -8459,13 +8486,13 @@
       4397,
       4417,
       4437,
-      4457
+      4457,
+      4477
     ]
   },
   {
     "name": "vueuse-functions",
     "previous_days_downloads": [
-      47,
       47,
       48,
       48,
@@ -8478,13 +8505,13 @@
       55,
       55,
       56,
-      57
+      57,
+      59
     ]
   },
   {
     "name": "wakatime",
     "previous_days_downloads": [
-      85,
       87,
       87,
       87,
@@ -8497,13 +8524,13 @@
       97,
       98,
       101,
-      103
+      103,
+      104
     ]
   },
   {
     "name": "weather",
     "previous_days_downloads": [
-      4125,
       4141,
       4153,
       4164,
@@ -8516,13 +8543,13 @@
       4296,
       4316,
       4340,
-      4355
+      4355,
+      4385
     ]
   },
   {
     "name": "whatsapp",
     "previous_days_downloads": [
-      2618,
       2635,
       2647,
       2661,
@@ -8535,13 +8562,17 @@
       2759,
       2774,
       2791,
-      2808
+      2808,
+      2830
     ]
+  },
+  {
+    "name": "wi-fi",
+    "previous_days_downloads": []
   },
   {
     "name": "wikipedia",
     "previous_days_downloads": [
-      2882,
       2898,
       2913,
       2928,
@@ -8554,7 +8585,8 @@
       3061,
       3084,
       3105,
-      3123
+      3123,
+      3145
     ]
   },
   {
@@ -8563,9 +8595,9 @@
       11,
       11,
       11,
-      11,
       12,
       12,
+      13,
       13,
       13,
       13,
@@ -8579,7 +8611,6 @@
   {
     "name": "wolfram-alpha",
     "previous_days_downloads": [
-      1103,
       1110,
       1114,
       1117,
@@ -8592,13 +8623,13 @@
       1154,
       1163,
       1173,
-      1175
+      1175,
+      1187
     ]
   },
   {
     "name": "word-search",
     "previous_days_downloads": [
-      2546,
       2555,
       2561,
       2567,
@@ -8611,13 +8642,13 @@
       2646,
       2669,
       2686,
-      2698
+      2698,
+      2711
     ]
   },
   {
     "name": "world-clock",
     "previous_days_downloads": [
-      239,
       244,
       248,
       252,
@@ -8630,7 +8661,8 @@
       291,
       295,
       301,
-      312
+      312,
+      320
     ]
   },
   {
@@ -8640,7 +8672,7 @@
       13,
       13,
       13,
-      13,
+      14,
       14,
       14,
       14,
@@ -8655,7 +8687,6 @@
   {
     "name": "xcode",
     "previous_days_downloads": [
-      1939,
       1950,
       1962,
       1965,
@@ -8668,20 +8699,21 @@
       2012,
       2024,
       2037,
-      2046
+      2046,
+      2052
     ]
   },
   {
     "name": "xid",
     "previous_days_downloads": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
     "name": "xkcd",
     "previous_days_downloads": [
-      691,
       695,
       697,
       697,
@@ -8694,13 +8726,13 @@
       707,
       711,
       711,
-      712
+      712,
+      714
     ]
   },
   {
     "name": "yandex-music",
     "previous_days_downloads": [
-      29,
       29,
       29,
       30,
@@ -8713,13 +8745,13 @@
       34,
       34,
       36,
-      37
+      37,
+      39
     ]
   },
   {
     "name": "youdao-translate",
     "previous_days_downloads": [
-      1009,
       1015,
       1020,
       1024,
@@ -8732,13 +8764,13 @@
       1045,
       1048,
       1052,
-      1056
+      1056,
+      1058
     ]
   },
   {
     "name": "youtube",
     "previous_days_downloads": [
-      6980,
       7013,
       7044,
       7073,
@@ -8751,13 +8783,13 @@
       7417,
       7476,
       7521,
-      7572
+      7572,
+      7632
     ]
   },
   {
     "name": "youtube-companion",
     "previous_days_downloads": [
-      290,
       293,
       296,
       299,
@@ -8770,13 +8802,13 @@
       323,
       334,
       342,
-      345
+      345,
+      350
     ]
   },
   {
     "name": "zen-mode",
     "previous_days_downloads": [
-      7,
       19,
       20,
       24,
@@ -8789,13 +8821,13 @@
       33,
       34,
       42,
-      43
+      43,
+      47
     ]
   },
   {
     "name": "zeplin-project-raycast-extension",
     "previous_days_downloads": [
-      84,
       84,
       84,
       84,
@@ -8808,13 +8840,13 @@
       89,
       89,
       89,
-      89
+      89,
+      90
     ]
   },
   {
     "name": "zoom",
     "previous_days_downloads": [
-      3010,
       3027,
       3033,
       3038,
@@ -8827,7 +8859,8 @@
       3130,
       3145,
       3161,
-      3177
+      3177,
+      3204
     ]
   }
 ]
