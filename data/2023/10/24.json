@@ -1,0 +1,7280 @@
+[
+  {
+    "name": "arc",
+    "created_at": 1662998176,
+    "updated_at": 1698038854,
+    "download_count": 27181
+  },
+  {
+    "name": "color-picker",
+    "created_at": 1675858513,
+    "updated_at": 1694762679,
+    "download_count": 26570
+  },
+  {
+    "name": "spotify-player",
+    "created_at": 1638824391,
+    "updated_at": 1696946343,
+    "download_count": 57285
+  },
+  {
+    "name": "browser-bookmarks",
+    "created_at": 1675852403,
+    "updated_at": 1698064154,
+    "download_count": 8361
+  },
+  {
+    "name": "kill-process",
+    "created_at": 1635151605,
+    "updated_at": 1687431305,
+    "download_count": 52935
+  },
+  {
+    "name": "visual-studio-code",
+    "created_at": 1634068715,
+    "updated_at": 1698037899,
+    "download_count": 24299
+  },
+  {
+    "name": "github",
+    "created_at": 1668614317,
+    "updated_at": 1698073199,
+    "download_count": 30773
+  },
+  {
+    "name": "word-search",
+    "created_at": 1644173982,
+    "updated_at": 1682504877,
+    "download_count": 9593
+  },
+  {
+    "name": "brew",
+    "created_at": 1635240034,
+    "updated_at": 1686931272,
+    "download_count": 57754
+  },
+  {
+    "name": "notion",
+    "created_at": 1636466382,
+    "updated_at": 1698135020,
+    "download_count": 42580
+  },
+  {
+    "name": "google-search",
+    "created_at": 1642019974,
+    "updated_at": 1670652170,
+    "download_count": 41049
+  },
+  {
+    "name": "remove-paywall",
+    "created_at": 1689080884,
+    "updated_at": 1690207885,
+    "download_count": 5629
+  },
+  {
+    "name": "speedtest",
+    "created_at": 1636704841,
+    "updated_at": 1693473481,
+    "download_count": 39417
+  },
+  {
+    "name": "pomodoro",
+    "created_at": 1671658168,
+    "updated_at": 1689755785,
+    "download_count": 17051
+  },
+  {
+    "name": "installed-extensions",
+    "created_at": 1697639105,
+    "updated_at": 1698154057,
+    "download_count": 289
+  },
+  {
+    "name": "apple-notes",
+    "created_at": 1642421002,
+    "updated_at": 1686215705,
+    "download_count": 35277
+  },
+  {
+    "name": "youtube-downloader",
+    "created_at": 1686675818,
+    "updated_at": 1693813818,
+    "download_count": 5829
+  },
+  {
+    "name": "obsidian",
+    "created_at": 1639488242,
+    "updated_at": 1696832230,
+    "download_count": 26604
+  },
+  {
+    "name": "raycast-system-monitor",
+    "created_at": 1643710528,
+    "updated_at": 1697531867,
+    "download_count": 26966
+  },
+  {
+    "name": "jira",
+    "created_at": 1677508101,
+    "updated_at": 1696586128,
+    "download_count": 7843
+  },
+  {
+    "name": "cleanshotx",
+    "created_at": 1641286113,
+    "updated_at": 1695284662,
+    "download_count": 20895
+  },
+  {
+    "name": "music",
+    "created_at": 1637232805,
+    "updated_at": 1697614942,
+    "download_count": 26276
+  },
+  {
+    "name": "youtube",
+    "created_at": 1636026026,
+    "updated_at": 1689278305,
+    "download_count": 38019
+  },
+  {
+    "name": "slack",
+    "created_at": 1648384600,
+    "updated_at": 1682325264,
+    "download_count": 26848
+  },
+  {
+    "name": "deepcast",
+    "created_at": 1634676636,
+    "updated_at": 1696881152,
+    "download_count": 23520
+  },
+  {
+    "name": "raycast-bard-ai",
+    "created_at": 1685093573,
+    "updated_at": 1689839756,
+    "download_count": 6104
+  },
+  {
+    "name": "google-chrome",
+    "created_at": 1635276516,
+    "updated_at": 1695130108,
+    "download_count": 22331
+  },
+  {
+    "name": "1password",
+    "created_at": 1635150518,
+    "updated_at": 1696483749,
+    "download_count": 32718
+  },
+  {
+    "name": "downloads-manager",
+    "created_at": 1661247740,
+    "updated_at": 1687352338,
+    "download_count": 11727
+  },
+  {
+    "name": "cobalt",
+    "created_at": 1691130822,
+    "updated_at": 1691130822,
+    "download_count": 552
+  },
+  {
+    "name": "coffee",
+    "created_at": 1634758443,
+    "updated_at": 1676308313,
+    "download_count": 21414
+  },
+  {
+    "name": "timers",
+    "created_at": 1653111936,
+    "updated_at": 1696087756,
+    "download_count": 21098
+  },
+  {
+    "name": "folder-search",
+    "created_at": 1662631260,
+    "updated_at": 1687279615,
+    "download_count": 12903
+  },
+  {
+    "name": "lorem-ipsum",
+    "created_at": 1635151621,
+    "updated_at": 1672738709,
+    "download_count": 18653
+  },
+  {
+    "name": "emoji",
+    "created_at": 1634315031,
+    "updated_at": 1684501704,
+    "download_count": 27306
+  },
+  {
+    "name": "shell",
+    "created_at": 1655822167,
+    "updated_at": 1694674602,
+    "download_count": 12815
+  },
+  {
+    "name": "todoist",
+    "created_at": 1634633882,
+    "updated_at": 1698048418,
+    "download_count": 19342
+  },
+  {
+    "name": "openai-gpt",
+    "created_at": 1663255501,
+    "updated_at": 1681288007,
+    "download_count": 40220
+  },
+  {
+    "name": "json-format",
+    "created_at": 1639156736,
+    "updated_at": 1688374035,
+    "download_count": 16321
+  },
+  {
+    "name": "easydict",
+    "created_at": 1655376745,
+    "updated_at": 1692893905,
+    "download_count": 9311
+  },
+  {
+    "name": "warp",
+    "created_at": 1678822360,
+    "updated_at": 1696839170,
+    "download_count": 5720
+  },
+  {
+    "name": "tailwindcss",
+    "created_at": 1636360378,
+    "updated_at": 1697446400,
+    "download_count": 14571
+  },
+  {
+    "name": "screenocr",
+    "created_at": 1682945519,
+    "updated_at": 1698129073,
+    "download_count": 4116
+  },
+  {
+    "name": "bitwarden",
+    "created_at": 1635151679,
+    "updated_at": 1694674801,
+    "download_count": 16408
+  },
+  {
+    "name": "mail",
+    "created_at": 1686309428,
+    "updated_at": 1687209766,
+    "download_count": 2879
+  },
+  {
+    "name": "reminders",
+    "created_at": 1690897074,
+    "updated_at": 1698159565,
+    "download_count": 136
+  },
+  {
+    "name": "midjourney",
+    "created_at": 1697189052,
+    "updated_at": 1697189053,
+    "download_count": 231
+  },
+  {
+    "name": "sips",
+    "created_at": 1678165925,
+    "updated_at": 1696834230,
+    "download_count": 5826
+  },
+  {
+    "name": "vscode-project-manager",
+    "created_at": 1635453172,
+    "updated_at": 1682452415,
+    "download_count": 29075
+  },
+  {
+    "name": "audio-device",
+    "created_at": 1642147659,
+    "updated_at": 1688479567,
+    "download_count": 15029
+  },
+  {
+    "name": "iterm",
+    "created_at": 1674571144,
+    "updated_at": 1696323881,
+    "download_count": 6761
+  },
+  {
+    "name": "safari",
+    "created_at": 1635186141,
+    "updated_at": 1683644709,
+    "download_count": 14475
+  },
+  {
+    "name": "cheatsheets",
+    "created_at": 1644478734,
+    "updated_at": 1686741194,
+    "download_count": 15781
+  },
+  {
+    "name": "quick-event",
+    "created_at": 1644994390,
+    "updated_at": 1672667263,
+    "download_count": 10670
+  },
+  {
+    "name": "port-manager",
+    "created_at": 1645433740,
+    "updated_at": 1693921671,
+    "download_count": 10215
+  },
+  {
+    "name": "ray-so",
+    "created_at": 1637100119,
+    "updated_at": 1682354589,
+    "download_count": 12460
+  },
+  {
+    "name": "gmail",
+    "created_at": 1691675353,
+    "updated_at": 1698038424,
+    "download_count": 1249
+  },
+  {
+    "name": "google-maps-search",
+    "created_at": 1638872598,
+    "updated_at": 1681212201,
+    "download_count": 14156
+  },
+  {
+    "name": "password-generator",
+    "created_at": 1649340932,
+    "updated_at": 1649340935,
+    "download_count": 7659
+  },
+  {
+    "name": "unsplash",
+    "created_at": 1644330498,
+    "updated_at": 1695362836,
+    "download_count": 13976
+  },
+  {
+    "name": "base64",
+    "created_at": 1638194819,
+    "updated_at": 1671010811,
+    "download_count": 12229
+  },
+  {
+    "name": "raindrop-io",
+    "created_at": 1634642181,
+    "updated_at": 1687814875,
+    "download_count": 9680
+  },
+  {
+    "name": "quit-applications",
+    "created_at": 1666881246,
+    "updated_at": 1698038265,
+    "download_count": 8118
+  },
+  {
+    "name": "amphetamine",
+    "created_at": 1654598926,
+    "updated_at": 1669132078,
+    "download_count": 7838
+  },
+  {
+    "name": "google-meet",
+    "created_at": 1646559984,
+    "updated_at": 1690811491,
+    "download_count": 8161
+  },
+  {
+    "name": "zoom",
+    "created_at": 1659607014,
+    "updated_at": 1695986862,
+    "download_count": 11615
+  },
+  {
+    "name": "wikipedia",
+    "created_at": 1642424625,
+    "updated_at": 1693813852,
+    "download_count": 15106
+  },
+  {
+    "name": "myip",
+    "created_at": 1639658680,
+    "updated_at": 1678569603,
+    "download_count": 12668
+  },
+  {
+    "name": "things",
+    "created_at": 1634711341,
+    "updated_at": 1694003212,
+    "download_count": 15198
+  },
+  {
+    "name": "docker",
+    "created_at": 1634928690,
+    "updated_at": 1684764329,
+    "download_count": 11601
+  },
+  {
+    "name": "spotify-controls",
+    "created_at": 1633969432,
+    "updated_at": 1691010666,
+    "download_count": 22026
+  },
+  {
+    "name": "unix-timestamp",
+    "created_at": 1640191446,
+    "updated_at": 1648129921,
+    "download_count": 8764
+  },
+  {
+    "name": "jetbrains",
+    "created_at": 1634498719,
+    "updated_at": 1694525281,
+    "download_count": 9904
+  },
+  {
+    "name": "random",
+    "created_at": 1635884919,
+    "updated_at": 1698038281,
+    "download_count": 11242
+  },
+  {
+    "name": "file-manager",
+    "created_at": 1637186084,
+    "updated_at": 1696832476,
+    "download_count": 11865
+  },
+  {
+    "name": "linear",
+    "created_at": 1658413349,
+    "updated_at": 1695385503,
+    "download_count": 7745
+  },
+  {
+    "name": "google-drive",
+    "created_at": 1651047334,
+    "updated_at": 1659633242,
+    "download_count": 8991
+  },
+  {
+    "name": "imessage-2fa",
+    "created_at": 1665757833,
+    "updated_at": 1695566391,
+    "download_count": 5348
+  },
+  {
+    "name": "tinypng",
+    "created_at": 1661863911,
+    "updated_at": 1682406682,
+    "download_count": 3217
+  },
+  {
+    "name": "whatsapp",
+    "created_at": 1638824252,
+    "updated_at": 1678686879,
+    "download_count": 11746
+  },
+  {
+    "name": "dropover",
+    "created_at": 1681380636,
+    "updated_at": 1683868603,
+    "download_count": 2569
+  },
+  {
+    "name": "reclaim-ai",
+    "created_at": 1689406076,
+    "updated_at": 1698174578,
+    "download_count": 1709
+  },
+  {
+    "name": "google-workspace",
+    "created_at": 1659606999,
+    "updated_at": 1692710363,
+    "download_count": 11356
+  },
+  {
+    "name": "weather",
+    "created_at": 1634128624,
+    "updated_at": 1697446461,
+    "download_count": 13267
+  },
+  {
+    "name": "change-case",
+    "created_at": 1634651789,
+    "updated_at": 1697698392,
+    "download_count": 9177
+  },
+  {
+    "name": "gitlab",
+    "created_at": 1634126995,
+    "updated_at": 1698039212,
+    "download_count": 7838
+  },
+  {
+    "name": "uuid-generator",
+    "created_at": 1637939773,
+    "updated_at": 1696935215,
+    "download_count": 7265
+  },
+  {
+    "name": "raycast-timezone-converter",
+    "created_at": 1676893847,
+    "updated_at": 1678612779,
+    "download_count": 4219
+  },
+  {
+    "name": "word-count",
+    "created_at": 1658927521,
+    "updated_at": 1695284780,
+    "download_count": 4803
+  },
+  {
+    "name": "git-repos",
+    "created_at": 1634144963,
+    "updated_at": 1698065440,
+    "download_count": 6221
+  },
+  {
+    "name": "toothpick",
+    "created_at": 1649365041,
+    "updated_at": 1697451174,
+    "download_count": 14417
+  },
+  {
+    "name": "ticktick",
+    "created_at": 1638195145,
+    "updated_at": 1694196615,
+    "download_count": 6420
+  },
+  {
+    "name": "battery-health",
+    "created_at": 1657001694,
+    "updated_at": 1657001695,
+    "download_count": 6380
+  },
+  {
+    "name": "figma-files-raycast-extension",
+    "created_at": 1634586920,
+    "updated_at": 1696999161,
+    "download_count": 11559
+  },
+  {
+    "name": "ip-geolocation",
+    "created_at": 1652269967,
+    "updated_at": 1692019043,
+    "download_count": 4711
+  },
+  {
+    "name": "dash",
+    "created_at": 1635167908,
+    "updated_at": 1687187147,
+    "download_count": 11382
+  },
+  {
+    "name": "qr-code-scanner",
+    "created_at": 1640019131,
+    "updated_at": 1686574175,
+    "download_count": 3468
+  },
+  {
+    "name": "microsoft-teams",
+    "created_at": 1681406278,
+    "updated_at": 1684312934,
+    "download_count": 1941
+  },
+  {
+    "name": "screenshot",
+    "created_at": 1671610716,
+    "updated_at": 1694762350,
+    "download_count": 3473
+  },
+  {
+    "name": "devutils",
+    "created_at": 1671569991,
+    "updated_at": 1671711181,
+    "download_count": 2596
+  },
+  {
+    "name": "ruler",
+    "created_at": 1688051417,
+    "updated_at": 1688051417,
+    "download_count": 801
+  },
+  {
+    "name": "raycast-explorer",
+    "created_at": 1681829683,
+    "updated_at": 1694100131,
+    "download_count": 4631
+  },
+  {
+    "name": "obsidian-smart-capture",
+    "created_at": 1692777137,
+    "updated_at": 1693915812,
+    "download_count": 538
+  },
+  {
+    "name": "authy",
+    "created_at": 1638541327,
+    "updated_at": 1697450067,
+    "download_count": 9823
+  },
+  {
+    "name": "http-status-codes",
+    "created_at": 1648220045,
+    "updated_at": 1697185774,
+    "download_count": 5945
+  },
+  {
+    "name": "fantastical",
+    "created_at": 1660196126,
+    "updated_at": 1696832619,
+    "download_count": 6625
+  },
+  {
+    "name": "copy-path",
+    "created_at": 1650458390,
+    "updated_at": 1696916147,
+    "download_count": 4496
+  },
+  {
+    "name": "currency-exchange",
+    "created_at": 1654762558,
+    "updated_at": 1681975672,
+    "download_count": 5220
+  },
+  {
+    "name": "raycast-ollama",
+    "created_at": 1690964700,
+    "updated_at": 1698038741,
+    "download_count": 567
+  },
+  {
+    "name": "paste-as-plain-text",
+    "created_at": 1649310989,
+    "updated_at": 1669796935,
+    "download_count": 3848
+  },
+  {
+    "name": "search-mdn",
+    "created_at": 1634928443,
+    "updated_at": 1671348504,
+    "download_count": 8342
+  },
+  {
+    "name": "youtube-music",
+    "created_at": 1660800692,
+    "updated_at": 1671689697,
+    "download_count": 4292
+  },
+  {
+    "name": "chatgpt-quick-actions",
+    "created_at": 1682842016,
+    "updated_at": 1686775476,
+    "download_count": 1118
+  },
+  {
+    "name": "qrcode-generator",
+    "created_at": 1644432901,
+    "updated_at": 1690895558,
+    "download_count": 6945
+  },
+  {
+    "name": "diff-checker",
+    "created_at": 1644479236,
+    "updated_at": 1648129921,
+    "download_count": 4833
+  },
+  {
+    "name": "open-with-app",
+    "created_at": 1635149688,
+    "updated_at": 1671660605,
+    "download_count": 5823
+  },
+  {
+    "name": "wi-fi",
+    "created_at": 1656599380,
+    "updated_at": 1696839506,
+    "download_count": 5268
+  },
+  {
+    "name": "github-repository-search",
+    "created_at": 1634916202,
+    "updated_at": 1678810187,
+    "download_count": 7543
+  },
+  {
+    "name": "vim-bro",
+    "created_at": 1649360328,
+    "updated_at": 1669133882,
+    "download_count": 4308
+  },
+  {
+    "name": "display-modes",
+    "created_at": 1697456711,
+    "updated_at": 1697456712,
+    "download_count": 60
+  },
+  {
+    "name": "terminal",
+    "created_at": 1668689893,
+    "updated_at": 1668689893,
+    "download_count": 2631
+  },
+  {
+    "name": "google-fonts",
+    "created_at": 1659543208,
+    "updated_at": 1660552451,
+    "download_count": 4351
+  },
+  {
+    "name": "slack-status",
+    "created_at": 1634944355,
+    "updated_at": 1681208902,
+    "download_count": 7599
+  },
+  {
+    "name": "homeassistant",
+    "created_at": 1634132738,
+    "updated_at": 1696329695,
+    "download_count": 5736
+  },
+  {
+    "name": "temporary-email",
+    "created_at": 1649364021,
+    "updated_at": 1676500029,
+    "download_count": 4517
+  },
+  {
+    "name": "year-in-progress",
+    "created_at": 1674650450,
+    "updated_at": 1697621173,
+    "download_count": 1222
+  },
+  {
+    "name": "todo-list",
+    "created_at": 1634760026,
+    "updated_at": 1691746320,
+    "download_count": 4384
+  },
+  {
+    "name": "confluence",
+    "created_at": 1643633926,
+    "updated_at": 1693989733,
+    "download_count": 4724
+  },
+  {
+    "name": "search-notion",
+    "created_at": 1634630733,
+    "updated_at": 1689164596,
+    "download_count": 8502
+  },
+  {
+    "name": "connect-to-vpn",
+    "created_at": 1645133189,
+    "updated_at": 1693316412,
+    "download_count": 3647
+  },
+  {
+    "name": "remove-background",
+    "created_at": 1642510924,
+    "updated_at": 1647880062,
+    "download_count": 6399
+  },
+  {
+    "name": "search-npm",
+    "created_at": 1634720205,
+    "updated_at": 1693212412,
+    "download_count": 7389
+  },
+  {
+    "name": "terminalfinder",
+    "created_at": 1639031083,
+    "updated_at": 1688396591,
+    "download_count": 8702
+  },
+  {
+    "name": "apple-maps-search",
+    "created_at": 1653539931,
+    "updated_at": 1691483586,
+    "download_count": 5069
+  },
+  {
+    "name": "summarize-youtube-video-with-ai",
+    "created_at": 1685706647,
+    "updated_at": 1685771054,
+    "download_count": 2812
+  },
+  {
+    "name": "itranslate",
+    "created_at": 1660134572,
+    "updated_at": 1686040886,
+    "download_count": 2619
+  },
+  {
+    "name": "browser-history",
+    "created_at": 1670918133,
+    "updated_at": 1681894986,
+    "download_count": 2281
+  },
+  {
+    "name": "flush-dns",
+    "created_at": 1686751983,
+    "updated_at": 1686751983,
+    "download_count": 1037
+  },
+  {
+    "name": "craftdocs",
+    "created_at": 1653278002,
+    "updated_at": 1676148860,
+    "download_count": 4590
+  },
+  {
+    "name": "thesaurus",
+    "created_at": 1680780805,
+    "updated_at": 1680780805,
+    "download_count": 1071
+  },
+  {
+    "name": "ratio-calculator",
+    "created_at": 1697542407,
+    "updated_at": 1697542407,
+    "download_count": 45
+  },
+  {
+    "name": "screen-saver",
+    "created_at": 1656671723,
+    "updated_at": 1670231167,
+    "download_count": 2332
+  },
+  {
+    "name": "jwt-decoder",
+    "created_at": 1650658631,
+    "updated_at": 1669132996,
+    "download_count": 3928
+  },
+  {
+    "name": "logseq",
+    "created_at": 1649318191,
+    "updated_at": 1686052474,
+    "download_count": 3286
+  },
+  {
+    "name": "promptlab",
+    "created_at": 1687387242,
+    "updated_at": 1693384114,
+    "download_count": 2119
+  },
+  {
+    "name": "one-thing",
+    "created_at": 1666687162,
+    "updated_at": 1666878079,
+    "download_count": 4692
+  },
+  {
+    "name": "xcode",
+    "created_at": 1634329607,
+    "updated_at": 1697047181,
+    "download_count": 5449
+  },
+  {
+    "name": "ssh-manager",
+    "created_at": 1649191060,
+    "updated_at": 1695211971,
+    "download_count": 3297
+  },
+  {
+    "name": "airpods-noise-control",
+    "created_at": 1678718071,
+    "updated_at": 1678718071,
+    "download_count": 1288
+  },
+  {
+    "name": "youdao-translate",
+    "created_at": 1635231411,
+    "updated_at": 1669133945,
+    "download_count": 3920
+  },
+  {
+    "name": "curl",
+    "created_at": 1662039093,
+    "updated_at": 1695327043,
+    "download_count": 4129
+  },
+  {
+    "name": "asana",
+    "created_at": 1660812472,
+    "updated_at": 1694596879,
+    "download_count": 2694
+  },
+  {
+    "name": "microsoft-edge",
+    "created_at": 1637570786,
+    "updated_at": 1690289756,
+    "download_count": 4861
+  },
+  {
+    "name": "url-tools",
+    "created_at": 1644907445,
+    "updated_at": 1644907446,
+    "download_count": 3666
+  },
+  {
+    "name": "web-converter",
+    "created_at": 1661927548,
+    "updated_at": 1686736821,
+    "download_count": 2253
+  },
+  {
+    "name": "wechat",
+    "created_at": 1673945753,
+    "updated_at": 1674074421,
+    "download_count": 2904
+  },
+  {
+    "name": "mozilla-firefox",
+    "created_at": 1671510925,
+    "updated_at": 1671510925,
+    "download_count": 2023
+  },
+  {
+    "name": "quicktime",
+    "created_at": 1649140228,
+    "updated_at": 1649164885,
+    "download_count": 2773
+  },
+  {
+    "name": "easy-new-file",
+    "created_at": 1650619900,
+    "updated_at": 1675780074,
+    "download_count": 2568
+  },
+  {
+    "name": "recents",
+    "created_at": 1665057442,
+    "updated_at": 1685531646,
+    "download_count": 3549
+  },
+  {
+    "name": "system-information",
+    "created_at": 1693484243,
+    "updated_at": 1693484243,
+    "download_count": 382
+  },
+  {
+    "name": "date-format-converter",
+    "created_at": 1649360071,
+    "updated_at": 1694496799,
+    "download_count": 2260
+  },
+  {
+    "name": "hue",
+    "created_at": 1662785965,
+    "updated_at": 1697621502,
+    "download_count": 2313
+  },
+  {
+    "name": "hide-all-apps",
+    "created_at": 1668670587,
+    "updated_at": 1686931373,
+    "download_count": 1908
+  },
+  {
+    "name": "brew-services",
+    "created_at": 1634849165,
+    "updated_at": 1694151131,
+    "download_count": 5423
+  },
+  {
+    "name": "ai-gen",
+    "created_at": 1667969867,
+    "updated_at": 1695204839,
+    "download_count": 7157
+  },
+  {
+    "name": "open-in-visual-studio-code",
+    "created_at": 1661535167,
+    "updated_at": 1685966484,
+    "download_count": 4484
+  },
+  {
+    "name": "google-chrome-profiles",
+    "created_at": 1640863373,
+    "updated_at": 1697453057,
+    "download_count": 3973
+  },
+  {
+    "name": "toggl-track",
+    "created_at": 1643269254,
+    "updated_at": 1692690538,
+    "download_count": 4055
+  },
+  {
+    "name": "calendar",
+    "created_at": 1636562916,
+    "updated_at": 1692341505,
+    "download_count": 8548
+  },
+  {
+    "name": "network-speed",
+    "created_at": 1666781150,
+    "updated_at": 1696915971,
+    "download_count": 1497
+  },
+  {
+    "name": "toolbox",
+    "created_at": 1638541357,
+    "updated_at": 1675754461,
+    "download_count": 3903
+  },
+  {
+    "name": "session",
+    "created_at": 1654579866,
+    "updated_at": 1666846814,
+    "download_count": 3291
+  },
+  {
+    "name": "git-commands",
+    "created_at": 1692178714,
+    "updated_at": 1694196224,
+    "download_count": 1524
+  },
+  {
+    "name": "openai-translator",
+    "created_at": 1679476840,
+    "updated_at": 1694761605,
+    "download_count": 3382
+  },
+  {
+    "name": "auto-quit-app",
+    "created_at": 1670295695,
+    "updated_at": 1684214209,
+    "download_count": 821
+  },
+  {
+    "name": "fotmob",
+    "created_at": 1697622116,
+    "updated_at": 1697622132,
+    "download_count": 27
+  },
+  {
+    "name": "library-genesis",
+    "created_at": 1657817563,
+    "updated_at": 1672735882,
+    "download_count": 3721
+  },
+  {
+    "name": "unicode-symbols",
+    "created_at": 1637138975,
+    "updated_at": 1671457290,
+    "download_count": 4631
+  },
+  {
+    "name": "imdb",
+    "created_at": 1637140679,
+    "updated_at": 1686044584,
+    "download_count": 5107
+  },
+  {
+    "name": "raycast-arcade",
+    "created_at": 1691736911,
+    "updated_at": 1692126139,
+    "download_count": 636
+  },
+  {
+    "name": "spaces",
+    "created_at": 1655814360,
+    "updated_at": 1660737795,
+    "download_count": 1732
+  },
+  {
+    "name": "reddit-search",
+    "created_at": 1646383590,
+    "updated_at": 1652870880,
+    "download_count": 6245
+  },
+  {
+    "name": "bear",
+    "created_at": 1635276083,
+    "updated_at": 1689339640,
+    "download_count": 4920
+  },
+  {
+    "name": "twitter-video-downloader",
+    "created_at": 1695207180,
+    "updated_at": 1695207181,
+    "download_count": 167
+  },
+  {
+    "name": "url-shortener",
+    "created_at": 1692696574,
+    "updated_at": 1692696574,
+    "download_count": 415
+  },
+  {
+    "name": "postman",
+    "created_at": 1676403006,
+    "updated_at": 1676403006,
+    "download_count": 1698
+  },
+  {
+    "name": "google-tasks",
+    "created_at": 1671454304,
+    "updated_at": 1690098167,
+    "download_count": 1218
+  },
+  {
+    "name": "flow",
+    "created_at": 1638824427,
+    "updated_at": 1693814621,
+    "download_count": 3979
+  },
+  {
+    "name": "search-astro-docs",
+    "created_at": 1697633357,
+    "updated_at": 1697633357,
+    "download_count": 25
+  },
+  {
+    "name": "font-awesome",
+    "created_at": 1665898875,
+    "updated_at": 1688394729,
+    "download_count": 1902
+  },
+  {
+    "name": "readwise-reader",
+    "created_at": 1676896409,
+    "updated_at": 1680786908,
+    "download_count": 1567
+  },
+  {
+    "name": "chatgpt3-prompt",
+    "created_at": 1675894680,
+    "updated_at": 1676896065,
+    "download_count": 5954
+  },
+  {
+    "name": "raycast-google-palm",
+    "created_at": 1690960264,
+    "updated_at": 1690960264,
+    "download_count": 312
+  },
+  {
+    "name": "text-shortcuts",
+    "created_at": 1650953689,
+    "updated_at": 1666281391,
+    "download_count": 2235
+  },
+  {
+    "name": "numi",
+    "created_at": 1657793633,
+    "updated_at": 1689078937,
+    "download_count": 3658
+  },
+  {
+    "name": "menubar-weather",
+    "created_at": 1669228902,
+    "updated_at": 1692605540,
+    "download_count": 2905
+  },
+  {
+    "name": "simple-reminder",
+    "created_at": 1682570395,
+    "updated_at": 1683038024,
+    "download_count": 717
+  },
+  {
+    "name": "keyboard-shortcut-sequences",
+    "created_at": 1681369219,
+    "updated_at": 1688388844,
+    "download_count": 622
+  },
+  {
+    "name": "script-commands",
+    "created_at": 1639150422,
+    "updated_at": 1641386298,
+    "download_count": 2901
+  },
+  {
+    "name": "microsoft-teams-calling",
+    "created_at": 1681280368,
+    "updated_at": 1681280368,
+    "download_count": 905
+  },
+  {
+    "name": "meme-generator",
+    "created_at": 1665088761,
+    "updated_at": 1665088761,
+    "download_count": 3508
+  },
+  {
+    "name": "hypersonic",
+    "created_at": 1656316651,
+    "updated_at": 1693909825,
+    "download_count": 6368
+  },
+  {
+    "name": "colorslurp",
+    "created_at": 1660983511,
+    "updated_at": 1684150237,
+    "download_count": 1920
+  },
+  {
+    "name": "json-editor",
+    "created_at": 1672917738,
+    "updated_at": 1672917738,
+    "download_count": 996
+  },
+  {
+    "name": "zotero",
+    "created_at": 1634590956,
+    "updated_at": 1691988640,
+    "download_count": 2557
+  },
+  {
+    "name": "linux-command",
+    "created_at": 1647011062,
+    "updated_at": 1669133107,
+    "download_count": 1385
+  },
+  {
+    "name": "incognito-clone",
+    "created_at": 1684841238,
+    "updated_at": 1684841238,
+    "download_count": 194
+  },
+  {
+    "name": "aws",
+    "created_at": 1636560596,
+    "updated_at": 1692162136,
+    "download_count": 3643
+  },
+  {
+    "name": "jira-search-self-hosted",
+    "created_at": 1650875219,
+    "updated_at": 1694094321,
+    "download_count": 2087
+  },
+  {
+    "name": "steam",
+    "created_at": 1655529483,
+    "updated_at": 1684837735,
+    "download_count": 1736
+  },
+  {
+    "name": "world-clock",
+    "created_at": 1653541477,
+    "updated_at": 1697456753,
+    "download_count": 2173
+  },
+  {
+    "name": "iconify",
+    "created_at": 1648739446,
+    "updated_at": 1680778301,
+    "download_count": 2157
+  },
+  {
+    "name": "ohmyzsh-plugins",
+    "created_at": 1664767922,
+    "updated_at": 1664767923,
+    "download_count": 2058
+  },
+  {
+    "name": "type-snob",
+    "created_at": 1679772283,
+    "updated_at": 1681486966,
+    "download_count": 643
+  },
+  {
+    "name": "open-link-in-specific-browser",
+    "created_at": 1646951403,
+    "updated_at": 1680153224,
+    "download_count": 1310
+  },
+  {
+    "name": "vercast",
+    "created_at": 1634308844,
+    "updated_at": 1681323341,
+    "download_count": 3148
+  },
+  {
+    "name": "facetime",
+    "created_at": 1645432376,
+    "updated_at": 1669132557,
+    "download_count": 6188
+  },
+  {
+    "name": "wifi-password-reveal",
+    "created_at": 1682508325,
+    "updated_at": 1682508326,
+    "download_count": 1011
+  },
+  {
+    "name": "jira-search",
+    "created_at": 1642150106,
+    "updated_at": 1684222506,
+    "download_count": 4572
+  },
+  {
+    "name": "trello",
+    "created_at": 1646672043,
+    "updated_at": 1687815195,
+    "download_count": 2258
+  },
+  {
+    "name": "brave",
+    "created_at": 1649184210,
+    "updated_at": 1681893775,
+    "download_count": 4170
+  },
+  {
+    "name": "dropbox",
+    "created_at": 1650602882,
+    "updated_at": 1673963510,
+    "download_count": 2353
+  },
+  {
+    "name": "can-i-use",
+    "created_at": 1640078449,
+    "updated_at": 1659167406,
+    "download_count": 5175
+  },
+  {
+    "name": "network-menubar-monitor",
+    "created_at": 1696933359,
+    "updated_at": 1696933359,
+    "download_count": 54
+  },
+  {
+    "name": "clipboard-editor",
+    "created_at": 1663782862,
+    "updated_at": 1663782862,
+    "download_count": 2266
+  },
+  {
+    "name": "battery-menubar",
+    "created_at": 1695205048,
+    "updated_at": 1695205048,
+    "download_count": 249
+  },
+  {
+    "name": "snake",
+    "created_at": 1636533553,
+    "updated_at": 1669232045,
+    "download_count": 4148
+  },
+  {
+    "name": "night-light",
+    "created_at": 1658308478,
+    "updated_at": 1688117323,
+    "download_count": 1175
+  },
+  {
+    "name": "raycast-icons",
+    "created_at": 1634485013,
+    "updated_at": 1667835347,
+    "download_count": 1614
+  },
+  {
+    "name": "large-type",
+    "created_at": 1640163659,
+    "updated_at": 1650976754,
+    "download_count": 1401
+  },
+  {
+    "name": "polished",
+    "created_at": 1640189208,
+    "updated_at": 1681210579,
+    "download_count": 2733
+  },
+  {
+    "name": "wolfram-alpha",
+    "created_at": 1643022521,
+    "updated_at": 1643022521,
+    "download_count": 4598
+  },
+  {
+    "name": "quick-call",
+    "created_at": 1693316720,
+    "updated_at": 1693316720,
+    "download_count": 348
+  },
+  {
+    "name": "bing-search",
+    "created_at": 1680252457,
+    "updated_at": 1680252457,
+    "download_count": 859
+  },
+  {
+    "name": "dock-tinker",
+    "created_at": 1653465297,
+    "updated_at": 1675344027,
+    "download_count": 1357
+  },
+  {
+    "name": "date-converter",
+    "created_at": 1686814950,
+    "updated_at": 1687205530,
+    "download_count": 436
+  },
+  {
+    "name": "color-casket",
+    "created_at": 1650905278,
+    "updated_at": 1684147004,
+    "download_count": 5290
+  },
+  {
+    "name": "stablecog",
+    "created_at": 1696941854,
+    "updated_at": 1697520760,
+    "download_count": 82
+  },
+  {
+    "name": "manage-clickup-tasks",
+    "created_at": 1642676354,
+    "updated_at": 1673930238,
+    "download_count": 2699
+  },
+  {
+    "name": "zipcodebase",
+    "created_at": 1697627336,
+    "updated_at": 1697627337,
+    "download_count": 16
+  },
+  {
+    "name": "capture-fullpage-of-website",
+    "created_at": 1655302978,
+    "updated_at": 1669132253,
+    "download_count": 1339
+  },
+  {
+    "name": "laravel-docs",
+    "created_at": 1642424886,
+    "updated_at": 1681363526,
+    "download_count": 2851
+  },
+  {
+    "name": "youtube-companion",
+    "created_at": 1650875607,
+    "updated_at": 1650875607,
+    "download_count": 1738
+  },
+  {
+    "name": "whois",
+    "created_at": 1682941021,
+    "updated_at": 1697655408,
+    "download_count": 814
+  },
+  {
+    "name": "color-shades",
+    "created_at": 1689343852,
+    "updated_at": 1689343852,
+    "download_count": 280
+  },
+  {
+    "name": "lastpass",
+    "created_at": 1677501029,
+    "updated_at": 1697698084,
+    "download_count": 572
+  },
+  {
+    "name": "brightness-control",
+    "created_at": 1659523427,
+    "updated_at": 1659523428,
+    "download_count": 1301
+  },
+  {
+    "name": "1-click-confetti",
+    "created_at": 1663698046,
+    "updated_at": 1694429043,
+    "download_count": 2125
+  },
+  {
+    "name": "bitly-url-shortener",
+    "created_at": 1638823411,
+    "updated_at": 1681222404,
+    "download_count": 4136
+  },
+  {
+    "name": "idonthavespotify",
+    "created_at": 1680256640,
+    "updated_at": 1697781048,
+    "download_count": 548
+  },
+  {
+    "name": "kagi-search",
+    "created_at": 1645133252,
+    "updated_at": 1645133252,
+    "download_count": 737
+  },
+  {
+    "name": "miro",
+    "created_at": 1668179112,
+    "updated_at": 1694093045,
+    "download_count": 904
+  },
+  {
+    "name": "markdown-reference",
+    "created_at": 1641997568,
+    "updated_at": 1669133146,
+    "download_count": 4885
+  },
+  {
+    "name": "twitter",
+    "created_at": 1635005985,
+    "updated_at": 1684748656,
+    "download_count": 5755
+  },
+  {
+    "name": "hacker-news",
+    "created_at": 1633969223,
+    "updated_at": 1676027162,
+    "download_count": 6555
+  },
+  {
+    "name": "regex-tester",
+    "created_at": 1656391201,
+    "updated_at": 1669133460,
+    "download_count": 3274
+  },
+  {
+    "name": "tailscale",
+    "created_at": 1649364350,
+    "updated_at": 1696330121,
+    "download_count": 1434
+  },
+  {
+    "name": "flaticon",
+    "created_at": 1670924813,
+    "updated_at": 1682404832,
+    "download_count": 890
+  },
+  {
+    "name": "gitmoji",
+    "created_at": 1634662004,
+    "updated_at": 1692812415,
+    "download_count": 1973
+  },
+  {
+    "name": "toggle-menu-bar",
+    "created_at": 1684214894,
+    "updated_at": 1694674147,
+    "download_count": 416
+  },
+  {
+    "name": "random-password-generator",
+    "created_at": 1649942089,
+    "updated_at": 1659447641,
+    "download_count": 1402
+  },
+  {
+    "name": "clipboard-formatter",
+    "created_at": 1684914826,
+    "updated_at": 1684914826,
+    "download_count": 332
+  },
+  {
+    "name": "lyrics",
+    "created_at": 1672991820,
+    "updated_at": 1672991820,
+    "download_count": 977
+  },
+  {
+    "name": "bobcontrol",
+    "created_at": 1667991519,
+    "updated_at": 1678177496,
+    "download_count": 549
+  },
+  {
+    "name": "dad-jokes",
+    "created_at": 1665901063,
+    "updated_at": 1665951467,
+    "download_count": 1463
+  },
+  {
+    "name": "anybox",
+    "created_at": 1652249260,
+    "updated_at": 1697188836,
+    "download_count": 1219
+  },
+  {
+    "name": "two-factor-authentication-code-generator",
+    "created_at": 1634711208,
+    "updated_at": 1681809539,
+    "download_count": 2162
+  },
+  {
+    "name": "displayplacer",
+    "created_at": 1637742066,
+    "updated_at": 1668693592,
+    "download_count": 2741
+  },
+  {
+    "name": "encoding-tools",
+    "created_at": 1650630361,
+    "updated_at": 1666068264,
+    "download_count": 1553
+  },
+  {
+    "name": "epoch-to-timestamp",
+    "created_at": 1676364891,
+    "updated_at": 1676364891,
+    "download_count": 537
+  },
+  {
+    "name": "discord",
+    "created_at": 1651297474,
+    "updated_at": 1651297474,
+    "download_count": 2365
+  },
+  {
+    "name": "stock-tracker",
+    "created_at": 1679978529,
+    "updated_at": 1685961677,
+    "download_count": 566
+  },
+  {
+    "name": "duck-duck-go-search",
+    "created_at": 1681818867,
+    "updated_at": 1684146521,
+    "download_count": 688
+  },
+  {
+    "name": "bintools",
+    "created_at": 1687433493,
+    "updated_at": 1687433493,
+    "download_count": 224
+  },
+  {
+    "name": "screen-studio",
+    "created_at": 1684500461,
+    "updated_at": 1684941831,
+    "download_count": 828
+  },
+  {
+    "name": "tmdb",
+    "created_at": 1658922630,
+    "updated_at": 1680175750,
+    "download_count": 1063
+  },
+  {
+    "name": "work-time-countdown",
+    "created_at": 1668551943,
+    "updated_at": 1668684447,
+    "download_count": 881
+  },
+  {
+    "name": "pexels",
+    "created_at": 1651294300,
+    "updated_at": 1680257598,
+    "download_count": 1130
+  },
+  {
+    "name": "converter",
+    "created_at": 1652253545,
+    "updated_at": 1684219223,
+    "download_count": 930
+  },
+  {
+    "name": "mute-microphone",
+    "created_at": 1686819777,
+    "updated_at": 1697533580,
+    "download_count": 372
+  },
+  {
+    "name": "latex-math-symbols",
+    "created_at": 1668492592,
+    "updated_at": 1668492593,
+    "download_count": 1004
+  },
+  {
+    "name": "github-trending",
+    "created_at": 1678180229,
+    "updated_at": 1682332261,
+    "download_count": 657
+  },
+  {
+    "name": "tldr",
+    "created_at": 1637570545,
+    "updated_at": 1669133714,
+    "download_count": 3758
+  },
+  {
+    "name": "memorable-generate-password",
+    "created_at": 1685094675,
+    "updated_at": 1685094675,
+    "download_count": 212
+  },
+  {
+    "name": "github-gist",
+    "created_at": 1649361618,
+    "updated_at": 1690351888,
+    "download_count": 1800
+  },
+  {
+    "name": "compress-pdf",
+    "created_at": 1668688326,
+    "updated_at": 1668688326,
+    "download_count": 859
+  },
+  {
+    "name": "clockify",
+    "created_at": 1635185146,
+    "updated_at": 1676003488,
+    "download_count": 1657
+  },
+  {
+    "name": "refresh-wifi",
+    "created_at": 1650087476,
+    "updated_at": 1650087477,
+    "download_count": 1959
+  },
+  {
+    "name": "kagi-fastgpt",
+    "created_at": 1686568557,
+    "updated_at": 1688047011,
+    "download_count": 250
+  },
+  {
+    "name": "bettertouchtool",
+    "created_at": 1677705451,
+    "updated_at": 1684835078,
+    "download_count": 606
+  },
+  {
+    "name": "podcasts",
+    "created_at": 1647332723,
+    "updated_at": 1669133369,
+    "download_count": 2220
+  },
+  {
+    "name": "world-clock",
+    "created_at": 1688967611,
+    "updated_at": 1688967611,
+    "download_count": 270
+  },
+  {
+    "name": "heroicons",
+    "created_at": 1661864119,
+    "updated_at": 1692118961,
+    "download_count": 1323
+  },
+  {
+    "name": "gitignore",
+    "created_at": 1646051366,
+    "updated_at": 1696092889,
+    "download_count": 1745
+  },
+  {
+    "name": "ffmpeg",
+    "created_at": 1694093231,
+    "updated_at": 1694463910,
+    "download_count": 144
+  },
+  {
+    "name": "open-path",
+    "created_at": 1652701674,
+    "updated_at": 1686561749,
+    "download_count": 1212
+  },
+  {
+    "name": "drafts",
+    "created_at": 1654841203,
+    "updated_at": 1683868322,
+    "download_count": 2361
+  },
+  {
+    "name": "pocket",
+    "created_at": 1646231386,
+    "updated_at": 1697447421,
+    "download_count": 2090
+  },
+  {
+    "name": "cal-com-share-meeting-links",
+    "created_at": 1662534736,
+    "updated_at": 1694435770,
+    "download_count": 1068
+  },
+  {
+    "name": "pins",
+    "created_at": 1665175105,
+    "updated_at": 1694431848,
+    "download_count": 1381
+  },
+  {
+    "name": "dockerhub",
+    "created_at": 1642425335,
+    "updated_at": 1690964561,
+    "download_count": 2156
+  },
+  {
+    "name": "typer",
+    "created_at": 1678719773,
+    "updated_at": 1678719773,
+    "download_count": 325
+  },
+  {
+    "name": "any-website-search",
+    "created_at": 1663674883,
+    "updated_at": 1664445426,
+    "download_count": 1073
+  },
+  {
+    "name": "texts",
+    "created_at": 1692094039,
+    "updated_at": 1692094039,
+    "download_count": 207
+  },
+  {
+    "name": "uptime",
+    "created_at": 1690963628,
+    "updated_at": 1690963628,
+    "download_count": 166
+  },
+  {
+    "name": "tempmail",
+    "created_at": 1682842220,
+    "updated_at": 1685448072,
+    "download_count": 461
+  },
+  {
+    "name": "get-ssh-key",
+    "created_at": 1677821914,
+    "updated_at": 1677821914,
+    "download_count": 657
+  },
+  {
+    "name": "signal",
+    "created_at": 1652155491,
+    "updated_at": 1654491353,
+    "download_count": 1133
+  },
+  {
+    "name": "archiver",
+    "created_at": 1669212424,
+    "updated_at": 1669641681,
+    "download_count": 446
+  },
+  {
+    "name": "parallels-virtual-machines",
+    "created_at": 1663699481,
+    "updated_at": 1663699481,
+    "download_count": 1102
+  },
+  {
+    "name": "quick-search",
+    "created_at": 1640336278,
+    "updated_at": 1676930504,
+    "download_count": 3397
+  },
+  {
+    "name": "shortcut",
+    "created_at": 1660287155,
+    "updated_at": 1660558688,
+    "download_count": 493
+  },
+  {
+    "name": "sf-symbols-search",
+    "created_at": 1641552955,
+    "updated_at": 1663254271,
+    "download_count": 2825
+  },
+  {
+    "name": "bilibili",
+    "created_at": 1663582633,
+    "updated_at": 1695243227,
+    "download_count": 543
+  },
+  {
+    "name": "tunnelblick",
+    "created_at": 1641999138,
+    "updated_at": 1690199855,
+    "download_count": 1997
+  },
+  {
+    "name": "noteplan-3",
+    "created_at": 1650626807,
+    "updated_at": 1680000883,
+    "download_count": 883
+  },
+  {
+    "name": "text-decorator",
+    "created_at": 1655876037,
+    "updated_at": 1669796900,
+    "download_count": 1017
+  },
+  {
+    "name": "notion_researcher",
+    "created_at": 1693302649,
+    "updated_at": 1695327292,
+    "download_count": 97
+  },
+  {
+    "name": "ihosts",
+    "created_at": 1662459115,
+    "updated_at": 1669760147,
+    "download_count": 1063
+  },
+  {
+    "name": "screen-math",
+    "created_at": 1694775063,
+    "updated_at": 1694775063,
+    "download_count": 90
+  },
+  {
+    "name": "keepassxc",
+    "created_at": 1644567804,
+    "updated_at": 1698156814,
+    "download_count": 1300
+  },
+  {
+    "name": "devdocs",
+    "created_at": 1636533483,
+    "updated_at": 1678807617,
+    "download_count": 3115
+  },
+  {
+    "name": "bitbucket",
+    "created_at": 1639688627,
+    "updated_at": 1687169565,
+    "download_count": 1972
+  },
+  {
+    "name": "obsidian-bookmarks",
+    "created_at": 1653411578,
+    "updated_at": 1676443116,
+    "download_count": 2087
+  },
+  {
+    "name": "jump",
+    "created_at": 1675764931,
+    "updated_at": 1675764931,
+    "download_count": 510
+  },
+  {
+    "name": "remember-this",
+    "created_at": 1688120392,
+    "updated_at": 1688120392,
+    "download_count": 273
+  },
+  {
+    "name": "ping",
+    "created_at": 1692949971,
+    "updated_at": 1693287865,
+    "download_count": 151
+  },
+  {
+    "name": "mailsy",
+    "created_at": 1654836458,
+    "updated_at": 1673966769,
+    "download_count": 1045
+  },
+  {
+    "name": "mynaui-icons",
+    "created_at": 1697053470,
+    "updated_at": 1697053470,
+    "download_count": 30
+  },
+  {
+    "name": "clash",
+    "created_at": 1640863554,
+    "updated_at": 1670249238,
+    "download_count": 1706
+  },
+  {
+    "name": "minisim",
+    "created_at": 1693229297,
+    "updated_at": 1693229297,
+    "download_count": 88
+  },
+  {
+    "name": "quick-access",
+    "created_at": 1650646508,
+    "updated_at": 1665821408,
+    "download_count": 1054
+  },
+  {
+    "name": "transmission",
+    "created_at": 1635246979,
+    "updated_at": 1682839700,
+    "download_count": 1618
+  },
+  {
+    "name": "namespaces",
+    "created_at": 1664279736,
+    "updated_at": 1664279736,
+    "download_count": 990
+  },
+  {
+    "name": "prettier",
+    "created_at": 1675413469,
+    "updated_at": 1682406256,
+    "download_count": 510
+  },
+  {
+    "name": "wireguard",
+    "created_at": 1678789998,
+    "updated_at": 1685454750,
+    "download_count": 478
+  },
+  {
+    "name": "grammari-x",
+    "created_at": 1693991674,
+    "updated_at": 1695243136,
+    "download_count": 87
+  },
+  {
+    "name": "setapp",
+    "created_at": 1688480449,
+    "updated_at": 1688480449,
+    "download_count": 477
+  },
+  {
+    "name": "dashlane",
+    "created_at": 1667222882,
+    "updated_at": 1667222882,
+    "download_count": 897
+  },
+  {
+    "name": "raycast-surge",
+    "created_at": 1639558248,
+    "updated_at": 1664018258,
+    "download_count": 616
+  },
+  {
+    "name": "tailwind-size-conversion",
+    "created_at": 1687531817,
+    "updated_at": 1687531817,
+    "download_count": 147
+  },
+  {
+    "name": "icons8",
+    "created_at": 1658930594,
+    "updated_at": 1672733592,
+    "download_count": 1001
+  },
+  {
+    "name": "leetcode",
+    "created_at": 1674819534,
+    "updated_at": 1674819534,
+    "download_count": 376
+  },
+  {
+    "name": "input-switcher",
+    "created_at": 1646953071,
+    "updated_at": 1678795965,
+    "download_count": 1062
+  },
+  {
+    "name": "search-justwatch",
+    "created_at": 1649183878,
+    "updated_at": 1697526416,
+    "download_count": 1529
+  },
+  {
+    "name": "reflect",
+    "created_at": 1675919719,
+    "updated_at": 1690347567,
+    "download_count": 425
+  },
+  {
+    "name": "cron-description",
+    "created_at": 1666779534,
+    "updated_at": 1666779534,
+    "download_count": 713
+  },
+  {
+    "name": "utm-virtual-machines",
+    "created_at": 1676263064,
+    "updated_at": 1687202166,
+    "download_count": 212
+  },
+  {
+    "name": "apple-books",
+    "created_at": 1681893293,
+    "updated_at": 1681893293,
+    "download_count": 639
+  },
+  {
+    "name": "raycast-wallpaper",
+    "created_at": 1649679713,
+    "updated_at": 1692605129,
+    "download_count": 2876
+  },
+  {
+    "name": "ulysses",
+    "created_at": 1642753671,
+    "updated_at": 1642969264,
+    "download_count": 808
+  },
+  {
+    "name": "transmit",
+    "created_at": 1652852196,
+    "updated_at": 1669133765,
+    "download_count": 950
+  },
+  {
+    "name": "dig",
+    "created_at": 1652070524,
+    "updated_at": 1652070524,
+    "download_count": 1414
+  },
+  {
+    "name": "bible",
+    "created_at": 1650776095,
+    "updated_at": 1696427488,
+    "download_count": 910
+  },
+  {
+    "name": "vivaldi",
+    "created_at": 1671522627,
+    "updated_at": 1674650353,
+    "download_count": 612
+  },
+  {
+    "name": "kaomoji-search",
+    "created_at": 1643797026,
+    "updated_at": 1676149379,
+    "download_count": 715
+  },
+  {
+    "name": "douban",
+    "created_at": 1681901497,
+    "updated_at": 1698055900,
+    "download_count": 359
+  },
+  {
+    "name": "goodreads",
+    "created_at": 1691038511,
+    "updated_at": 1691734944,
+    "download_count": 236
+  },
+  {
+    "name": "moon-phrase",
+    "created_at": 1674108695,
+    "updated_at": 1674108695,
+    "download_count": 169
+  },
+  {
+    "name": "node-js-evaluate",
+    "created_at": 1646659451,
+    "updated_at": 1646908858,
+    "download_count": 1179
+  },
+  {
+    "name": "microsoft-azure",
+    "created_at": 1672918508,
+    "updated_at": 1672928457,
+    "download_count": 457
+  },
+  {
+    "name": "px-to-rem-converter",
+    "created_at": 1650916685,
+    "updated_at": 1650916688,
+    "download_count": 660
+  },
+  {
+    "name": "gcp-search",
+    "created_at": 1644316876,
+    "updated_at": 1669132721,
+    "download_count": 830
+  },
+  {
+    "name": "link-cleaner",
+    "created_at": 1661949899,
+    "updated_at": 1661949899,
+    "download_count": 1675
+  },
+  {
+    "name": "naver-search",
+    "created_at": 1678876664,
+    "updated_at": 1690977787,
+    "download_count": 286
+  },
+  {
+    "name": "focus-anchor",
+    "created_at": 1682676149,
+    "updated_at": 1682676149,
+    "download_count": 89
+  },
+  {
+    "name": "dock",
+    "created_at": 1650300396,
+    "updated_at": 1650300396,
+    "download_count": 765
+  },
+  {
+    "name": "devonthink",
+    "created_at": 1662443977,
+    "updated_at": 1694093873,
+    "download_count": 1413
+  },
+  {
+    "name": "palette-colors",
+    "created_at": 1665558080,
+    "updated_at": 1681210557,
+    "download_count": 819
+  },
+  {
+    "name": "rss-reader",
+    "created_at": 1634830495,
+    "updated_at": 1669134503,
+    "download_count": 1630
+  },
+  {
+    "name": "obs-clippings",
+    "created_at": 1687496377,
+    "updated_at": 1687496377,
+    "download_count": 337
+  },
+  {
+    "name": "espanso",
+    "created_at": 1683793954,
+    "updated_at": 1693292921,
+    "download_count": 196
+  },
+  {
+    "name": "react-docs",
+    "created_at": 1672992219,
+    "updated_at": 1672992219,
+    "download_count": 537
+  },
+  {
+    "name": "apple-devices",
+    "created_at": 1685699059,
+    "updated_at": 1695566516,
+    "download_count": 448
+  },
+  {
+    "name": "toggle-desktop-visibility",
+    "created_at": 1652176603,
+    "updated_at": 1652176604,
+    "download_count": 907
+  },
+  {
+    "name": "glyph-search",
+    "created_at": 1679999348,
+    "updated_at": 1679999349,
+    "download_count": 491
+  },
+  {
+    "name": "sourcegraph",
+    "created_at": 1642713107,
+    "updated_at": 1672734336,
+    "download_count": 1246
+  },
+  {
+    "name": "typographer",
+    "created_at": 1649362787,
+    "updated_at": 1649362787,
+    "download_count": 658
+  },
+  {
+    "name": "twitch",
+    "created_at": 1641855756,
+    "updated_at": 1660125711,
+    "download_count": 1185
+  },
+  {
+    "name": "office2pdf",
+    "created_at": 1675796680,
+    "updated_at": 1675796680,
+    "download_count": 143
+  },
+  {
+    "name": "developer-excuse",
+    "created_at": 1694696625,
+    "updated_at": 1694696625,
+    "download_count": 143
+  },
+  {
+    "name": "nextjs-docs",
+    "created_at": 1650615836,
+    "updated_at": 1667221856,
+    "download_count": 820
+  },
+  {
+    "name": "time-until-i-do",
+    "created_at": 1678909839,
+    "updated_at": 1678909839,
+    "download_count": 284
+  },
+  {
+    "name": "life-progress",
+    "created_at": 1650526314,
+    "updated_at": 1669898317,
+    "download_count": 934
+  },
+  {
+    "name": "sip",
+    "created_at": 1655206908,
+    "updated_at": 1655206908,
+    "download_count": 1198
+  },
+  {
+    "name": "papago-translate",
+    "created_at": 1696839784,
+    "updated_at": 1696839784,
+    "download_count": 21
+  },
+  {
+    "name": "writersbrew",
+    "created_at": 1673514370,
+    "updated_at": 1684180551,
+    "download_count": 679
+  },
+  {
+    "name": "premier-league",
+    "created_at": 1650478197,
+    "updated_at": 1677010787,
+    "download_count": 1093
+  },
+  {
+    "name": "package-tracker",
+    "created_at": 1678719360,
+    "updated_at": 1678719360,
+    "download_count": 183
+  },
+  {
+    "name": "conventional-commits",
+    "created_at": 1693489419,
+    "updated_at": 1697447825,
+    "download_count": 146
+  },
+  {
+    "name": "dice-and-coin",
+    "created_at": 1673353990,
+    "updated_at": 1673353990,
+    "download_count": 475
+  },
+  {
+    "name": "list-keyboard-maestro-macros",
+    "created_at": 1646232964,
+    "updated_at": 1686555969,
+    "download_count": 2819
+  },
+  {
+    "name": "browsers-profiles",
+    "created_at": 1655364169,
+    "updated_at": 1670244543,
+    "download_count": 699
+  },
+  {
+    "name": "restore-photos",
+    "created_at": 1674631176,
+    "updated_at": 1674631178,
+    "download_count": 271
+  },
+  {
+    "name": "yandex-music",
+    "created_at": 1653484336,
+    "updated_at": 1669133928,
+    "download_count": 497
+  },
+  {
+    "name": "arxiv",
+    "created_at": 1685526561,
+    "updated_at": 1685526561,
+    "download_count": 194
+  },
+  {
+    "name": "tyme-3-time-tracker",
+    "created_at": 1697453511,
+    "updated_at": 1697453511,
+    "download_count": 8
+  },
+  {
+    "name": "single-disk-eject",
+    "created_at": 1637274009,
+    "updated_at": 1669133545,
+    "download_count": 2769
+  },
+  {
+    "name": "regex-repl",
+    "created_at": 1667981818,
+    "updated_at": 1696833521,
+    "download_count": 541
+  },
+  {
+    "name": "sun-moon-times",
+    "created_at": 1681813229,
+    "updated_at": 1684180092,
+    "download_count": 186
+  },
+  {
+    "name": "commit-message-generator",
+    "created_at": 1697456381,
+    "updated_at": 1697456381,
+    "download_count": 14
+  },
+  {
+    "name": "pipe-commands",
+    "created_at": 1646052790,
+    "updated_at": 1698154973,
+    "download_count": 707
+  },
+  {
+    "name": "material-icons",
+    "created_at": 1650630320,
+    "updated_at": 1697460651,
+    "download_count": 1476
+  },
+  {
+    "name": "f1-standings",
+    "created_at": 1645434630,
+    "updated_at": 1679297857,
+    "download_count": 2168
+  },
+  {
+    "name": "reverso-context",
+    "created_at": 1664223429,
+    "updated_at": 1674722205,
+    "download_count": 505
+  },
+  {
+    "name": "passphrase-generator",
+    "created_at": 1657865744,
+    "updated_at": 1657865763,
+    "download_count": 423
+  },
+  {
+    "name": "search-hookmark",
+    "created_at": 1684996472,
+    "updated_at": 1685866029,
+    "download_count": 314
+  },
+  {
+    "name": "readwise",
+    "created_at": 1649180272,
+    "updated_at": 1649180273,
+    "download_count": 1933
+  },
+  {
+    "name": "jisho",
+    "created_at": 1642150355,
+    "updated_at": 1689085318,
+    "download_count": 427
+  },
+  {
+    "name": "urban-dictionary",
+    "created_at": 1663700800,
+    "updated_at": 1696326405,
+    "download_count": 1264
+  },
+  {
+    "name": "phind-search",
+    "created_at": 1696489540,
+    "updated_at": 1696489540,
+    "download_count": 52
+  },
+  {
+    "name": "ngrok",
+    "created_at": 1694712837,
+    "updated_at": 1696329525,
+    "download_count": 68
+  },
+  {
+    "name": "codesnap",
+    "created_at": 1663880009,
+    "updated_at": 1663880009,
+    "download_count": 492
+  },
+  {
+    "name": "music-timer",
+    "created_at": 1691394256,
+    "updated_at": 1691394256,
+    "download_count": 190
+  },
+  {
+    "name": "tana",
+    "created_at": 1669351481,
+    "updated_at": 1669351481,
+    "download_count": 1021
+  },
+  {
+    "name": "producthunt",
+    "created_at": 1634492533,
+    "updated_at": 1693902350,
+    "download_count": 3473
+  },
+  {
+    "name": "flight-miles-calculator",
+    "created_at": 1697527195,
+    "updated_at": 1698152133,
+    "download_count": 10
+  },
+  {
+    "name": "simple-youdao",
+    "created_at": 1653459902,
+    "updated_at": 1654090714,
+    "download_count": 480
+  },
+  {
+    "name": "ssh-tunnel-manager",
+    "created_at": 1674131527,
+    "updated_at": 1674132003,
+    "download_count": 242
+  },
+  {
+    "name": "internet-radio",
+    "created_at": 1675156250,
+    "updated_at": 1677189519,
+    "download_count": 343
+  },
+  {
+    "name": "utm-campaign-builder",
+    "created_at": 1697709189,
+    "updated_at": 1697709190,
+    "download_count": 7
+  },
+  {
+    "name": "quick-web",
+    "created_at": 1694698696,
+    "updated_at": 1694698696,
+    "download_count": 36
+  },
+  {
+    "name": "zoom-meeting-control",
+    "created_at": 1698146753,
+    "updated_at": 1698146753,
+    "download_count": 3
+  },
+  {
+    "name": "memos",
+    "created_at": 1676554557,
+    "updated_at": 1695566871,
+    "download_count": 368
+  },
+  {
+    "name": "getsound",
+    "created_at": 1689167271,
+    "updated_at": 1691413650,
+    "download_count": 186
+  },
+  {
+    "name": "placeholder",
+    "created_at": 1652292812,
+    "updated_at": 1670230587,
+    "download_count": 1570
+  },
+  {
+    "name": "unitex",
+    "created_at": 1685009013,
+    "updated_at": 1685009013,
+    "download_count": 139
+  },
+  {
+    "name": "pixabay",
+    "created_at": 1667906704,
+    "updated_at": 1690796970,
+    "download_count": 440
+  },
+  {
+    "name": "brave-search",
+    "created_at": 1672901402,
+    "updated_at": 1698165032,
+    "download_count": 539
+  },
+  {
+    "name": "chinese-character",
+    "created_at": 1655707376,
+    "updated_at": 1683530523,
+    "download_count": 287
+  },
+  {
+    "name": "simpletexocr",
+    "created_at": 1698057173,
+    "updated_at": 1698057173,
+    "download_count": 7
+  },
+  {
+    "name": "eagle",
+    "created_at": 1651553200,
+    "updated_at": 1651553200,
+    "download_count": 688
+  },
+  {
+    "name": "domainr",
+    "created_at": 1635446920,
+    "updated_at": 1669132509,
+    "download_count": 1030
+  },
+  {
+    "name": "pokedex",
+    "created_at": 1645133226,
+    "updated_at": 1675437008,
+    "download_count": 890
+  },
+  {
+    "name": "party-parrot",
+    "created_at": 1634245710,
+    "updated_at": 1669133294,
+    "download_count": 2197
+  },
+  {
+    "name": "hide-files",
+    "created_at": 1652707248,
+    "updated_at": 1666335232,
+    "download_count": 791
+  },
+  {
+    "name": "stackoverflow",
+    "created_at": 1636533681,
+    "updated_at": 1691263800,
+    "download_count": 5325
+  },
+  {
+    "name": "common-directory",
+    "created_at": 1650868953,
+    "updated_at": 1668670740,
+    "download_count": 753
+  },
+  {
+    "name": "short-io",
+    "created_at": 1656509444,
+    "updated_at": 1664452551,
+    "download_count": 405
+  },
+  {
+    "name": "houdahspot-search",
+    "created_at": 1669238224,
+    "updated_at": 1669238224,
+    "download_count": 338
+  },
+  {
+    "name": "send-to-flomo",
+    "created_at": 1637252631,
+    "updated_at": 1689760147,
+    "download_count": 756
+  },
+  {
+    "name": "nba-viewer",
+    "created_at": 1653595270,
+    "updated_at": 1678873461,
+    "download_count": 753
+  },
+  {
+    "name": "let-me-google-that",
+    "created_at": 1687960580,
+    "updated_at": 1687960580,
+    "download_count": 95
+  },
+  {
+    "name": "github-review-requests",
+    "created_at": 1649359944,
+    "updated_at": 1669132670,
+    "download_count": 928
+  },
+  {
+    "name": "wayback-machine",
+    "created_at": 1676039563,
+    "updated_at": 1697458757,
+    "download_count": 1395
+  },
+  {
+    "name": "soundboard",
+    "created_at": 1668459900,
+    "updated_at": 1668683369,
+    "download_count": 238
+  },
+  {
+    "name": "doutu",
+    "created_at": 1663251913,
+    "updated_at": 1682405659,
+    "download_count": 731
+  },
+  {
+    "name": "baidu-ocr",
+    "created_at": 1684838947,
+    "updated_at": 1684838947,
+    "download_count": 171
+  },
+  {
+    "name": "netease-music",
+    "created_at": 1650362386,
+    "updated_at": 1650362390,
+    "download_count": 709
+  },
+  {
+    "name": "script-kit",
+    "created_at": 1637742190,
+    "updated_at": 1641386305,
+    "download_count": 610
+  },
+  {
+    "name": "markdown-table-generator",
+    "created_at": 1693481500,
+    "updated_at": 1693481500,
+    "download_count": 116
+  },
+  {
+    "name": "wordle",
+    "created_at": 1676011297,
+    "updated_at": 1676011297,
+    "download_count": 242
+  },
+  {
+    "name": "explain-command",
+    "created_at": 1690879217,
+    "updated_at": 1690879217,
+    "download_count": 91
+  },
+  {
+    "name": "coinmarketcap-crypto-price-crawler",
+    "created_at": 1635276152,
+    "updated_at": 1644907900,
+    "download_count": 2746
+  },
+  {
+    "name": "shadcn-ui",
+    "created_at": 1686777465,
+    "updated_at": 1692600383,
+    "download_count": 231
+  },
+  {
+    "name": "lark",
+    "created_at": 1634809795,
+    "updated_at": 1690187405,
+    "download_count": 1070
+  },
+  {
+    "name": "onenote",
+    "created_at": 1676351122,
+    "updated_at": 1676351123,
+    "download_count": 699
+  },
+  {
+    "name": "ip-tools",
+    "created_at": 1698146317,
+    "updated_at": 1698146317,
+    "download_count": 4
+  },
+  {
+    "name": "just-focus",
+    "created_at": 1659597415,
+    "updated_at": 1669878617,
+    "download_count": 424
+  },
+  {
+    "name": "country-lookup",
+    "created_at": 1654858355,
+    "updated_at": 1690350342,
+    "download_count": 565
+  },
+  {
+    "name": "markdown-to-plain-text",
+    "created_at": 1682327091,
+    "updated_at": 1682327091,
+    "download_count": 149
+  },
+  {
+    "name": "search-github-stars",
+    "created_at": 1636651464,
+    "updated_at": 1641385943,
+    "download_count": 2081
+  },
+  {
+    "name": "codegeex",
+    "created_at": 1678860481,
+    "updated_at": 1681212718,
+    "download_count": 163
+  },
+  {
+    "name": "docsearch",
+    "created_at": 1659429017,
+    "updated_at": 1695368855,
+    "download_count": 414
+  },
+  {
+    "name": "wordpress-plugins",
+    "created_at": 1695368414,
+    "updated_at": 1695368415,
+    "download_count": 30
+  },
+  {
+    "name": "remember-the-date",
+    "created_at": 1650299909,
+    "updated_at": 1694170191,
+    "download_count": 280
+  },
+  {
+    "name": "react-icons",
+    "created_at": 1672920472,
+    "updated_at": 1679400992,
+    "download_count": 237
+  },
+  {
+    "name": "ableton-live",
+    "created_at": 1678799651,
+    "updated_at": 1678799651,
+    "download_count": 123
+  },
+  {
+    "name": "open-in-json-hero",
+    "created_at": 1650824023,
+    "updated_at": 1656619446,
+    "download_count": 550
+  },
+  {
+    "name": "chess-com",
+    "created_at": 1654676473,
+    "updated_at": 1654676473,
+    "download_count": 450
+  },
+  {
+    "name": "transform",
+    "created_at": 1664313446,
+    "updated_at": 1694163808,
+    "download_count": 576
+  },
+  {
+    "name": "splitwise",
+    "created_at": 1676383273,
+    "updated_at": 1696329890,
+    "download_count": 89
+  },
+  {
+    "name": "chatgo",
+    "created_at": 1682966375,
+    "updated_at": 1693490646,
+    "download_count": 267
+  },
+  {
+    "name": "korean-spell-checker",
+    "created_at": 1673247252,
+    "updated_at": 1673247252,
+    "download_count": 85
+  },
+  {
+    "name": "fork-repositories",
+    "created_at": 1642153057,
+    "updated_at": 1687189178,
+    "download_count": 989
+  },
+  {
+    "name": "image-wallet",
+    "created_at": 1684827078,
+    "updated_at": 1689595543,
+    "download_count": 159
+  },
+  {
+    "name": "clear-clipboard",
+    "created_at": 1646676716,
+    "updated_at": 1646676717,
+    "download_count": 1639
+  },
+  {
+    "name": "guitar-chords",
+    "created_at": 1662024324,
+    "updated_at": 1662025312,
+    "download_count": 515
+  },
+  {
+    "name": "list-randomizer",
+    "created_at": 1695212106,
+    "updated_at": 1695212107,
+    "download_count": 18
+  },
+  {
+    "name": "findnearby",
+    "created_at": 1695367989,
+    "updated_at": 1695367990,
+    "download_count": 40
+  },
+  {
+    "name": "feedly",
+    "created_at": 1671526947,
+    "updated_at": 1691044482,
+    "download_count": 461
+  },
+  {
+    "name": "json-to-go",
+    "created_at": 1645091896,
+    "updated_at": 1669132979,
+    "download_count": 425
+  },
+  {
+    "name": "upcoming-holidays",
+    "created_at": 1654324096,
+    "updated_at": 1654324096,
+    "download_count": 700
+  },
+  {
+    "name": "lastfm",
+    "created_at": 1642425039,
+    "updated_at": 1669133064,
+    "download_count": 887
+  },
+  {
+    "name": "hexlify",
+    "created_at": 1640863825,
+    "updated_at": 1641386022,
+    "download_count": 702
+  },
+  {
+    "name": "tw-colorpicker",
+    "created_at": 1650861452,
+    "updated_at": 1681210628,
+    "download_count": 1576
+  },
+  {
+    "name": "qq-music-controls",
+    "created_at": 1650952626,
+    "updated_at": 1667365256,
+    "download_count": 362
+  },
+  {
+    "name": "tableplus",
+    "created_at": 1634831238,
+    "updated_at": 1693385792,
+    "download_count": 3547
+  },
+  {
+    "name": "change-scroll-direction",
+    "created_at": 1637695991,
+    "updated_at": 1677699916,
+    "download_count": 854
+  },
+  {
+    "name": "dictionary",
+    "created_at": 1682601399,
+    "updated_at": 1682601399,
+    "download_count": 284
+  },
+  {
+    "name": "vuejs-documentation",
+    "created_at": 1648219960,
+    "updated_at": 1648219961,
+    "download_count": 935
+  },
+  {
+    "name": "roam-research",
+    "created_at": 1676896237,
+    "updated_at": 1691570277,
+    "download_count": 355
+  },
+  {
+    "name": "quick-latex",
+    "created_at": 1687202668,
+    "updated_at": 1695242816,
+    "download_count": 148
+  },
+  {
+    "name": "http-mime",
+    "created_at": 1696507171,
+    "updated_at": 1696507171,
+    "download_count": 26
+  },
+  {
+    "name": "stardew-valley-wiki",
+    "created_at": 1697460772,
+    "updated_at": 1697460772,
+    "download_count": 8
+  },
+  {
+    "name": "php-docs",
+    "created_at": 1662451232,
+    "updated_at": 1669133323,
+    "download_count": 734
+  },
+  {
+    "name": "tints-and-shades",
+    "created_at": 1691055234,
+    "updated_at": 1691055234,
+    "download_count": 128
+  },
+  {
+    "name": "mullvad",
+    "created_at": 1684928272,
+    "updated_at": 1684928272,
+    "download_count": 68
+  },
+  {
+    "name": "raynab",
+    "created_at": 1646662585,
+    "updated_at": 1669133447,
+    "download_count": 458
+  },
+  {
+    "name": "bing-wallpaper",
+    "created_at": 1650468120,
+    "updated_at": 1665818992,
+    "download_count": 982
+  },
+  {
+    "name": "raycast-ios-hig",
+    "created_at": 1665409691,
+    "updated_at": 1669132899,
+    "download_count": 252
+  },
+  {
+    "name": "orion",
+    "created_at": 1664193122,
+    "updated_at": 1698037879,
+    "download_count": 789
+  },
+  {
+    "name": "macupdater",
+    "created_at": 1650452219,
+    "updated_at": 1650452223,
+    "download_count": 1411
+  },
+  {
+    "name": "beat-per-minute",
+    "created_at": 1662394532,
+    "updated_at": 1669132126,
+    "download_count": 818
+  },
+  {
+    "name": "pinboard",
+    "created_at": 1634836725,
+    "updated_at": 1688126347,
+    "download_count": 818
+  },
+  {
+    "name": "keychain-password-gen",
+    "created_at": 1682675681,
+    "updated_at": 1682675681,
+    "download_count": 182
+  },
+  {
+    "name": "coingecko",
+    "created_at": 1640105963,
+    "updated_at": 1686736684,
+    "download_count": 1222
+  },
+  {
+    "name": "search-regexp",
+    "created_at": 1671046835,
+    "updated_at": 1671046835,
+    "download_count": 1102
+  },
+  {
+    "name": "trackflight",
+    "created_at": 1675282351,
+    "updated_at": 1675282351,
+    "download_count": 1027
+  },
+  {
+    "name": "raycast-airtable-extension",
+    "created_at": 1668663220,
+    "updated_at": 1668778766,
+    "download_count": 627
+  },
+  {
+    "name": "tower",
+    "created_at": 1634581768,
+    "updated_at": 1695327141,
+    "download_count": 1243
+  },
+  {
+    "name": "rollcast",
+    "created_at": 1684357036,
+    "updated_at": 1684357036,
+    "download_count": 73
+  },
+  {
+    "name": "espn",
+    "created_at": 1690363420,
+    "updated_at": 1690784883,
+    "download_count": 40
+  },
+  {
+    "name": "codeblocks",
+    "created_at": 1657808888,
+    "updated_at": 1669132050,
+    "download_count": 177
+  },
+  {
+    "name": "esv-bible",
+    "created_at": 1675284608,
+    "updated_at": 1675284609,
+    "download_count": 71
+  },
+  {
+    "name": "pianoman",
+    "created_at": 1664989097,
+    "updated_at": 1664989098,
+    "download_count": 225
+  },
+  {
+    "name": "elgato-key-light",
+    "created_at": 1639380517,
+    "updated_at": 1678093046,
+    "download_count": 1016
+  },
+  {
+    "name": "input-source-switcher",
+    "created_at": 1691413618,
+    "updated_at": 1691413618,
+    "download_count": 47
+  },
+  {
+    "name": "harpoon",
+    "created_at": 1690197840,
+    "updated_at": 1690197840,
+    "download_count": 94
+  },
+  {
+    "name": "laravel-valet",
+    "created_at": 1674191457,
+    "updated_at": 1684245046,
+    "download_count": 247
+  },
+  {
+    "name": "random-email",
+    "created_at": 1641850672,
+    "updated_at": 1669133409,
+    "download_count": 934
+  },
+  {
+    "name": "nextcloud",
+    "created_at": 1648220168,
+    "updated_at": 1651478423,
+    "download_count": 471
+  },
+  {
+    "name": "simulator-control",
+    "created_at": 1672743764,
+    "updated_at": 1672839612,
+    "download_count": 408
+  },
+  {
+    "name": "new-york-times",
+    "created_at": 1663067038,
+    "updated_at": 1664445616,
+    "download_count": 210
+  },
+  {
+    "name": "element",
+    "created_at": 1649414729,
+    "updated_at": 1649414729,
+    "download_count": 393
+  },
+  {
+    "name": "tynyfy",
+    "created_at": 1695112658,
+    "updated_at": 1695112658,
+    "download_count": 30
+  },
+  {
+    "name": "network-diagnostics",
+    "created_at": 1666852770,
+    "updated_at": 1695368330,
+    "download_count": 1082
+  },
+  {
+    "name": "jenkins",
+    "created_at": 1663263816,
+    "updated_at": 1695204709,
+    "download_count": 282
+  },
+  {
+    "name": "openverse",
+    "created_at": 1685451044,
+    "updated_at": 1694496724,
+    "download_count": 60
+  },
+  {
+    "name": "cloudflare",
+    "created_at": 1645546170,
+    "updated_at": 1661160832,
+    "download_count": 1468
+  },
+  {
+    "name": "carbon-code-screenshot-for-raycast",
+    "created_at": 1672783654,
+    "updated_at": 1672783654,
+    "download_count": 442
+  },
+  {
+    "name": "v2ex",
+    "created_at": 1642147894,
+    "updated_at": 1669133868,
+    "download_count": 562
+  },
+  {
+    "name": "sourcetree",
+    "created_at": 1659541335,
+    "updated_at": 1659541335,
+    "download_count": 416
+  },
+  {
+    "name": "anycoffee",
+    "created_at": 1698063521,
+    "updated_at": 1698063522,
+    "download_count": 4
+  },
+  {
+    "name": "one-time-password",
+    "created_at": 1684744553,
+    "updated_at": 1684744554,
+    "download_count": 143
+  },
+  {
+    "name": "laravel-forge",
+    "created_at": 1642424728,
+    "updated_at": 1684159771,
+    "download_count": 676
+  },
+  {
+    "name": "monday-com",
+    "created_at": 1646165910,
+    "updated_at": 1653278130,
+    "download_count": 494
+  },
+  {
+    "name": "stock-lookup",
+    "created_at": 1652960221,
+    "updated_at": 1669133653,
+    "download_count": 824
+  },
+  {
+    "name": "typescript-mock-generator",
+    "created_at": 1684239038,
+    "updated_at": 1684239038,
+    "download_count": 118
+  },
+  {
+    "name": "parrot-translate",
+    "created_at": 1649226268,
+    "updated_at": 1653658590,
+    "download_count": 520
+  },
+  {
+    "name": "unifi",
+    "created_at": 1696223334,
+    "updated_at": 1696223335,
+    "download_count": 30
+  },
+  {
+    "name": "maven-central-repository",
+    "created_at": 1652090147,
+    "updated_at": 1670242179,
+    "download_count": 408
+  },
+  {
+    "name": "alacritty",
+    "created_at": 1689856543,
+    "updated_at": 1689856543,
+    "download_count": 100
+  },
+  {
+    "name": "v2ex-viewer",
+    "created_at": 1662547985,
+    "updated_at": 1678570646,
+    "download_count": 355
+  },
+  {
+    "name": "code-stash",
+    "created_at": 1654863078,
+    "updated_at": 1675665175,
+    "download_count": 993
+  },
+  {
+    "name": "morning-coffee",
+    "created_at": 1677664451,
+    "updated_at": 1677821493,
+    "download_count": 181
+  },
+  {
+    "name": "css-gg",
+    "created_at": 1637573403,
+    "updated_at": 1687583138,
+    "download_count": 1226
+  },
+  {
+    "name": "bitbucket-search-self-hosted",
+    "created_at": 1669708566,
+    "updated_at": 1669708567,
+    "download_count": 187
+  },
+  {
+    "name": "bitcoin-price",
+    "created_at": 1664865700,
+    "updated_at": 1664865701,
+    "download_count": 225
+  },
+  {
+    "name": "stretchly",
+    "created_at": 1663702451,
+    "updated_at": 1663702451,
+    "download_count": 186
+  },
+  {
+    "name": "resend",
+    "created_at": 1687954738,
+    "updated_at": 1687954738,
+    "download_count": 30
+  },
+  {
+    "name": "fluctuation",
+    "created_at": 1697107786,
+    "updated_at": 1697107787,
+    "download_count": 12
+  },
+  {
+    "name": "wordpress-docs",
+    "created_at": 1681737108,
+    "updated_at": 1684840975,
+    "download_count": 122
+  },
+  {
+    "name": "sleep-timer",
+    "created_at": 1675249783,
+    "updated_at": 1675249783,
+    "download_count": 384
+  },
+  {
+    "name": "zen-mode",
+    "created_at": 1655289855,
+    "updated_at": 1660821638,
+    "download_count": 670
+  },
+  {
+    "name": "bluesky",
+    "created_at": 1682424327,
+    "updated_at": 1687815392,
+    "download_count": 206
+  },
+  {
+    "name": "dot-underscore-files-cleaner",
+    "created_at": 1693483086,
+    "updated_at": 1693483086,
+    "download_count": 57
+  },
+  {
+    "name": "raydocs",
+    "created_at": 1680238939,
+    "updated_at": 1680238943,
+    "download_count": 205
+  },
+  {
+    "name": "xcodes",
+    "created_at": 1694526255,
+    "updated_at": 1694526255,
+    "download_count": 43
+  },
+  {
+    "name": "dict-cc",
+    "created_at": 1650347583,
+    "updated_at": 1677594813,
+    "download_count": 878
+  },
+  {
+    "name": "charming-chatgpt",
+    "created_at": 1681819677,
+    "updated_at": 1681821494,
+    "download_count": 283
+  },
+  {
+    "name": "mem",
+    "created_at": 1673965338,
+    "updated_at": 1673965338,
+    "download_count": 481
+  },
+  {
+    "name": "checksum",
+    "created_at": 1685092064,
+    "updated_at": 1685092065,
+    "download_count": 132
+  },
+  {
+    "name": "bunch",
+    "created_at": 1655277919,
+    "updated_at": 1670012082,
+    "download_count": 533
+  },
+  {
+    "name": "checklist",
+    "created_at": 1678859661,
+    "updated_at": 1697868612,
+    "download_count": 97
+  },
+  {
+    "name": "append-clipboard",
+    "created_at": 1665490529,
+    "updated_at": 1689763079,
+    "download_count": 482
+  },
+  {
+    "name": "new-relic",
+    "created_at": 1679994380,
+    "updated_at": 1679994380,
+    "download_count": 57
+  },
+  {
+    "name": "google-trends",
+    "created_at": 1637600580,
+    "updated_at": 1669132753,
+    "download_count": 2778
+  },
+  {
+    "name": "lark-applink",
+    "created_at": 1650402747,
+    "updated_at": 1650402747,
+    "download_count": 213
+  },
+  {
+    "name": "youtrack",
+    "created_at": 1658915767,
+    "updated_at": 1690364780,
+    "download_count": 226
+  },
+  {
+    "name": "height",
+    "created_at": 1676903323,
+    "updated_at": 1691581045,
+    "download_count": 579
+  },
+  {
+    "name": "multilinks",
+    "created_at": 1654976739,
+    "updated_at": 1679378314,
+    "download_count": 532
+  },
+  {
+    "name": "perchance-generator",
+    "created_at": 1696324139,
+    "updated_at": 1696324140,
+    "download_count": 7
+  },
+  {
+    "name": "screen-sharing-recents",
+    "created_at": 1672901337,
+    "updated_at": 1672901338,
+    "download_count": 226
+  },
+  {
+    "name": "stripe",
+    "created_at": 1647267113,
+    "updated_at": 1659950318,
+    "download_count": 338
+  },
+  {
+    "name": "vmware-vcenter",
+    "created_at": 1696334089,
+    "updated_at": 1696334089,
+    "download_count": 12
+  },
+  {
+    "name": "playwright-docs",
+    "created_at": 1661541401,
+    "updated_at": 1661541401,
+    "download_count": 75
+  },
+  {
+    "name": "pick-your-wallpaper",
+    "created_at": 1684500068,
+    "updated_at": 1694197387,
+    "download_count": 147
+  },
+  {
+    "name": "go-package-search",
+    "created_at": 1650264890,
+    "updated_at": 1686640323,
+    "download_count": 510
+  },
+  {
+    "name": "raycast-svgo",
+    "created_at": 1660112074,
+    "updated_at": 1686054322,
+    "download_count": 342
+  },
+  {
+    "name": "stoicquotes",
+    "created_at": 1674718112,
+    "updated_at": 1679378046,
+    "download_count": 422
+  },
+  {
+    "name": "nato-phonetic-alphabet",
+    "created_at": 1674118403,
+    "updated_at": 1684925434,
+    "download_count": 202
+  },
+  {
+    "name": "jellyfin",
+    "created_at": 1690797143,
+    "updated_at": 1690797143,
+    "download_count": 48
+  },
+  {
+    "name": "search-rubygems",
+    "created_at": 1639657904,
+    "updated_at": 1643379972,
+    "download_count": 385
+  },
+  {
+    "name": "php-monitor",
+    "created_at": 1645688114,
+    "updated_at": 1645695424,
+    "download_count": 954
+  },
+  {
+    "name": "laravel-artisan",
+    "created_at": 1682422190,
+    "updated_at": 1684904680,
+    "download_count": 414
+  },
+  {
+    "name": "email-verifier",
+    "created_at": 1671688627,
+    "updated_at": 1671688627,
+    "download_count": 329
+  },
+  {
+    "name": "crunchbase",
+    "created_at": 1665983316,
+    "updated_at": 1690793811,
+    "download_count": 209
+  },
+  {
+    "name": "apple-developer-docs",
+    "created_at": 1659086855,
+    "updated_at": 1664445438,
+    "download_count": 668
+  },
+  {
+    "name": "8-ball",
+    "created_at": 1642438239,
+    "updated_at": 1642438240,
+    "download_count": 1443
+  },
+  {
+    "name": "bike",
+    "created_at": 1662978538,
+    "updated_at": 1675328735,
+    "download_count": 106
+  },
+  {
+    "name": "youversion-suggest",
+    "created_at": 1664281865,
+    "updated_at": 1687164435,
+    "download_count": 288
+  },
+  {
+    "name": "man-pages",
+    "created_at": 1664310875,
+    "updated_at": 1674796700,
+    "download_count": 638
+  },
+  {
+    "name": "tesla",
+    "created_at": 1692786211,
+    "updated_at": 1694591944,
+    "download_count": 63
+  },
+  {
+    "name": "punto",
+    "created_at": 1673966595,
+    "updated_at": 1673966596,
+    "download_count": 71
+  },
+  {
+    "name": "adhan-time",
+    "created_at": 1665583647,
+    "updated_at": 1674073503,
+    "download_count": 188
+  },
+  {
+    "name": "claris-snippets",
+    "created_at": 1664970611,
+    "updated_at": 1690440765,
+    "download_count": 197
+  },
+  {
+    "name": "thrasher-magazine",
+    "created_at": 1696428130,
+    "updated_at": 1696428131,
+    "download_count": 7
+  },
+  {
+    "name": "nanoid",
+    "created_at": 1655933796,
+    "updated_at": 1655933796,
+    "download_count": 141
+  },
+  {
+    "name": "kubens",
+    "created_at": 1668590689,
+    "updated_at": 1668590689,
+    "download_count": 187
+  },
+  {
+    "name": "ingredients-lister",
+    "created_at": 1694675424,
+    "updated_at": 1694675424,
+    "download_count": 44
+  },
+  {
+    "name": "r-pkg-search",
+    "created_at": 1671696068,
+    "updated_at": 1671696069,
+    "download_count": 89
+  },
+  {
+    "name": "mui-documentation",
+    "created_at": 1684838098,
+    "updated_at": 1690192681,
+    "download_count": 89
+  },
+  {
+    "name": "jira-time-tracking",
+    "created_at": 1650972369,
+    "updated_at": 1650972370,
+    "download_count": 395
+  },
+  {
+    "name": "discord-timestamps",
+    "created_at": 1676624393,
+    "updated_at": 1678784158,
+    "download_count": 238
+  },
+  {
+    "name": "cuid-generator",
+    "created_at": 1660724665,
+    "updated_at": 1660724665,
+    "download_count": 101
+  },
+  {
+    "name": "lodash",
+    "created_at": 1668493995,
+    "updated_at": 1668493995,
+    "download_count": 220
+  },
+  {
+    "name": "opsgenie",
+    "created_at": 1634639953,
+    "updated_at": 1662022386,
+    "download_count": 237
+  },
+  {
+    "name": "monzo",
+    "created_at": 1670313075,
+    "updated_at": 1678963391,
+    "download_count": 102
+  },
+  {
+    "name": "hide-mail",
+    "created_at": 1651301518,
+    "updated_at": 1693831240,
+    "download_count": 333
+  },
+  {
+    "name": "shopify-developer-changelog",
+    "created_at": 1646731123,
+    "updated_at": 1646731124,
+    "download_count": 84
+  },
+  {
+    "name": "cratecast",
+    "created_at": 1634892182,
+    "updated_at": 1686565361,
+    "download_count": 712
+  },
+  {
+    "name": "whosampled",
+    "created_at": 1674719779,
+    "updated_at": 1674719878,
+    "download_count": 309
+  },
+  {
+    "name": "markdown-to-jira",
+    "created_at": 1685966793,
+    "updated_at": 1685966794,
+    "download_count": 80
+  },
+  {
+    "name": "qbitorrent",
+    "created_at": 1655465573,
+    "updated_at": 1656619860,
+    "download_count": 436
+  },
+  {
+    "name": "associated-press",
+    "created_at": 1668436671,
+    "updated_at": 1668436671,
+    "download_count": 155
+  },
+  {
+    "name": "mattermost",
+    "created_at": 1690811959,
+    "updated_at": 1696323797,
+    "download_count": 47
+  },
+  {
+    "name": "typescript-documentation-search",
+    "created_at": 1649680215,
+    "updated_at": 1669133832,
+    "download_count": 1158
+  },
+  {
+    "name": "webflow-sites",
+    "created_at": 1669712708,
+    "updated_at": 1669756240,
+    "download_count": 303
+  },
+  {
+    "name": "huggingcast",
+    "created_at": 1635879065,
+    "updated_at": 1641386035,
+    "download_count": 536
+  },
+  {
+    "name": "hazeover",
+    "created_at": 1638690839,
+    "updated_at": 1638690839,
+    "download_count": 1100
+  },
+  {
+    "name": "one-tab-group",
+    "created_at": 1673522340,
+    "updated_at": 1673522341,
+    "download_count": 115
+  },
+  {
+    "name": "chinese-numbers",
+    "created_at": 1664355372,
+    "updated_at": 1669289872,
+    "download_count": 120
+  },
+  {
+    "name": "json2ts",
+    "created_at": 1642150989,
+    "updated_at": 1669038367,
+    "download_count": 719
+  },
+  {
+    "name": "code-review-emojis",
+    "created_at": 1684483826,
+    "updated_at": 1684483826,
+    "download_count": 89
+  },
+  {
+    "name": "android-adb-input",
+    "created_at": 1646659728,
+    "updated_at": 1646659728,
+    "download_count": 450
+  },
+  {
+    "name": "prisma-cli-commands",
+    "created_at": 1697456770,
+    "updated_at": 1697456770,
+    "download_count": 6
+  },
+  {
+    "name": "zed-recent-projects",
+    "created_at": 1679977696,
+    "updated_at": 1679977696,
+    "download_count": 126
+  },
+  {
+    "name": "raycast-urbandictionary-word-of-the-day",
+    "created_at": 1697453026,
+    "updated_at": 1697453027,
+    "download_count": 7
+  },
+  {
+    "name": "social-network-trends",
+    "created_at": 1650820709,
+    "updated_at": 1696412448,
+    "download_count": 335
+  },
+  {
+    "name": "better-uptime",
+    "created_at": 1655467350,
+    "updated_at": 1660557362,
+    "download_count": 292
+  },
+  {
+    "name": "pub-dev",
+    "created_at": 1641915703,
+    "updated_at": 1680093629,
+    "download_count": 700
+  },
+  {
+    "name": "laravel-livewire",
+    "created_at": 1642075515,
+    "updated_at": 1673963785,
+    "download_count": 641
+  },
+  {
+    "name": "hubspot",
+    "created_at": 1670568612,
+    "updated_at": 1696329275,
+    "download_count": 228
+  },
+  {
+    "name": "quicktype",
+    "created_at": 1649363508,
+    "updated_at": 1649363508,
+    "download_count": 283
+  },
+  {
+    "name": "typefully",
+    "created_at": 1655813136,
+    "updated_at": 1678142904,
+    "download_count": 578
+  },
+  {
+    "name": "cidr",
+    "created_at": 1685966654,
+    "updated_at": 1695328330,
+    "download_count": 157
+  },
+  {
+    "name": "pubme",
+    "created_at": 1681995965,
+    "updated_at": 1694179495,
+    "download_count": 84
+  },
+  {
+    "name": "imgur",
+    "created_at": 1674645323,
+    "updated_at": 1680067250,
+    "download_count": 335
+  },
+  {
+    "name": "search-joplin-notes",
+    "created_at": 1696924297,
+    "updated_at": 1696924297,
+    "download_count": 20
+  },
+  {
+    "name": "switchhosts",
+    "created_at": 1634807273,
+    "updated_at": 1687170080,
+    "download_count": 750
+  },
+  {
+    "name": "cyberduck",
+    "created_at": 1644907420,
+    "updated_at": 1669132394,
+    "download_count": 768
+  },
+  {
+    "name": "text-format-improver",
+    "created_at": 1693821695,
+    "updated_at": 1693821695,
+    "download_count": 21
+  },
+  {
+    "name": "hubspot-portal-launcher",
+    "created_at": 1683178022,
+    "updated_at": 1683178022,
+    "download_count": 45
+  },
+  {
+    "name": "tradingview-controls",
+    "created_at": 1679567585,
+    "updated_at": 1679567585,
+    "download_count": 187
+  },
+  {
+    "name": "global-media-key",
+    "created_at": 1689598190,
+    "updated_at": 1689598191,
+    "download_count": 81
+  },
+  {
+    "name": "real-debrid-manager",
+    "created_at": 1689672140,
+    "updated_at": 1689672144,
+    "download_count": 33
+  },
+  {
+    "name": "specify",
+    "created_at": 1656953162,
+    "updated_at": 1685682390,
+    "download_count": 392
+  },
+  {
+    "name": "get-direct-link",
+    "created_at": 1666678621,
+    "updated_at": 1666678621,
+    "download_count": 256
+  },
+  {
+    "name": "iwork",
+    "created_at": 1666066953,
+    "updated_at": 1666066954,
+    "download_count": 358
+  },
+  {
+    "name": "pick-random-raycast-extension",
+    "created_at": 1671513118,
+    "updated_at": 1678186463,
+    "download_count": 212
+  },
+  {
+    "name": "filezilla",
+    "created_at": 1661312517,
+    "updated_at": 1661312517,
+    "download_count": 362
+  },
+  {
+    "name": "mastodon",
+    "created_at": 1687894251,
+    "updated_at": 1688476420,
+    "download_count": 101
+  },
+  {
+    "name": "tmux-sessioner",
+    "created_at": 1683879111,
+    "updated_at": 1693901837,
+    "download_count": 182
+  },
+  {
+    "name": "speed-dial",
+    "created_at": 1686829687,
+    "updated_at": 1686829688,
+    "download_count": 58
+  },
+  {
+    "name": "github-for-enterprise",
+    "created_at": 1636533842,
+    "updated_at": 1691569703,
+    "download_count": 2326
+  },
+  {
+    "name": "gitpod",
+    "created_at": 1675664789,
+    "updated_at": 1694597078,
+    "download_count": 281
+  },
+  {
+    "name": "opslevel",
+    "created_at": 1681911186,
+    "updated_at": 1682433688,
+    "download_count": 16
+  },
+  {
+    "name": "sequel-ace",
+    "created_at": 1680245201,
+    "updated_at": 1692692684,
+    "download_count": 68
+  },
+  {
+    "name": "summation",
+    "created_at": 1681975774,
+    "updated_at": 1681975781,
+    "download_count": 129
+  },
+  {
+    "name": "iptv",
+    "created_at": 1650818598,
+    "updated_at": 1669132915,
+    "download_count": 590
+  },
+  {
+    "name": "openweathermap",
+    "created_at": 1652076603,
+    "updated_at": 1669133261,
+    "download_count": 710
+  },
+  {
+    "name": "projects",
+    "created_at": 1652351430,
+    "updated_at": 1653295107,
+    "download_count": 393
+  },
+  {
+    "name": "android",
+    "created_at": 1661759781,
+    "updated_at": 1697462105,
+    "download_count": 367
+  },
+  {
+    "name": "kubernetes-docs",
+    "created_at": 1647297550,
+    "updated_at": 1669133032,
+    "download_count": 743
+  },
+  {
+    "name": "render",
+    "created_at": 1642420453,
+    "updated_at": 1647387487,
+    "download_count": 149
+  },
+  {
+    "name": "github-status",
+    "created_at": 1647984899,
+    "updated_at": 1648733259,
+    "download_count": 446
+  },
+  {
+    "name": "cuid2-generator",
+    "created_at": 1674649535,
+    "updated_at": 1674649535,
+    "download_count": 44
+  },
+  {
+    "name": "aleph",
+    "created_at": 1687444138,
+    "updated_at": 1690188333,
+    "download_count": 26
+  },
+  {
+    "name": "citation-generator",
+    "created_at": 1652873961,
+    "updated_at": 1669132288,
+    "download_count": 389
+  },
+  {
+    "name": "rain-radars",
+    "created_at": 1660726577,
+    "updated_at": 1660821607,
+    "download_count": 109
+  },
+  {
+    "name": "pastebin",
+    "created_at": 1655198607,
+    "updated_at": 1655198607,
+    "download_count": 280
+  },
+  {
+    "name": "conventional-comments",
+    "created_at": 1634663344,
+    "updated_at": 1656622500,
+    "download_count": 731
+  },
+  {
+    "name": "consoledev",
+    "created_at": 1634641839,
+    "updated_at": 1641385755,
+    "download_count": 1686
+  },
+  {
+    "name": "everhour",
+    "created_at": 1635151837,
+    "updated_at": 1677709084,
+    "download_count": 273
+  },
+  {
+    "name": "cypress-docs",
+    "created_at": 1651692867,
+    "updated_at": 1651784230,
+    "download_count": 146
+  },
+  {
+    "name": "podcasts-now",
+    "created_at": 1677055564,
+    "updated_at": 1677501122,
+    "download_count": 545
+  },
+  {
+    "name": "myanimelist-search",
+    "created_at": 1665758711,
+    "updated_at": 1690895895,
+    "download_count": 114
+  },
+  {
+    "name": "airport",
+    "created_at": 1634315110,
+    "updated_at": 1668669905,
+    "download_count": 1881
+  },
+  {
+    "name": "zalgo-text",
+    "created_at": 1679997025,
+    "updated_at": 1679997025,
+    "download_count": 78
+  },
+  {
+    "name": "capture-raycast-metadata",
+    "created_at": 1650530861,
+    "updated_at": 1670232068,
+    "download_count": 303
+  },
+  {
+    "name": "pika",
+    "created_at": 1659962307,
+    "updated_at": 1659962308,
+    "download_count": 322
+  },
+  {
+    "name": "dot-new",
+    "created_at": 1649177410,
+    "updated_at": 1649177412,
+    "download_count": 252
+  },
+  {
+    "name": "abstract-api",
+    "created_at": 1660556592,
+    "updated_at": 1660556592,
+    "download_count": 68
+  },
+  {
+    "name": "adb",
+    "created_at": 1686212582,
+    "updated_at": 1686805386,
+    "download_count": 47
+  },
+  {
+    "name": "yopass",
+    "created_at": 1661931416,
+    "updated_at": 1661931416,
+    "download_count": 63
+  },
+  {
+    "name": "pie-for-pi-hole",
+    "created_at": 1655361262,
+    "updated_at": 1676322335,
+    "download_count": 309
+  },
+  {
+    "name": "sentry",
+    "created_at": 1646983578,
+    "updated_at": 1678137796,
+    "download_count": 803
+  },
+  {
+    "name": "metronome",
+    "created_at": 1692697516,
+    "updated_at": 1695206939,
+    "download_count": 75
+  },
+  {
+    "name": "airplane",
+    "created_at": 1654681292,
+    "updated_at": 1654681292,
+    "download_count": 468
+  },
+  {
+    "name": "doppler-share-secrets",
+    "created_at": 1633969426,
+    "updated_at": 1648129921,
+    "download_count": 735
+  },
+  {
+    "name": "howlongtobeat",
+    "created_at": 1650453710,
+    "updated_at": 1687204280,
+    "download_count": 306
+  },
+  {
+    "name": "the-noble-quran",
+    "created_at": 1689775807,
+    "updated_at": 1689775807,
+    "download_count": 16
+  },
+  {
+    "name": "braid",
+    "created_at": 1696329439,
+    "updated_at": 1696329439,
+    "download_count": 16
+  },
+  {
+    "name": "shell-buddy",
+    "created_at": 1665780522,
+    "updated_at": 1665780522,
+    "download_count": 483
+  },
+  {
+    "name": "znotch",
+    "created_at": 1675369219,
+    "updated_at": 1675369219,
+    "download_count": 188
+  },
+  {
+    "name": "android-screen-capture",
+    "created_at": 1685471061,
+    "updated_at": 1685471062,
+    "download_count": 27
+  },
+  {
+    "name": "xkcd",
+    "created_at": 1634654186,
+    "updated_at": 1668670146,
+    "download_count": 1181
+  },
+  {
+    "name": "supernova",
+    "created_at": 1661417294,
+    "updated_at": 1661417294,
+    "download_count": 261
+  },
+  {
+    "name": "replicate",
+    "created_at": 1663752920,
+    "updated_at": 1680152146,
+    "download_count": 84
+  },
+  {
+    "name": "antd-open-browser",
+    "created_at": 1662382618,
+    "updated_at": 1662382618,
+    "download_count": 289
+  },
+  {
+    "name": "palette-picker",
+    "created_at": 1676264481,
+    "updated_at": 1676264481,
+    "download_count": 201
+  },
+  {
+    "name": "lifx",
+    "created_at": 1663055554,
+    "updated_at": 1665256211,
+    "download_count": 142
+  },
+  {
+    "name": "berlin-public-transportation",
+    "created_at": 1682943937,
+    "updated_at": 1682943937,
+    "download_count": 34
+  },
+  {
+    "name": "xecutor",
+    "created_at": 1664304152,
+    "updated_at": 1667458845,
+    "download_count": 297
+  },
+  {
+    "name": "tabler",
+    "created_at": 1696929084,
+    "updated_at": 1696929084,
+    "download_count": 26
+  },
+  {
+    "name": "ethereum-utils",
+    "created_at": 1644240233,
+    "updated_at": 1647387453,
+    "download_count": 291
+  },
+  {
+    "name": "web3-profile",
+    "created_at": 1662460329,
+    "updated_at": 1665141079,
+    "download_count": 227
+  },
+  {
+    "name": "commitlint",
+    "created_at": 1637936904,
+    "updated_at": 1637936905,
+    "download_count": 1232
+  },
+  {
+    "name": "ecosia-search",
+    "created_at": 1663061915,
+    "updated_at": 1688570568,
+    "download_count": 120
+  },
+  {
+    "name": "fix-link-embeds",
+    "created_at": 1678809506,
+    "updated_at": 1678809506,
+    "download_count": 52
+  },
+  {
+    "name": "brasileirao-serie-a",
+    "created_at": 1662535931,
+    "updated_at": 1683023696,
+    "download_count": 25
+  },
+  {
+    "name": "bundlephobia-search",
+    "created_at": 1650821676,
+    "updated_at": 1650821679,
+    "download_count": 272
+  },
+  {
+    "name": "counter",
+    "created_at": 1692780443,
+    "updated_at": 1692780443,
+    "download_count": 49
+  },
+  {
+    "name": "masked-link-generator",
+    "created_at": 1694069381,
+    "updated_at": 1694069382,
+    "download_count": 38
+  },
+  {
+    "name": "holopin",
+    "created_at": 1667976994,
+    "updated_at": 1667976994,
+    "download_count": 39
+  },
+  {
+    "name": "binance",
+    "created_at": 1634918375,
+    "updated_at": 1680433904,
+    "download_count": 798
+  },
+  {
+    "name": "memo",
+    "created_at": 1674043103,
+    "updated_at": 1675663480,
+    "download_count": 213
+  },
+  {
+    "name": "betterzip",
+    "created_at": 1655708634,
+    "updated_at": 1667969929,
+    "download_count": 395
+  },
+  {
+    "name": "just-delete-me",
+    "created_at": 1678185476,
+    "updated_at": 1678185476,
+    "download_count": 210
+  },
+  {
+    "name": "bundesliga",
+    "created_at": 1650443159,
+    "updated_at": 1675934533,
+    "download_count": 168
+  },
+  {
+    "name": "focus",
+    "created_at": 1679065997,
+    "updated_at": 1680003568,
+    "download_count": 118
+  },
+  {
+    "name": "laravel-tips",
+    "created_at": 1687238866,
+    "updated_at": 1687348749,
+    "download_count": 54
+  },
+  {
+    "name": "my-daily-log",
+    "created_at": 1668434264,
+    "updated_at": 1694196175,
+    "download_count": 425
+  },
+  {
+    "name": "nixpkgs-search",
+    "created_at": 1662460671,
+    "updated_at": 1690957671,
+    "download_count": 279
+  },
+  {
+    "name": "lucide-icons",
+    "created_at": 1660657970,
+    "updated_at": 1681286944,
+    "download_count": 237
+  },
+  {
+    "name": "linguee",
+    "created_at": 1637139748,
+    "updated_at": 1678138301,
+    "download_count": 1038
+  },
+  {
+    "name": "banca-d-italia-currency-converter",
+    "created_at": 1644240553,
+    "updated_at": 1668669945,
+    "download_count": 299
+  },
+  {
+    "name": "productlane",
+    "created_at": 1678877968,
+    "updated_at": 1696093452,
+    "download_count": 43
+  },
+  {
+    "name": "simon",
+    "created_at": 1655900785,
+    "updated_at": 1656587747,
+    "download_count": 201
+  },
+  {
+    "name": "karabiner-profile-switcher",
+    "created_at": 1646322629,
+    "updated_at": 1646322629,
+    "download_count": 384
+  },
+  {
+    "name": "harvest",
+    "created_at": 1639518205,
+    "updated_at": 1690203406,
+    "download_count": 907
+  },
+  {
+    "name": "comodoro",
+    "created_at": 1683102096,
+    "updated_at": 1685532403,
+    "download_count": 72
+  },
+  {
+    "name": "cacher",
+    "created_at": 1686216127,
+    "updated_at": 1686637608,
+    "download_count": 161
+  },
+  {
+    "name": "get-favicon",
+    "created_at": 1670320920,
+    "updated_at": 1670320921,
+    "download_count": 225
+  },
+  {
+    "name": "git-branch-name-generator",
+    "created_at": 1673952143,
+    "updated_at": 1673952143,
+    "download_count": 109
+  },
+  {
+    "name": "fastmail-masked-email",
+    "created_at": 1665567420,
+    "updated_at": 1690198516,
+    "download_count": 292
+  },
+  {
+    "name": "opera",
+    "created_at": 1671521502,
+    "updated_at": 1671521504,
+    "download_count": 179
+  },
+  {
+    "name": "1loc",
+    "created_at": 1649179910,
+    "updated_at": 1686134078,
+    "download_count": 1012
+  },
+  {
+    "name": "ligue-1",
+    "created_at": 1676437764,
+    "updated_at": 1697008374,
+    "download_count": 68
+  },
+  {
+    "name": "md-to-excel",
+    "created_at": 1682942059,
+    "updated_at": 1693479510,
+    "download_count": 50
+  },
+  {
+    "name": "ok-json",
+    "created_at": 1683874910,
+    "updated_at": 1683874910,
+    "download_count": 57
+  },
+  {
+    "name": "filament",
+    "created_at": 1657597557,
+    "updated_at": 1694517845,
+    "download_count": 123
+  },
+  {
+    "name": "libraries-io",
+    "created_at": 1660565943,
+    "updated_at": 1664445589,
+    "download_count": 341
+  },
+  {
+    "name": "wordreference",
+    "created_at": 1694436589,
+    "updated_at": 1695130794,
+    "download_count": 49
+  },
+  {
+    "name": "css-calculations",
+    "created_at": 1655298320,
+    "updated_at": 1668436006,
+    "download_count": 386
+  },
+  {
+    "name": "marginnote",
+    "created_at": 1668579476,
+    "updated_at": 1668579477,
+    "download_count": 304
+  },
+  {
+    "name": "markdown-this",
+    "created_at": 1654800907,
+    "updated_at": 1669133157,
+    "download_count": 428
+  },
+  {
+    "name": "csv-to-excel",
+    "created_at": 1686575471,
+    "updated_at": 1686575471,
+    "download_count": 85
+  },
+  {
+    "name": "semantic-scholar",
+    "created_at": 1646233459,
+    "updated_at": 1646667744,
+    "download_count": 477
+  },
+  {
+    "name": "open-in-android-studio",
+    "created_at": 1694593179,
+    "updated_at": 1697188098,
+    "download_count": 11
+  },
+  {
+    "name": "supernotes",
+    "created_at": 1657874863,
+    "updated_at": 1671114409,
+    "download_count": 342
+  },
+  {
+    "name": "empty-screenshots",
+    "created_at": 1663675592,
+    "updated_at": 1663675592,
+    "download_count": 110
+  },
+  {
+    "name": "obs-control",
+    "created_at": 1655902163,
+    "updated_at": 1661951015,
+    "download_count": 406
+  },
+  {
+    "name": "gitlab-docs",
+    "created_at": 1657627210,
+    "updated_at": 1691672256,
+    "download_count": 227
+  },
+  {
+    "name": "wise-quotes",
+    "created_at": 1695212038,
+    "updated_at": 1695212038,
+    "download_count": 38
+  },
+  {
+    "name": "php-toolbox",
+    "created_at": 1685974800,
+    "updated_at": 1685974800,
+    "download_count": 67
+  },
+  {
+    "name": "modify-hash",
+    "created_at": 1666869664,
+    "updated_at": 1669133195,
+    "download_count": 70
+  },
+  {
+    "name": "val-town",
+    "created_at": 1698039257,
+    "updated_at": 1698039257,
+    "download_count": 1
+  },
+  {
+    "name": "wiggle-text",
+    "created_at": 1662990082,
+    "updated_at": 1662990082,
+    "download_count": 147
+  },
+  {
+    "name": "chuck-norris-facts",
+    "created_at": 1657864198,
+    "updated_at": 1657864198,
+    "download_count": 69
+  },
+  {
+    "name": "lightning-time",
+    "created_at": 1666770429,
+    "updated_at": 1669133084,
+    "download_count": 39
+  },
+  {
+    "name": "discordjs-documentation",
+    "created_at": 1652106386,
+    "updated_at": 1669132492,
+    "download_count": 131
+  },
+  {
+    "name": "techcrunch",
+    "created_at": 1690525992,
+    "updated_at": 1690784582,
+    "download_count": 74
+  },
+  {
+    "name": "switch-game-play-history",
+    "created_at": 1684315035,
+    "updated_at": 1686560555,
+    "download_count": 75
+  },
+  {
+    "name": "liba-ro_shortener",
+    "created_at": 1670534188,
+    "updated_at": 1688546350,
+    "download_count": 270
+  },
+  {
+    "name": "plausible-analytics",
+    "created_at": 1670919195,
+    "updated_at": 1676315214,
+    "download_count": 50
+  },
+  {
+    "name": "focustask",
+    "created_at": 1663757530,
+    "updated_at": 1663757530,
+    "download_count": 83
+  },
+  {
+    "name": "hackmd",
+    "created_at": 1659548432,
+    "updated_at": 1669305128,
+    "download_count": 92
+  },
+  {
+    "name": "frankerfacez",
+    "created_at": 1651633430,
+    "updated_at": 1651633431,
+    "download_count": 35
+  },
+  {
+    "name": "sabnzbd",
+    "created_at": 1636020270,
+    "updated_at": 1641386289,
+    "download_count": 207
+  },
+  {
+    "name": "kaalam",
+    "created_at": 1642424147,
+    "updated_at": 1681212773,
+    "download_count": 454
+  },
+  {
+    "name": "raycast-translate-ge",
+    "created_at": 1686566980,
+    "updated_at": 1686566980,
+    "download_count": 24
+  },
+  {
+    "name": "ethereum-gas-tracker",
+    "created_at": 1663697345,
+    "updated_at": 1664445497,
+    "download_count": 120
+  },
+  {
+    "name": "privileges",
+    "created_at": 1688127635,
+    "updated_at": 1688127636,
+    "download_count": 31
+  },
+  {
+    "name": "dotnet-docs-search",
+    "created_at": 1669966506,
+    "updated_at": 1669966506,
+    "download_count": 75
+  },
+  {
+    "name": "format-graphql",
+    "created_at": 1650259708,
+    "updated_at": 1669132586,
+    "download_count": 227
+  },
+  {
+    "name": "nouns",
+    "created_at": 1664975351,
+    "updated_at": 1665086783,
+    "download_count": 26
+  },
+  {
+    "name": "days-until-christmas",
+    "created_at": 1638431459,
+    "updated_at": 1641385799,
+    "download_count": 450
+  },
+  {
+    "name": "ens-name-lookup",
+    "created_at": 1638431860,
+    "updated_at": 1655186049,
+    "download_count": 390
+  },
+  {
+    "name": "proton-version",
+    "created_at": 1678790647,
+    "updated_at": 1678790647,
+    "download_count": 78
+  },
+  {
+    "name": "holodex",
+    "created_at": 1651562919,
+    "updated_at": 1684358392,
+    "download_count": 80
+  },
+  {
+    "name": "github-users",
+    "created_at": 1690980088,
+    "updated_at": 1690980088,
+    "download_count": 24
+  },
+  {
+    "name": "mastodon-search",
+    "created_at": 1683879980,
+    "updated_at": 1684180495,
+    "download_count": 85
+  },
+  {
+    "name": "windmill",
+    "created_at": 1695363129,
+    "updated_at": 1695363134,
+    "download_count": 4
+  },
+  {
+    "name": "elm-search",
+    "created_at": 1642611099,
+    "updated_at": 1642611099,
+    "download_count": 69
+  },
+  {
+    "name": "raycast-svg64",
+    "created_at": 1692779838,
+    "updated_at": 1692779839,
+    "download_count": 34
+  },
+  {
+    "name": "iata-code-decoder",
+    "created_at": 1648485326,
+    "updated_at": 1680003479,
+    "download_count": 214
+  },
+  {
+    "name": "fibonacci-sequence",
+    "created_at": 1652272451,
+    "updated_at": 1669132568,
+    "download_count": 127
+  },
+  {
+    "name": "tip-calculator",
+    "created_at": 1692775042,
+    "updated_at": 1693221259,
+    "download_count": 10
+  },
+  {
+    "name": "rusbase",
+    "created_at": 1690890897,
+    "updated_at": 1694434784,
+    "download_count": 4
+  },
+  {
+    "name": "coinpaprika",
+    "created_at": 1652299681,
+    "updated_at": 1657019666,
+    "download_count": 272
+  },
+  {
+    "name": "anonaddy",
+    "created_at": 1664866269,
+    "updated_at": 1664866269,
+    "download_count": 116
+  },
+  {
+    "name": "is-it-toxic-to",
+    "created_at": 1665555745,
+    "updated_at": 1679308330,
+    "download_count": 321
+  },
+  {
+    "name": "dlmoji",
+    "created_at": 1661342548,
+    "updated_at": 1661342549,
+    "download_count": 588
+  },
+  {
+    "name": "lobsters",
+    "created_at": 1634717898,
+    "updated_at": 1641386096,
+    "download_count": 281
+  },
+  {
+    "name": "cricketcast",
+    "created_at": 1641851467,
+    "updated_at": 1641851468,
+    "download_count": 346
+  },
+  {
+    "name": "fip",
+    "created_at": 1653913687,
+    "updated_at": 1695283060,
+    "download_count": 74
+  },
+  {
+    "name": "mempool",
+    "created_at": 1651128462,
+    "updated_at": 1651128713,
+    "download_count": 53
+  },
+  {
+    "name": "vatlayer",
+    "created_at": 1694770413,
+    "updated_at": 1694770413,
+    "download_count": 16
+  },
+  {
+    "name": "hidden-icons",
+    "created_at": 1650873513,
+    "updated_at": 1680093468,
+    "download_count": 170
+  },
+  {
+    "name": "random-text-picker",
+    "created_at": 1690898170,
+    "updated_at": 1690898170,
+    "download_count": 41
+  },
+  {
+    "name": "tennis-standings",
+    "created_at": 1681372037,
+    "updated_at": 1681379357,
+    "download_count": 28
+  },
+  {
+    "name": "oh-my-zsh-git-alias",
+    "created_at": 1675278550,
+    "updated_at": 1696333935,
+    "download_count": 307
+  },
+  {
+    "name": "nature-remo",
+    "created_at": 1657887820,
+    "updated_at": 1657887820,
+    "download_count": 27
+  },
+  {
+    "name": "ricescore",
+    "created_at": 1635591871,
+    "updated_at": 1669133484,
+    "download_count": 105
+  },
+  {
+    "name": "papermatch",
+    "created_at": 1675946541,
+    "updated_at": 1691730068,
+    "download_count": 99
+  },
+  {
+    "name": "tuya-smart",
+    "created_at": 1676412001,
+    "updated_at": 1677593046,
+    "download_count": 106
+  },
+  {
+    "name": "serie-a",
+    "created_at": 1676011419,
+    "updated_at": 1677041232,
+    "download_count": 42
+  },
+  {
+    "name": "curator-bio",
+    "created_at": 1670243806,
+    "updated_at": 1670243806,
+    "download_count": 14
+  },
+  {
+    "name": "copy-gcp-icons",
+    "created_at": 1636976916,
+    "updated_at": 1641385763,
+    "download_count": 178
+  },
+  {
+    "name": "sm-ms",
+    "created_at": 1654492675,
+    "updated_at": 1675329337,
+    "download_count": 86
+  },
+  {
+    "name": "brawlstars",
+    "created_at": 1688039439,
+    "updated_at": 1688039439,
+    "download_count": 11
+  },
+  {
+    "name": "random-us-phone-number",
+    "created_at": 1673343548,
+    "updated_at": 1673343548,
+    "download_count": 101
+  },
+  {
+    "name": "host-switch",
+    "created_at": 1676019093,
+    "updated_at": 1678359300,
+    "download_count": 81
+  },
+  {
+    "name": "github-codespaces",
+    "created_at": 1664197008,
+    "updated_at": 1666278179,
+    "download_count": 260
+  },
+  {
+    "name": "swift-evolution",
+    "created_at": 1635276377,
+    "updated_at": 1675412200,
+    "download_count": 552
+  },
+  {
+    "name": "gopass",
+    "created_at": 1655217002,
+    "updated_at": 1662463218,
+    "download_count": 205
+  },
+  {
+    "name": "raycast-wca",
+    "created_at": 1691494179,
+    "updated_at": 1691494179,
+    "download_count": 3
+  },
+  {
+    "name": "firebase-import-export",
+    "created_at": 1675933339,
+    "updated_at": 1675933339,
+    "download_count": 16
+  },
+  {
+    "name": "fake-financial-data",
+    "created_at": 1684836119,
+    "updated_at": 1685448262,
+    "download_count": 57
+  },
+  {
+    "name": "next-run",
+    "created_at": 1676035431,
+    "updated_at": 1676035431,
+    "download_count": 53
+  },
+  {
+    "name": "raycast-tapo-smart-devices",
+    "created_at": 1653546990,
+    "updated_at": 1660201341,
+    "download_count": 82
+  },
+  {
+    "name": "quick-open-project",
+    "created_at": 1634238537,
+    "updated_at": 1684755075,
+    "download_count": 910
+  },
+  {
+    "name": "deduplicator",
+    "created_at": 1671101973,
+    "updated_at": 1671101973,
+    "download_count": 124
+  },
+  {
+    "name": "lichess-org",
+    "created_at": 1684850912,
+    "updated_at": 1684850912,
+    "download_count": 22
+  },
+  {
+    "name": "ossinsight",
+    "created_at": 1664511550,
+    "updated_at": 1692341312,
+    "download_count": 69
+  },
+  {
+    "name": "sonarr",
+    "created_at": 1658235334,
+    "updated_at": 1673412803,
+    "download_count": 185
+  },
+  {
+    "name": "parcel-tracker",
+    "created_at": 1649403956,
+    "updated_at": 1674128453,
+    "download_count": 208
+  },
+  {
+    "name": "supabase-docs",
+    "created_at": 1651386445,
+    "updated_at": 1676548554,
+    "download_count": 239
+  },
+  {
+    "name": "jotoba",
+    "created_at": 1663586340,
+    "updated_at": 1672902887,
+    "download_count": 99
+  },
+  {
+    "name": "kubectx",
+    "created_at": 1642281610,
+    "updated_at": 1679064447,
+    "download_count": 715
+  },
+  {
+    "name": "mailboxlayer",
+    "created_at": 1694079449,
+    "updated_at": 1694079450,
+    "download_count": 17
+  },
+  {
+    "name": "mousehunt-helper",
+    "created_at": 1674108280,
+    "updated_at": 1674108280,
+    "download_count": 10
+  },
+  {
+    "name": "evm-codes",
+    "created_at": 1685451011,
+    "updated_at": 1685451011,
+    "download_count": 21
+  },
+  {
+    "name": "escape-regexp-characters",
+    "created_at": 1671611642,
+    "updated_at": 1671611642,
+    "download_count": 44
+  },
+  {
+    "name": "moco",
+    "created_at": 1677760056,
+    "updated_at": 1681212820,
+    "download_count": 28
+  },
+  {
+    "name": "raytaskwarrior",
+    "created_at": 1686226886,
+    "updated_at": 1686226886,
+    "download_count": 53
+  },
+  {
+    "name": "geohash-encode-decode",
+    "created_at": 1642420554,
+    "updated_at": 1669132613,
+    "download_count": 186
+  },
+  {
+    "name": "mochi",
+    "created_at": 1674569871,
+    "updated_at": 1675139399,
+    "download_count": 59
+  },
+  {
+    "name": "homey",
+    "created_at": 1665953355,
+    "updated_at": 1665994302,
+    "download_count": 67
+  },
+  {
+    "name": "dotnet-api-browser",
+    "created_at": 1678820222,
+    "updated_at": 1678820222,
+    "download_count": 28
+  },
+  {
+    "name": "vueuse-functions",
+    "created_at": 1650262062,
+    "updated_at": 1650262308,
+    "download_count": 249
+  },
+  {
+    "name": "silent-mention",
+    "created_at": 1675337975,
+    "updated_at": 1693820786,
+    "download_count": 170
+  },
+  {
+    "name": "tfl",
+    "created_at": 1684499192,
+    "updated_at": 1685448812,
+    "download_count": 20
+  },
+  {
+    "name": "sort-mentions",
+    "created_at": 1690353500,
+    "updated_at": 1690353500,
+    "download_count": 13
+  },
+  {
+    "name": "openstreetmap-search",
+    "created_at": 1670416148,
+    "updated_at": 1670416149,
+    "download_count": 62
+  },
+  {
+    "name": "vault-manager",
+    "created_at": 1636622519,
+    "updated_at": 1685165535,
+    "download_count": 454
+  },
+  {
+    "name": "hoogle",
+    "created_at": 1682335266,
+    "updated_at": 1682335266,
+    "download_count": 31
+  },
+  {
+    "name": "mantine-documentation",
+    "created_at": 1655197244,
+    "updated_at": 1655197245,
+    "download_count": 103
+  },
+  {
+    "name": "odin",
+    "created_at": 1661753307,
+    "updated_at": 1661753307,
+    "download_count": 14
+  },
+  {
+    "name": "type-the-alphabet",
+    "created_at": 1691648530,
+    "updated_at": 1691648531,
+    "download_count": 52
+  },
+  {
+    "name": "the-verge",
+    "created_at": 1676885068,
+    "updated_at": 1676885068,
+    "download_count": 110
+  },
+  {
+    "name": "numpad",
+    "created_at": 1693287958,
+    "updated_at": 1693287958,
+    "download_count": 52
+  },
+  {
+    "name": "iconpark",
+    "created_at": 1655983565,
+    "updated_at": 1670242277,
+    "download_count": 578
+  },
+  {
+    "name": "taskplane",
+    "created_at": 1657550280,
+    "updated_at": 1657550280,
+    "download_count": 300
+  },
+  {
+    "name": "betterdiscord-store",
+    "created_at": 1645432264,
+    "updated_at": 1648485385,
+    "download_count": 300
+  },
+  {
+    "name": "2fa-directory",
+    "created_at": 1680153399,
+    "updated_at": 1680153399,
+    "download_count": 51
+  },
+  {
+    "name": "shroud-email",
+    "created_at": 1686031653,
+    "updated_at": 1686031653,
+    "download_count": 5
+  },
+  {
+    "name": "bitrise",
+    "created_at": 1634677238,
+    "updated_at": 1687671790,
+    "download_count": 253
+  },
+  {
+    "name": "sat-scorer",
+    "created_at": 1692702223,
+    "updated_at": 1692702224,
+    "download_count": 3
+  },
+  {
+    "name": "tinyfaces-nft",
+    "created_at": 1662703724,
+    "updated_at": 1664445743,
+    "download_count": 13
+  },
+  {
+    "name": "jup-agg",
+    "created_at": 1676928993,
+    "updated_at": 1677092209,
+    "download_count": 14
+  },
+  {
+    "name": "latest-news",
+    "created_at": 1655303632,
+    "updated_at": 1655303633,
+    "download_count": 262
+  },
+  {
+    "name": "laravel-nova",
+    "created_at": 1649796367,
+    "updated_at": 1649796369,
+    "download_count": 208
+  },
+  {
+    "name": "putio",
+    "created_at": 1687255994,
+    "updated_at": 1687361413,
+    "download_count": 34
+  },
+  {
+    "name": "github-menu-bar",
+    "created_at": 1658423269,
+    "updated_at": 1658423269,
+    "download_count": 297
+  },
+  {
+    "name": "swift-package-index",
+    "created_at": 1658928177,
+    "updated_at": 1658928178,
+    "download_count": 260
+  },
+  {
+    "name": "pinata",
+    "created_at": 1675439276,
+    "updated_at": 1675860789,
+    "download_count": 17
+  },
+  {
+    "name": "github-cli-manual",
+    "created_at": 1671454510,
+    "updated_at": 1671454511,
+    "download_count": 176
+  },
+  {
+    "name": "truth-or-dare",
+    "created_at": 1657195185,
+    "updated_at": 1657195186,
+    "download_count": 274
+  },
+  {
+    "name": "railway",
+    "created_at": 1634905746,
+    "updated_at": 1695566888,
+    "download_count": 142
+  },
+  {
+    "name": "rebrandly",
+    "created_at": 1635346481,
+    "updated_at": 1641386269,
+    "download_count": 130
+  },
+  {
+    "name": "looksee",
+    "created_at": 1695567716,
+    "updated_at": 1696093283,
+    "download_count": 12
+  },
+  {
+    "name": "simpread",
+    "created_at": 1640863082,
+    "updated_at": 1669133529,
+    "download_count": 148
+  },
+  {
+    "name": "netlify",
+    "created_at": 1640278236,
+    "updated_at": 1685086246,
+    "download_count": 1009
+  },
+  {
+    "name": "cheetah",
+    "created_at": 1668601426,
+    "updated_at": 1671110759,
+    "download_count": 66
+  },
+  {
+    "name": "dribbble",
+    "created_at": 1649363737,
+    "updated_at": 1666788095,
+    "download_count": 638
+  },
+  {
+    "name": "moji",
+    "created_at": 1644587877,
+    "updated_at": 1644587877,
+    "download_count": 92
+  },
+  {
+    "name": "hashnode",
+    "created_at": 1643048257,
+    "updated_at": 1669132770,
+    "download_count": 137
+  },
+  {
+    "name": "virtualbox-power-switch",
+    "created_at": 1691567886,
+    "updated_at": 1691583182,
+    "download_count": 16
+  },
+  {
+    "name": "purpleair",
+    "created_at": 1671657755,
+    "updated_at": 1693287144,
+    "download_count": 52
+  },
+  {
+    "name": "search-ansible-documentation",
+    "created_at": 1661287560,
+    "updated_at": 1669132093,
+    "download_count": 97
+  },
+  {
+    "name": "qonto",
+    "created_at": 1683527975,
+    "updated_at": 1683527976,
+    "download_count": 11
+  },
+  {
+    "name": "vuejobs",
+    "created_at": 1687210598,
+    "updated_at": 1687278658,
+    "download_count": 11
+  },
+  {
+    "name": "lacinka",
+    "created_at": 1681998503,
+    "updated_at": 1684746664,
+    "download_count": 59
+  },
+  {
+    "name": "excalidraw",
+    "created_at": 1681293059,
+    "updated_at": 1681293059,
+    "download_count": 137
+  },
+  {
+    "name": "ebird",
+    "created_at": 1681393963,
+    "updated_at": 1681393963,
+    "download_count": 13
+  },
+  {
+    "name": "must",
+    "created_at": 1642150613,
+    "updated_at": 1642425112,
+    "download_count": 198
+  },
+  {
+    "name": "pestphp-documentation",
+    "created_at": 1644498925,
+    "updated_at": 1644498925,
+    "download_count": 217
+  },
+  {
+    "name": "roll-d20",
+    "created_at": 1667552309,
+    "updated_at": 1667552309,
+    "download_count": 121
+  },
+  {
+    "name": "svgr",
+    "created_at": 1653118198,
+    "updated_at": 1669133672,
+    "download_count": 246
+  },
+  {
+    "name": "convert-typescript-to-javascript",
+    "created_at": 1688459373,
+    "updated_at": 1688459373,
+    "download_count": 63
+  },
+  {
+    "name": "anilist-airing-schedule",
+    "created_at": 1676401500,
+    "updated_at": 1676401500,
+    "download_count": 35
+  },
+  {
+    "name": "universities",
+    "created_at": 1676976394,
+    "updated_at": 1676976394,
+    "download_count": 45
+  },
+  {
+    "name": "drupal-org",
+    "created_at": 1673239614,
+    "updated_at": 1673239614,
+    "download_count": 13
+  },
+  {
+    "name": "bonk-price",
+    "created_at": 1675343786,
+    "updated_at": 1675343787,
+    "download_count": 9
+  },
+  {
+    "name": "finnish-dictionary",
+    "created_at": 1649766418,
+    "updated_at": 1655197843,
+    "download_count": 87
+  },
+  {
+    "name": "moneylover",
+    "created_at": 1678138551,
+    "updated_at": 1678138551,
+    "download_count": 42
+  },
+  {
+    "name": "gyazo-uploader",
+    "created_at": 1692196850,
+    "updated_at": 1692196850,
+    "download_count": 4
+  },
+  {
+    "name": "mlb-scores",
+    "created_at": 1649312226,
+    "updated_at": 1649312229,
+    "download_count": 286
+  },
+  {
+    "name": "yubikey-code",
+    "created_at": 1668752660,
+    "updated_at": 1676402464,
+    "download_count": 275
+  },
+  {
+    "name": "create-t3-app",
+    "created_at": 1677049906,
+    "updated_at": 1677049907,
+    "download_count": 45
+  },
+  {
+    "name": "dex-screener",
+    "created_at": 1649365205,
+    "updated_at": 1649365206,
+    "download_count": 86
+  },
+  {
+    "name": "key-value",
+    "created_at": 1684853736,
+    "updated_at": 1685449616,
+    "download_count": 68
+  },
+  {
+    "name": "flutter-documentation-search",
+    "created_at": 1646911160,
+    "updated_at": 1646911160,
+    "download_count": 538
+  },
+  {
+    "name": "jalali-date-convertor",
+    "created_at": 1697459353,
+    "updated_at": 1697459360,
+    "download_count": 3
+  },
+  {
+    "name": "posthog",
+    "created_at": 1690878177,
+    "updated_at": 1693401204,
+    "download_count": 36
+  },
+  {
+    "name": "slugify",
+    "created_at": 1674134860,
+    "updated_at": 1674134860,
+    "download_count": 211
+  },
+  {
+    "name": "ruby-evaluate",
+    "created_at": 1660027442,
+    "updated_at": 1660027443,
+    "download_count": 121
+  },
+  {
+    "name": "simplelogin",
+    "created_at": 1673930380,
+    "updated_at": 1673930381,
+    "download_count": 229
+  },
+  {
+    "name": "raycast-datadog",
+    "created_at": 1642713204,
+    "updated_at": 1655288487,
+    "download_count": 596
+  },
+  {
+    "name": "storybook-launcher",
+    "created_at": 1692697581,
+    "updated_at": 1692697582,
+    "download_count": 34
+  },
+  {
+    "name": "french-verb-conjugation",
+    "created_at": 1687300425,
+    "updated_at": 1687300426,
+    "download_count": 40
+  },
+  {
+    "name": "tabnews",
+    "created_at": 1697463272,
+    "updated_at": 1697463272,
+    "download_count": 5
+  },
+  {
+    "name": "sketch",
+    "created_at": 1634387260,
+    "updated_at": 1641386371,
+    "download_count": 568
+  },
+  {
+    "name": "codegrepper",
+    "created_at": 1668694983,
+    "updated_at": 1669132304,
+    "download_count": 231
+  },
+  {
+    "name": "deta-space",
+    "created_at": 1681372536,
+    "updated_at": 1681372537,
+    "download_count": 43
+  },
+  {
+    "name": "y-combinator",
+    "created_at": 1677597761,
+    "updated_at": 1677597761,
+    "download_count": 170
+  },
+  {
+    "name": "calendly",
+    "created_at": 1634721653,
+    "updated_at": 1677709449,
+    "download_count": 1697
+  },
+  {
+    "name": "buddy",
+    "created_at": 1678115558,
+    "updated_at": 1678115558,
+    "download_count": 23
+  },
+  {
+    "name": "itch-io",
+    "created_at": 1649842993,
+    "updated_at": 1669132930,
+    "download_count": 169
+  },
+  {
+    "name": "radix",
+    "created_at": 1636479046,
+    "updated_at": 1691736049,
+    "download_count": 434
+  },
+  {
+    "name": "porkbun",
+    "created_at": 1681999873,
+    "updated_at": 1681999874,
+    "download_count": 36
+  },
+  {
+    "name": "colorify",
+    "created_at": 1689681883,
+    "updated_at": 1690297362,
+    "download_count": 577
+  },
+  {
+    "name": "search-composer-packagist",
+    "created_at": 1643636807,
+    "updated_at": 1662014284,
+    "download_count": 523
+  },
+  {
+    "name": "create-remix",
+    "created_at": 1691494889,
+    "updated_at": 1691494890,
+    "download_count": 6
+  },
+  {
+    "name": "one-time-secret",
+    "created_at": 1687783672,
+    "updated_at": 1688389136,
+    "download_count": 54
+  },
+  {
+    "name": "dr-news",
+    "created_at": 1698152020,
+    "updated_at": 1698152020,
+    "download_count": 1
+  },
+  {
+    "name": "logitech-litra",
+    "created_at": 1677699043,
+    "updated_at": 1683530928,
+    "download_count": 80
+  },
+  {
+    "name": "ftrack",
+    "created_at": 1682968819,
+    "updated_at": 1682968819,
+    "download_count": 2
+  },
+  {
+    "name": "open_targets",
+    "created_at": 1676149206,
+    "updated_at": 1676149206,
+    "download_count": 12
+  },
+  {
+    "name": "beeminder",
+    "created_at": 1676406745,
+    "updated_at": 1689860190,
+    "download_count": 27
+  },
+  {
+    "name": "envoyer",
+    "created_at": 1656918642,
+    "updated_at": 1677223808,
+    "download_count": 49
+  },
+  {
+    "name": "sanity",
+    "created_at": 1692163191,
+    "updated_at": 1692195817,
+    "download_count": 13
+  },
+  {
+    "name": "monse",
+    "created_at": 1661254254,
+    "updated_at": 1677065185,
+    "download_count": 63
+  },
+  {
+    "name": "redmine",
+    "created_at": 1650874198,
+    "updated_at": 1650874200,
+    "download_count": 139
+  },
+  {
+    "name": "convert-px-to-vw-vh",
+    "created_at": 1689928971,
+    "updated_at": 1689928973,
+    "download_count": 31
+  },
+  {
+    "name": "monorepo-manager",
+    "created_at": 1675170254,
+    "updated_at": 1675170254,
+    "download_count": 36
+  },
+  {
+    "name": "zeplin-project-raycast-extension",
+    "created_at": 1642442128,
+    "updated_at": 1669133969,
+    "download_count": 177
+  },
+  {
+    "name": "xqc",
+    "created_at": 1658912776,
+    "updated_at": 1659338739,
+    "download_count": 13
+  },
+  {
+    "name": "uplabs",
+    "created_at": 1666847436,
+    "updated_at": 1666847437,
+    "download_count": 23
+  },
+  {
+    "name": "storybook-search",
+    "created_at": 1685453463,
+    "updated_at": 1685453463,
+    "download_count": 35
+  },
+  {
+    "name": "grafana",
+    "created_at": 1639031119,
+    "updated_at": 1687169604,
+    "download_count": 462
+  },
+  {
+    "name": "google-books",
+    "created_at": 1643045364,
+    "updated_at": 1643045364,
+    "download_count": 436
+  },
+  {
+    "name": "statamic-docs",
+    "created_at": 1661288730,
+    "updated_at": 1693991377,
+    "download_count": 116
+  },
+  {
+    "name": "qotp",
+    "created_at": 1682675550,
+    "updated_at": 1682675551,
+    "download_count": 8
+  },
+  {
+    "name": "canvascast",
+    "created_at": 1640862992,
+    "updated_at": 1664865889,
+    "download_count": 445
+  },
+  {
+    "name": "ethereum-price",
+    "created_at": 1663231022,
+    "updated_at": 1664990452,
+    "download_count": 155
+  },
+  {
+    "name": "headlines",
+    "created_at": 1659359125,
+    "updated_at": 1669834415,
+    "download_count": 184
+  },
+  {
+    "name": "typeform",
+    "created_at": 1650879981,
+    "updated_at": 1664864455,
+    "download_count": 41
+  },
+  {
+    "name": "portuguese-primeira-liga",
+    "created_at": 1655378937,
+    "updated_at": 1687547551,
+    "download_count": 37
+  },
+  {
+    "name": "unogs",
+    "created_at": 1652674644,
+    "updated_at": 1669133846,
+    "download_count": 15
+  },
+  {
+    "name": "zoom-legacy",
+    "created_at": 1635837010,
+    "updated_at": 1659607615,
+    "download_count": 3637
+  },
+  {
+    "name": "spatie-documentation",
+    "created_at": 1642523464,
+    "updated_at": 1647010980,
+    "download_count": 264
+  },
+  {
+    "name": "search-hex",
+    "created_at": 1665432150,
+    "updated_at": 1666668792,
+    "download_count": 128
+  },
+  {
+    "name": "musicthread",
+    "created_at": 1683877224,
+    "updated_at": 1683877224,
+    "download_count": 4
+  },
+  {
+    "name": "hellonext-wallpapers",
+    "created_at": 1650526837,
+    "updated_at": 1650526842,
+    "download_count": 361
+  },
+  {
+    "name": "xid",
+    "created_at": 1656365456,
+    "updated_at": 1656399908,
+    "download_count": 21
+  },
+  {
+    "name": "paperless-ngx",
+    "created_at": 1684849106,
+    "updated_at": 1684849107,
+    "download_count": 38
+  },
+  {
+    "name": "grafbase",
+    "created_at": 1676401855,
+    "updated_at": 1677496435,
+    "download_count": 25
+  },
+  {
+    "name": "chakra-ui-docs",
+    "created_at": 1645092005,
+    "updated_at": 1668670009,
+    "download_count": 460
+  },
+  {
+    "name": "sncftraintimes",
+    "created_at": 1686037473,
+    "updated_at": 1686037473,
+    "download_count": 13
+  },
+  {
+    "name": "vocab",
+    "created_at": 1675919718,
+    "updated_at": 1675919718,
+    "download_count": 161
+  },
+  {
+    "name": "esa-search",
+    "created_at": 1661325232,
+    "updated_at": 1661325233,
+    "download_count": 64
+  },
+  {
+    "name": "kinopio-inbox",
+    "created_at": 1673983121,
+    "updated_at": 1674542409,
+    "download_count": 53
+  },
+  {
+    "name": "quip",
+    "created_at": 1675917946,
+    "updated_at": 1675934532,
+    "download_count": 78
+  },
+  {
+    "name": "binge-clock",
+    "created_at": 1683535577,
+    "updated_at": 1683535577,
+    "download_count": 81
+  },
+  {
+    "name": "laby-net",
+    "created_at": 1670325348,
+    "updated_at": 1670325349,
+    "download_count": 35
+  },
+  {
+    "name": "ifanr",
+    "created_at": 1679932087,
+    "updated_at": 1680091074,
+    "download_count": 28
+  },
+  {
+    "name": "mbta-tracker",
+    "created_at": 1695327815,
+    "updated_at": 1695327815,
+    "download_count": 7
+  },
+  {
+    "name": "larajobs-search",
+    "created_at": 1692169165,
+    "updated_at": 1692169165,
+    "download_count": 19
+  },
+  {
+    "name": "openfortivpn",
+    "created_at": 1656327366,
+    "updated_at": 1656327366,
+    "download_count": 62
+  },
+  {
+    "name": "twitch-logs",
+    "created_at": 1676547309,
+    "updated_at": 1676547309,
+    "download_count": 23
+  },
+  {
+    "name": "nos-nieuws",
+    "created_at": 1643984306,
+    "updated_at": 1643984306,
+    "download_count": 164
+  },
+  {
+    "name": "coda-bookmarks-search",
+    "created_at": 1655968963,
+    "updated_at": 1655968963,
+    "download_count": 170
+  },
+  {
+    "name": "finary",
+    "created_at": 1675438253,
+    "updated_at": 1675438253,
+    "download_count": 28
+  },
+  {
+    "name": "copy-skeet-link",
+    "created_at": 1684926417,
+    "updated_at": 1686560895,
+    "download_count": 10
+  },
+  {
+    "name": "blockchain-explorer-search",
+    "created_at": 1654793496,
+    "updated_at": 1654793497,
+    "download_count": 274
+  },
+  {
+    "name": "drupal-toolbox",
+    "created_at": 1669817347,
+    "updated_at": 1669817347,
+    "download_count": 25
+  },
+  {
+    "name": "laravel-vapor",
+    "created_at": 1682433423,
+    "updated_at": 1682433423,
+    "download_count": 16
+  },
+  {
+    "name": "avatar",
+    "created_at": 1654492405,
+    "updated_at": 1687204450,
+    "download_count": 352
+  },
+  {
+    "name": "defly-io",
+    "created_at": 1681489604,
+    "updated_at": 1681489604,
+    "download_count": 3
+  },
+  {
+    "name": "curto-io-url-shortener",
+    "created_at": 1690875673,
+    "updated_at": 1691037528,
+    "download_count": 22
+  },
+  {
+    "name": "dotween-eases",
+    "created_at": 1656682970,
+    "updated_at": 1656682971,
+    "download_count": 17
+  },
+  {
+    "name": "crossbell",
+    "created_at": 1664311901,
+    "updated_at": 1664311901,
+    "download_count": 28
+  },
+  {
+    "name": "laliga",
+    "created_at": 1650443128,
+    "updated_at": 1696410661,
+    "download_count": 215
+  },
+  {
+    "name": "china-ip-address",
+    "created_at": 1696932842,
+    "updated_at": 1696932842,
+    "download_count": 11
+  },
+  {
+    "name": "logtail",
+    "created_at": 1685617747,
+    "updated_at": 1685617748,
+    "download_count": 22
+  },
+  {
+    "name": "matter",
+    "created_at": 1672923169,
+    "updated_at": 1677592559,
+    "download_count": 305
+  },
+  {
+    "name": "airsy",
+    "created_at": 1667989910,
+    "updated_at": 1669132065,
+    "download_count": 24
+  },
+  {
+    "name": "twitter-trendscast",
+    "created_at": 1646812901,
+    "updated_at": 1668670063,
+    "download_count": 587
+  },
+  {
+    "name": "cloudinary",
+    "created_at": 1684840307,
+    "updated_at": 1693218010,
+    "download_count": 24
+  },
+  {
+    "name": "n8n",
+    "created_at": 1655876544,
+    "updated_at": 1670230392,
+    "download_count": 177
+  },
+  {
+    "name": "static-marks",
+    "created_at": 1667333570,
+    "updated_at": 1672906249,
+    "download_count": 97
+  },
+  {
+    "name": "helm-docs",
+    "created_at": 1644842920,
+    "updated_at": 1669132798,
+    "download_count": 205
+  },
+  {
+    "name": "defichain-lottery",
+    "created_at": 1668593609,
+    "updated_at": 1668593609,
+    "download_count": 5
+  },
+  {
+    "name": "biaodian",
+    "created_at": 1641284361,
+    "updated_at": 1669132148,
+    "download_count": 62
+  },
+  {
+    "name": "flypy",
+    "created_at": 1652345640,
+    "updated_at": 1652345641,
+    "download_count": 19
+  },
+  {
+    "name": "world-cup",
+    "created_at": 1669037759,
+    "updated_at": 1672900046,
+    "download_count": 884
+  },
+  {
+    "name": "linear-legacy",
+    "created_at": 1634728267,
+    "updated_at": 1658419080,
+    "download_count": 1408
+  },
+  {
+    "name": "commercequest",
+    "created_at": 1695371310,
+    "updated_at": 1696330848,
+    "download_count": 5
+  },
+  {
+    "name": "twitch-chat",
+    "created_at": 1659450508,
+    "updated_at": 1669133780,
+    "download_count": 103
+  },
+  {
+    "name": "smultron",
+    "created_at": 1668075641,
+    "updated_at": 1669133584,
+    "download_count": 11
+  },
+  {
+    "name": "recurly",
+    "created_at": 1658407308,
+    "updated_at": 1660744886,
+    "download_count": 11
+  },
+  {
+    "name": "redis",
+    "created_at": 1665053853,
+    "updated_at": 1665053854,
+    "download_count": 187
+  },
+  {
+    "name": "debank",
+    "created_at": 1641372039,
+    "updated_at": 1641385806,
+    "download_count": 129
+  },
+  {
+    "name": "m3o",
+    "created_at": 1660559249,
+    "updated_at": 1660559249,
+    "download_count": 28
+  },
+  {
+    "name": "retool-documentation",
+    "created_at": 1665176641,
+    "updated_at": 1669133473,
+    "download_count": 40
+  },
+  {
+    "name": "ensk-is",
+    "created_at": 1655453938,
+    "updated_at": 1659633220,
+    "download_count": 16
+  },
+  {
+    "name": "markdown-image-to-html",
+    "created_at": 1689345397,
+    "updated_at": 1690262197,
+    "download_count": 21
+  },
+  {
+    "name": "mixpanel",
+    "created_at": 1678720575,
+    "updated_at": 1678720575,
+    "download_count": 14
+  },
+  {
+    "name": "ramda-documentation",
+    "created_at": 1678222339,
+    "updated_at": 1678222339,
+    "download_count": 14
+  },
+  {
+    "name": "ember-api-documentation",
+    "created_at": 1664880540,
+    "updated_at": 1664880540,
+    "download_count": 10
+  },
+  {
+    "name": "gh-pic",
+    "created_at": 1661750789,
+    "updated_at": 1661750789,
+    "download_count": 74
+  },
+  {
+    "name": "parabol",
+    "created_at": 1651693477,
+    "updated_at": 1651693478,
+    "download_count": 16
+  },
+  {
+    "name": "readwise-to-tana",
+    "created_at": 1676369994,
+    "updated_at": 1685520523,
+    "download_count": 353
+  },
+  {
+    "name": "wrike",
+    "created_at": 1651723339,
+    "updated_at": 1669281761,
+    "download_count": 63
+  },
+  {
+    "name": "monobank",
+    "created_at": 1692774675,
+    "updated_at": 1694762582,
+    "download_count": 13
+  },
+  {
+    "name": "dota-2",
+    "created_at": 1663580714,
+    "updated_at": 1663580715,
+    "download_count": 35
+  },
+  {
+    "name": "migadu",
+    "created_at": 1684842173,
+    "updated_at": 1684842173,
+    "download_count": 14
+  },
+  {
+    "name": "dbtcloud",
+    "created_at": 1649238967,
+    "updated_at": 1649238970,
+    "download_count": 59
+  },
+  {
+    "name": "browser-bookmarks-legacy",
+    "created_at": 1635933717,
+    "updated_at": 1682745072,
+    "download_count": 12264
+  },
+  {
+    "name": "bamboo-self-hosted",
+    "created_at": 1669034103,
+    "updated_at": 1669034104,
+    "download_count": 14
+  },
+  {
+    "name": "storybook-sandboxes",
+    "created_at": 1686123629,
+    "updated_at": 1686123629,
+    "download_count": 27
+  },
+  {
+    "name": "supergenpass",
+    "created_at": 1664879255,
+    "updated_at": 1664879255,
+    "download_count": 32
+  },
+  {
+    "name": "defichain-dobby",
+    "created_at": 1650611966,
+    "updated_at": 1658929368,
+    "download_count": 11
+  },
+  {
+    "name": "paperspace",
+    "created_at": 1664283101,
+    "updated_at": 1664445651,
+    "download_count": 20
+  },
+  {
+    "name": "nts-radio",
+    "created_at": 1684312815,
+    "updated_at": 1684312816,
+    "download_count": 48
+  },
+  {
+    "name": "novu",
+    "created_at": 1666768356,
+    "updated_at": 1669133249,
+    "download_count": 55
+  },
+  {
+    "name": "seedsnote",
+    "created_at": 1687495407,
+    "updated_at": 1687495408,
+    "download_count": 10
+  },
+  {
+    "name": "mailwip",
+    "created_at": 1690291254,
+    "updated_at": 1690291255,
+    "download_count": 8
+  },
+  {
+    "name": "nativebase-docs",
+    "created_at": 1647298976,
+    "updated_at": 1669133222,
+    "download_count": 19
+  },
+  {
+    "name": "git-co-authors",
+    "created_at": 1685605045,
+    "updated_at": 1685605045,
+    "download_count": 14
+  },
+  {
+    "name": "beancount-meta",
+    "created_at": 1676930495,
+    "updated_at": 1676930495,
+    "download_count": 5
+  },
+  {
+    "name": "waktu-solat",
+    "created_at": 1690439590,
+    "updated_at": 1697001869,
+    "download_count": 5
+  },
+  {
+    "name": "primer",
+    "created_at": 1678911220,
+    "updated_at": 1678911221,
+    "download_count": 34
+  },
+  {
+    "name": "office-quotes",
+    "created_at": 1649186464,
+    "updated_at": 1649413562,
+    "download_count": 355
+  },
+  {
+    "name": "contentful",
+    "created_at": 1672981062,
+    "updated_at": 1678177643,
+    "download_count": 27
+  },
+  {
+    "name": "runcloud",
+    "created_at": 1691599224,
+    "updated_at": 1691599224,
+    "download_count": 3
+  },
+  {
+    "name": "nft-search",
+    "created_at": 1661924087,
+    "updated_at": 1669133235,
+    "download_count": 56
+  },
+  {
+    "name": "improvmx",
+    "created_at": 1679477139,
+    "updated_at": 1680087350,
+    "download_count": 82
+  },
+  {
+    "name": "inpost-parcel-lockers",
+    "created_at": 1671512278,
+    "updated_at": 1671658238,
+    "download_count": 6
+  },
+  {
+    "name": "elron",
+    "created_at": 1671144705,
+    "updated_at": 1672993064,
+    "download_count": 5
+  },
+  {
+    "name": "unkey",
+    "created_at": 1692023864,
+    "updated_at": 1692023865,
+    "download_count": 4
+  },
+  {
+    "name": "nsis-reference",
+    "created_at": 1643647678,
+    "updated_at": 1643647678,
+    "download_count": 8
+  },
+  {
+    "name": "cardpointers",
+    "created_at": 1685606791,
+    "updated_at": 1685606793,
+    "download_count": 36
+  },
+  {
+    "name": "akkoma",
+    "created_at": 1682334984,
+    "updated_at": 1683868821,
+    "download_count": 3
+  },
+  {
+    "name": "cpf-cnpj-generator",
+    "created_at": 1645453753,
+    "updated_at": 1669132348,
+    "download_count": 212
+  },
+  {
+    "name": "hatena-bookmark",
+    "created_at": 1670421447,
+    "updated_at": 1670421447,
+    "download_count": 23
+  },
+  {
+    "name": "gerrit-code-review",
+    "created_at": 1684839225,
+    "updated_at": 1688977098,
+    "download_count": 11
+  },
+  {
+    "name": "oss",
+    "created_at": 1646669084,
+    "updated_at": 1646669085,
+    "download_count": 79
+  },
+  {
+    "name": "teamup-rooms",
+    "created_at": 1655478428,
+    "updated_at": 1669133686,
+    "download_count": 7
+  },
+  {
+    "name": "productboard",
+    "created_at": 1638195373,
+    "updated_at": 1669133381,
+    "download_count": 182
+  },
+  {
+    "name": "schoology",
+    "created_at": 1692813753,
+    "updated_at": 1693207434,
+    "download_count": 13
+  },
+  {
+    "name": "designer-news",
+    "created_at": 1645467780,
+    "updated_at": 1669132440,
+    "download_count": 422
+  },
+  {
+    "name": "active-mississaugua",
+    "created_at": 1659537530,
+    "updated_at": 1659537531,
+    "download_count": 6
+  },
+  {
+    "name": "quickfile",
+    "created_at": 1654114212,
+    "updated_at": 1654114213,
+    "download_count": 20
+  },
+  {
+    "name": "heroku",
+    "created_at": 1650299658,
+    "updated_at": 1655877434,
+    "download_count": 263
+  },
+  {
+    "name": "asyncapi",
+    "created_at": 1648567699,
+    "updated_at": 1648567705,
+    "download_count": 79
+  },
+  {
+    "name": "inkdrop",
+    "created_at": 1657004994,
+    "updated_at": 1657004994,
+    "download_count": 99
+  },
+  {
+    "name": "pera-explorer",
+    "created_at": 1666703059,
+    "updated_at": 1666703060,
+    "download_count": 8
+  },
+  {
+    "name": "advice-slip",
+    "created_at": 1670846969,
+    "updated_at": 1670846969,
+    "download_count": 69
+  },
+  {
+    "name": "himalaya",
+    "created_at": 1681891478,
+    "updated_at": 1683113785,
+    "download_count": 13
+  },
+  {
+    "name": "fluent-outdoors",
+    "created_at": 1676289003,
+    "updated_at": 1676357084,
+    "download_count": 3
+  },
+  {
+    "name": "inertiajs-documentation",
+    "created_at": 1642436594,
+    "updated_at": 1642436595,
+    "download_count": 193
+  },
+  {
+    "name": "scrapbox-search",
+    "created_at": 1680249440,
+    "updated_at": 1680249440,
+    "download_count": 27
+  },
+  {
+    "name": "wistia",
+    "created_at": 1641986549,
+    "updated_at": 1641986549,
+    "download_count": 25
+  },
+  {
+    "name": "atomic",
+    "created_at": 1641298984,
+    "updated_at": 1651078060,
+    "download_count": 35
+  },
+  {
+    "name": "resmo",
+    "created_at": 1670333871,
+    "updated_at": 1671125505,
+    "download_count": 15
+  },
+  {
+    "name": "manga-calendar",
+    "created_at": 1692206522,
+    "updated_at": 1694435591,
+    "download_count": 3
+  },
+  {
+    "name": "serverless-framework-docs",
+    "created_at": 1664870300,
+    "updated_at": 1664870301,
+    "download_count": 41
+  },
+  {
+    "name": "spanish-tv-guide",
+    "created_at": 1685692607,
+    "updated_at": 1696328715,
+    "download_count": 9
+  },
+  {
+    "name": "laravel-shift",
+    "created_at": 1681728550,
+    "updated_at": 1681728550,
+    "download_count": 15
+  },
+  {
+    "name": "lunatask",
+    "created_at": 1686559444,
+    "updated_at": 1686559445,
+    "download_count": 29
+  },
+  {
+    "name": "bttv-emote",
+    "created_at": 1643044017,
+    "updated_at": 1654800822,
+    "download_count": 218
+  },
+  {
+    "name": "dollar-blue",
+    "created_at": 1676930880,
+    "updated_at": 1681894169,
+    "download_count": 22
+  },
+  {
+    "name": "deutscherwetterdienst",
+    "created_at": 1663672961,
+    "updated_at": 1669132458,
+    "download_count": 88
+  },
+  {
+    "name": "github-legacy",
+    "created_at": 1635933725,
+    "updated_at": 1671471525,
+    "download_count": 14103
+  },
+  {
+    "name": "readymetrics",
+    "created_at": 1661780480,
+    "updated_at": 1668147036,
+    "download_count": 16
+  },
+  {
+    "name": "bibmanager",
+    "created_at": 1655970361,
+    "updated_at": 1669132167,
+    "download_count": 30
+  },
+  {
+    "name": "raycast-textlint-rule-aws-service-name",
+    "created_at": 1682966388,
+    "updated_at": 1683091933,
+    "download_count": 14
+  },
+  {
+    "name": "gitfox",
+    "created_at": 1645433340,
+    "updated_at": 1691131712,
+    "download_count": 165
+  },
+  {
+    "name": "gather",
+    "created_at": 1657425870,
+    "updated_at": 1669132598,
+    "download_count": 148
+  },
+  {
+    "name": "nippon-colors",
+    "created_at": 1688638994,
+    "updated_at": 1688638995,
+    "download_count": 38
+  },
+  {
+    "name": "directus",
+    "created_at": 1676892183,
+    "updated_at": 1676892183,
+    "download_count": 41
+  },
+  {
+    "name": "zeitraum",
+    "created_at": 1685018051,
+    "updated_at": 1685018051,
+    "download_count": 7
+  },
+  {
+    "name": "bark",
+    "created_at": 1683020884,
+    "updated_at": 1683020884,
+    "download_count": 39
+  },
+  {
+    "name": "spryker-docs",
+    "created_at": 1690364602,
+    "updated_at": 1690364602,
+    "download_count": 9
+  },
+  {
+    "name": "logsnag",
+    "created_at": 1690261283,
+    "updated_at": 1690261285,
+    "download_count": 2
+  },
+  {
+    "name": "xcode-cloud",
+    "created_at": 1681370974,
+    "updated_at": 1681370975,
+    "download_count": 53
+  },
+  {
+    "name": "buildkite",
+    "created_at": 1634832006,
+    "updated_at": 1664445475,
+    "download_count": 224
+  },
+  {
+    "name": "growthbook",
+    "created_at": 1693318255,
+    "updated_at": 1693318255,
+    "download_count": 10
+  },
+  {
+    "name": "jira-legacy",
+    "created_at": 1635951044,
+    "updated_at": 1680102100,
+    "download_count": 12266
+  },
+  {
+    "name": "control-d",
+    "created_at": 1682674804,
+    "updated_at": 1682674804,
+    "download_count": 26
+  },
+  {
+    "name": "linkding",
+    "created_at": 1681471847,
+    "updated_at": 1685682529,
+    "download_count": 47
+  },
+  {
+    "name": "hupu",
+    "created_at": 1685605474,
+    "updated_at": 1685605475,
+    "download_count": 17
+  },
+  {
+    "name": "decentraland",
+    "created_at": 1690794250,
+    "updated_at": 1690794251,
+    "download_count": 1
+  },
+  {
+    "name": "hiit",
+    "created_at": 1676322156,
+    "updated_at": 1676369730,
+    "download_count": 28
+  },
+  {
+    "name": "iridium",
+    "created_at": 1671566350,
+    "updated_at": 1674542223,
+    "download_count": 9
+  },
+  {
+    "name": "defiscan",
+    "created_at": 1650612437,
+    "updated_at": 1650615681,
+    "download_count": 35
+  },
+  {
+    "name": "omni-news",
+    "created_at": 1677046143,
+    "updated_at": 1677046143,
+    "download_count": 17
+  },
+  {
+    "name": "oss-browser",
+    "created_at": 1661753522,
+    "updated_at": 1669726744,
+    "download_count": 48
+  },
+  {
+    "name": "dekudeals",
+    "created_at": 1656923627,
+    "updated_at": 1675141071,
+    "download_count": 45
+  },
+  {
+    "name": "ulid",
+    "created_at": 1689856853,
+    "updated_at": 1689856854,
+    "download_count": 14
+  },
+  {
+    "name": "kinopoisk",
+    "created_at": 1637852489,
+    "updated_at": 1641386069,
+    "download_count": 323
+  },
+  {
+    "name": "miniflux",
+    "created_at": 1682416369,
+    "updated_at": 1683868680,
+    "download_count": 21
+  },
+  {
+    "name": "raycast-timeular",
+    "created_at": 1642970047,
+    "updated_at": 1678115763,
+    "download_count": 196
+  },
+  {
+    "name": "descript-to-youtube-chapters",
+    "created_at": 1675693275,
+    "updated_at": 1675700149,
+    "download_count": 63
+  },
+  {
+    "name": "axios-docs",
+    "created_at": 1668149136,
+    "updated_at": 1668149136,
+    "download_count": 54
+  },
+  {
+    "name": "dev-to",
+    "created_at": 1665574926,
+    "updated_at": 1665574926,
+    "download_count": 167
+  },
+  {
+    "name": "humaans",
+    "created_at": 1677154200,
+    "updated_at": 1677154200,
+    "download_count": 14
+  },
+  {
+    "name": "spoiler-converter",
+    "created_at": 1692252923,
+    "updated_at": 1692695766,
+    "download_count": 22
+  },
+  {
+    "name": "infakt",
+    "created_at": 1680094486,
+    "updated_at": 1690365073,
+    "download_count": 4
+  },
+  {
+    "name": "inspire-search",
+    "created_at": 1690197758,
+    "updated_at": 1690794645,
+    "download_count": 12
+  },
+  {
+    "name": "foundry-cast-cli",
+    "created_at": 1688020832,
+    "updated_at": 1688020836,
+    "download_count": 23
+  },
+  {
+    "name": "fathom-analytics",
+    "created_at": 1656057637,
+    "updated_at": 1664865820,
+    "download_count": 62
+  },
+  {
+    "name": "knowwa",
+    "created_at": 1675765506,
+    "updated_at": 1682453262,
+    "download_count": 7
+  },
+  {
+    "name": "bazinga-tools",
+    "created_at": 1644217030,
+    "updated_at": 1668669959,
+    "download_count": 163
+  },
+  {
+    "name": "disney",
+    "created_at": 1680238883,
+    "updated_at": 1680238884,
+    "download_count": 44
+  },
+  {
+    "name": "markdown-blog",
+    "created_at": 1667333812,
+    "updated_at": 1667333812,
+    "download_count": 75
+  },
+  {
+    "name": "jira2git",
+    "created_at": 1667478758,
+    "updated_at": 1667478759,
+    "download_count": 114
+  },
+  {
+    "name": "raycast-link-lock",
+    "created_at": 1692126167,
+    "updated_at": 1692126167,
+    "download_count": 37
+  },
+  {
+    "name": "neodb",
+    "created_at": 1687181781,
+    "updated_at": 1691562297,
+    "download_count": 6
+  },
+  {
+    "name": "esse-actions",
+    "created_at": 1666801622,
+    "updated_at": 1666801622,
+    "download_count": 76
+  },
+  {
+    "name": "cc0-lib",
+    "created_at": 1690874464,
+    "updated_at": 1690874464,
+    "download_count": 9
+  },
+  {
+    "name": "choose-a-license",
+    "created_at": 1650809352,
+    "updated_at": 1650809356,
+    "download_count": 317
+  },
+  {
+    "name": "chatwork-search",
+    "created_at": 1674044162,
+    "updated_at": 1687385871,
+    "download_count": 32
+  },
+  {
+    "name": "geist-ui-components",
+    "created_at": 1666684860,
+    "updated_at": 1666684860,
+    "download_count": 11
+  },
+  {
+    "name": "ploi",
+    "created_at": 1642150899,
+    "updated_at": 1671128761,
+    "download_count": 212
+  },
+  {
+    "name": "simplebackups",
+    "created_at": 1664525966,
+    "updated_at": 1669133515,
+    "download_count": 17
+  },
+  {
+    "name": "lenscast",
+    "created_at": 1664396157,
+    "updated_at": 1664396157,
+    "download_count": 42
+  },
+  {
+    "name": "risk-reward-calculator",
+    "created_at": 1684840492,
+    "updated_at": 1684840492,
+    "download_count": 24
+  },
+  {
+    "name": "alpinejs",
+    "created_at": 1657599104,
+    "updated_at": 1657599104,
+    "download_count": 218
+  },
+  {
+    "name": "google-workspace-legacy",
+    "created_at": 1635933732,
+    "updated_at": 1659607597,
+    "download_count": 3284
+  },
+  {
+    "name": "bitfinex",
+    "created_at": 1657891643,
+    "updated_at": 1675154003,
+    "download_count": 9
+  },
+  {
+    "name": "lemmy",
+    "created_at": 1686869828,
+    "updated_at": 1686869829,
+    "download_count": 24
+  },
+  {
+    "name": "pagerduty",
+    "created_at": 1663152106,
+    "updated_at": 1663152107,
+    "download_count": 100
+  },
+  {
+    "name": "fantasy-premier-league-rankings",
+    "created_at": 1674585435,
+    "updated_at": 1674585436,
+    "download_count": 30
+  },
+  {
+    "name": "pitchfork",
+    "created_at": 1684848550,
+    "updated_at": 1684848550,
+    "download_count": 37
+  },
+  {
+    "name": "initium",
+    "created_at": 1670406182,
+    "updated_at": 1670406183,
+    "download_count": 22
+  },
+  {
+    "name": "mayar",
+    "created_at": 1676551632,
+    "updated_at": 1676898393,
+    "download_count": 5
+  },
+  {
+    "name": "aimlab",
+    "created_at": 1688567075,
+    "updated_at": 1694151085,
+    "download_count": 4
+  },
+  {
+    "name": "purelymail",
+    "created_at": 1681389972,
+    "updated_at": 1681389972,
+    "download_count": 3
+  },
+  {
+    "name": "wakatime",
+    "created_at": 1651690415,
+    "updated_at": 1676885120,
+    "download_count": 482
+  },
+  {
+    "name": "asana-legacy",
+    "created_at": 1635931420,
+    "updated_at": 1664370281,
+    "download_count": 1309
+  },
+  {
+    "name": "hostloc",
+    "created_at": 1655209621,
+    "updated_at": 1655209621,
+    "download_count": 17
+  },
+  {
+    "name": "gg-deals",
+    "created_at": 1687951023,
+    "updated_at": 1687951024,
+    "download_count": 17
+  },
+  {
+    "name": "search-with-algolia",
+    "created_at": 1639156387,
+    "updated_at": 1641385522,
+    "download_count": 239
+  },
+  {
+    "name": "multipass",
+    "created_at": 1663670536,
+    "updated_at": 1663670536,
+    "download_count": 54
+  },
+  {
+    "name": "coinbase-pro",
+    "created_at": 1637051596,
+    "updated_at": 1659338271,
+    "download_count": 253
+  },
+  {
+    "name": "kafka",
+    "created_at": 1678789426,
+    "updated_at": 1684315288,
+    "download_count": 39
+  },
+  {
+    "name": "greip",
+    "created_at": 1670917434,
+    "updated_at": 1670917434,
+    "download_count": 8
+  },
+  {
+    "name": "capture",
+    "created_at": 1659552264,
+    "updated_at": 1671046368,
+    "download_count": 199
+  },
+  {
+    "name": "searchcaster",
+    "created_at": 1662545126,
+    "updated_at": 1688458997,
+    "download_count": 84
+  },
+  {
+    "name": "dicom",
+    "created_at": 1658913208,
+    "updated_at": 1669132479,
+    "download_count": 20
+  },
+  {
+    "name": "storytime",
+    "created_at": 1672996606,
+    "updated_at": 1672996606,
+    "download_count": 191
+  },
+  {
+    "name": "liveblocks",
+    "created_at": 1651659595,
+    "updated_at": 1651660418,
+    "download_count": 16
+  },
+  {
+    "name": "tuple",
+    "created_at": 1637570947,
+    "updated_at": 1641386531,
+    "download_count": 320
+  },
+  {
+    "name": "roblox-games",
+    "created_at": 1645141605,
+    "updated_at": 1645141605,
+    "download_count": 89
+  },
+  {
+    "name": "doccheck",
+    "created_at": 1681846347,
+    "updated_at": 1693901812,
+    "download_count": 12
+  },
+  {
+    "name": "cinemas-nos",
+    "created_at": 1691990606,
+    "updated_at": 1691990607,
+    "download_count": 8
+  },
+  {
+    "name": "ohdear",
+    "created_at": 1661938360,
+    "updated_at": 1671443257,
+    "download_count": 81
+  },
+  {
+    "name": "worktrees",
+    "created_at": 1688709007,
+    "updated_at": 1689769271,
+    "download_count": 29
+  },
+  {
+    "name": "circle-ci",
+    "created_at": 1639031104,
+    "updated_at": 1681458327,
+    "download_count": 519
+  },
+  {
+    "name": "ones",
+    "created_at": 1641850523,
+    "updated_at": 1664194086,
+    "download_count": 22
+  },
+  {
+    "name": "search-clojuredocs",
+    "created_at": 1664882897,
+    "updated_at": 1678958959,
+    "download_count": 44
+  },
+  {
+    "name": "google-maven-repository",
+    "created_at": 1650873791,
+    "updated_at": 1669132738,
+    "download_count": 96
+  },
+  {
+    "name": "graphcdn",
+    "created_at": 1643022350,
+    "updated_at": 1643022350,
+    "download_count": 17
+  },
+  {
+    "name": "hellonext-changelogs",
+    "created_at": 1651573740,
+    "updated_at": 1669132781,
+    "download_count": 12
+  },
+  {
+    "name": "denmarks-address-web-api",
+    "created_at": 1670319388,
+    "updated_at": 1670319389,
+    "download_count": 10
+  },
+  {
+    "name": "stockholm-public-transport",
+    "created_at": 1682409420,
+    "updated_at": 1682409421,
+    "download_count": 24
+  },
+  {
+    "name": "emissions-calculator",
+    "created_at": 1680003976,
+    "updated_at": 1680003976,
+    "download_count": 36
+  },
+  {
+    "name": "blockchain-gas-tracker",
+    "created_at": 1682967197,
+    "updated_at": 1682967197,
+    "download_count": 65
+  },
+  {
+    "name": "raycast-wemo",
+    "created_at": 1678222929,
+    "updated_at": 1678222930,
+    "download_count": 16
+  },
+  {
+    "name": "laracasts",
+    "created_at": 1646660144,
+    "updated_at": 1646660144,
+    "download_count": 209
+  },
+  {
+    "name": "bugmenot",
+    "created_at": 1634658063,
+    "updated_at": 1669132224,
+    "download_count": 714
+  },
+  {
+    "name": "nmbs-planner",
+    "created_at": 1678788438,
+    "updated_at": 1678788438,
+    "download_count": 8
+  },
+  {
+    "name": "tc-no-generator",
+    "created_at": 1665726238,
+    "updated_at": 1665726238,
+    "download_count": 28
+  },
+  {
+    "name": "lightshot-gallery",
+    "created_at": 1679399798,
+    "updated_at": 1679399798,
+    "download_count": 10
+  },
+  {
+    "name": "update-clash-subscription",
+    "created_at": 1676469469,
+    "updated_at": 1676469470,
+    "download_count": 65
+  },
+  {
+    "name": "gitee",
+    "created_at": 1652101038,
+    "updated_at": 1669800352,
+    "download_count": 66
+  },
+  {
+    "name": "pipedrive",
+    "created_at": 1639395509,
+    "updated_at": 1641386183,
+    "download_count": 163
+  },
+  {
+    "name": "performance-hud",
+    "created_at": 1686208382,
+    "updated_at": 1686208382,
+    "download_count": 120
+  },
+  {
+    "name": "scaleway",
+    "created_at": 1668543072,
+    "updated_at": 1698145968,
+    "download_count": 37
+  },
+  {
+    "name": "habr-media",
+    "created_at": 1689862735,
+    "updated_at": 1690784825,
+    "download_count": 12
+  },
+  {
+    "name": "nuget",
+    "created_at": 1657713652,
+    "updated_at": 1657713652,
+    "download_count": 54
+  },
+  {
+    "name": "center",
+    "created_at": 1683876449,
+    "updated_at": 1683876450,
+    "download_count": 13
+  },
+  {
+    "name": "dbt-documentation",
+    "created_at": 1657889413,
+    "updated_at": 1658430208,
+    "download_count": 97
+  },
+  {
+    "name": "web-audit",
+    "created_at": 1677821404,
+    "updated_at": 1678686653,
+    "download_count": 1096
+  },
+  {
+    "name": "rsync-commands",
+    "created_at": 1652965164,
+    "updated_at": 1653394482,
+    "download_count": 278
+  },
+  {
+    "name": "hyper-focus",
+    "created_at": 1674029859,
+    "updated_at": 1686655504,
+    "download_count": 85
+  },
+  {
+    "name": "zendesk",
+    "created_at": 1669665224,
+    "updated_at": 1672734036,
+    "download_count": 68
+  },
+  {
+    "name": "cache-control-builder",
+    "created_at": 1648115741,
+    "updated_at": 1648115747,
+    "download_count": 134
+  },
+  {
+    "name": "webkit-developer-docs",
+    "created_at": 1684151335,
+    "updated_at": 1684151336,
+    "download_count": 23
+  },
+  {
+    "name": "mldocs",
+    "created_at": 1638690096,
+    "updated_at": 1641386119,
+    "download_count": 331
+  },
+  {
+    "name": "teamgantt",
+    "created_at": 1663696059,
+    "updated_at": 1684745000,
+    "download_count": 11
+  },
+  {
+    "name": "tim",
+    "created_at": 1662461965,
+    "updated_at": 1678051242,
+    "download_count": 127
+  },
+  {
+    "name": "rescuetime-focus-session-trigger",
+    "created_at": 1649391561,
+    "updated_at": 1649391561,
+    "download_count": 166
+  },
+  {
+    "name": "charged",
+    "created_at": 1684826041,
+    "updated_at": 1693823656,
+    "download_count": 54
+  },
+  {
+    "name": "cran-e-search",
+    "created_at": 1677047927,
+    "updated_at": 1677047927,
+    "download_count": 17
+  },
+  {
+    "name": "websocket-debugging",
+    "created_at": 1676148980,
+    "updated_at": 1676148981,
+    "download_count": 29
+  },
+  {
+    "name": "savvycal",
+    "created_at": 1663658804,
+    "updated_at": 1678708949,
+    "download_count": 84
+  },
+  {
+    "name": "vc-ru-news",
+    "created_at": 1690434212,
+    "updated_at": 1690784977,
+    "download_count": 16
+  },
+  {
+    "name": "scrcpy",
+    "created_at": 1678359309,
+    "updated_at": 1693394227,
+    "download_count": 206
+  },
+  {
+    "name": "salesforce",
+    "created_at": 1665726844,
+    "updated_at": 1666278613,
+    "download_count": 234
+  },
+  {
+    "name": "toggle-scroll-bars-visibility",
+    "created_at": 1692702300,
+    "updated_at": 1693817306,
+    "download_count": 53
+  },
+  {
+    "name": "groq-tools",
+    "created_at": 1695374029,
+    "updated_at": 1695374029,
+    "download_count": 8
+  },
+  {
+    "name": "solana-explorer",
+    "created_at": 1644567955,
+    "updated_at": 1675775832,
+    "download_count": 93
+  },
+  {
+    "name": "surfs-up",
+    "created_at": 1684830551,
+    "updated_at": 1684830551,
+    "download_count": 25
+  },
+  {
+    "name": "cosmic-bookmarks",
+    "created_at": 1688479174,
+    "updated_at": 1688545031,
+    "download_count": 7
+  },
+  {
+    "name": "envato",
+    "created_at": 1635443952,
+    "updated_at": 1698181362,
+    "download_count": 51
+  }
+]
